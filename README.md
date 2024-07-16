@@ -32,6 +32,6 @@ Age-Gender-Party-Template-Kansas-statewide.html
 
 # Active-Inactive
 
-![alt text](4-Kansas-Active-Inactive-2024-06-24.PNG "Kansas: Percent 'Inactive' Voters by County"
+![alt text](4-Kansas-Active-Inactive-2024-06-24.PNG "Kansas: Percent 'Inactive' Voters by County")
 
 
