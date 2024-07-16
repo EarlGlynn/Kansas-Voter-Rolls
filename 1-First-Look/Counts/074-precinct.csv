@@ -1,0 +1,4079 @@
+precinct,Count
+Allen|Bassett City|1B,22
+Allen|Carlyle Twp|A1,230
+Allen|Cottage Grove Twp|A2,165
+Allen|Deer Creek Twp|A3,90
+Allen|East Elm Twp|A4,133
+Allen|Elsmore City|2E,41
+Allen|Gas City|3G,328
+Allen|Geneva Twp|A6,100
+Allen|Humboldt City|4H,1297
+Allen|Humboldt Twp|A7,208
+Allen|Iola City|5I,3561
+Allen|LaHarpe City|6L,309
+Allen|Logan Twp|A9,154
+Allen|Marmaton Twp|B1,213
+Allen|Moran City|8M,314
+Allen|North Elsmore Twp|A5,92
+Allen|North Iola Twp|A8,196
+Allen|Osage Twp|B2,194
+Allen|Salem Twp|B3,181
+Allen|Savonburg City|9S,58
+Allen|South Elsmore Twp|C5,64
+Allen|South Iola Twp|C8,402
+Allen|West Elm Twp|C4,403
+Anderson|Colony City|1101,291
+Anderson|Garnett City Prec. 1|2201,812
+Anderson|Garnett City Prec. 2|2202,695
+Anderson|Garnett City Prec. 3|2203,625
+Anderson|Garnett City Prec. 4|2204,194
+Anderson|Greeley City|3301,189
+Anderson|Indian Creek Twp|IN800,103
+Anderson|Jackson Twp|JA900,329
+Anderson|Kincaid City|5501,91
+Anderson|Lincoln Twp|LIA00,163
+Anderson|Lone Elm City|6601,17
+Anderson|Lone Elm Twp|LO602,173
+Anderson|Monroe Twp|MOB00,259
+Anderson|Ozark Twp|OZ102,118
+Anderson|Putnam Twp|PUD00,217
+Anderson|Reeder Twp|RE402,208
+Anderson|Rich Twp|RI502,203
+Anderson|Walker Twp|WA302,286
+Anderson|Washington Twp|WSF00,212
+Anderson|Welda Twp|WEG00,218
+Anderson|Westphalia City|7701,91
+Anderson|Westphalia Twp|WT702,138
+Atchison|Benton 2|A1,172
+Atchison|Benton|A1063,162
+Atchison|Center|A2,442
+Atchison|East Second|120003,548
+Atchison|East Third|130003,1113
+Atchison|Effingham City|2,329
+Atchison|Grasshopper|A3,266
+Atchison|Huron City|3,45
+Atchison|Huron|A500009,118
+Atchison|Kapioma|A4,190
+Atchison|Lancaster City|4,191
+Atchison|Lancaster|A50001,249
+Atchison|Mt. Pleasant|A6,726
+Atchison|Muscotah City|5,111
+Atchison|North Fifth|150001,1142
+Atchison|Only First|11,554
+Atchison|Only Fourth|14,805
+Atchison|Shannon|A7,995
+Atchison|South Fifth|150002,664
+Atchison|Walnut Enclave|A800011,6
+Atchison|Walnut|A8,366
+Atchison|West Second|120004,798
+Atchison|West Third|130004,1618
+Barber|Aetna Township Prct1|001,7
+Barber|Deerhead Township Prct2|002,9
+Barber|Eagle Township Prct 3|003,26
+Barber|Elm Mills Township Prct4|004,103
+Barber|Elwood Township Prct5|005,135
+Barber|Hazelton Township Prct6|006,90
+Barber|Kiowa East Townshp Prct7|007,405
+Barber|Kiowa West Townshp Prct8|008,272
+Barber|Lake City Township Prct9|009,57
+Barber|Mcadoo Township Prct10|010,18
+Barber|Med Lodge Five Prct15|015,42
+Barber|Med Lodge Four Prct14|014,170
+Barber|Med Lodge One Prct11|011,443
+Barber|Med Lodge Three Prct13|013,269
+Barber|Med Lodge Two Prct12|012,370
+Barber|Mingona Township Prct16|016,62
+Barber|Moore Township Prct17|017,48
+Barber|Sharon Township Prct20|020,232
+Barber|Sun City Township Prct21|021,42
+Barber|Turkey Creek Twp Prct22|022,13
+Barber|Valley Township Prct23|023,96
+Barton|Albion Twp|17,37
+Barton|Beaver Twp|18,66
+Barton|Buffalo Twp|19,310
+Barton|Cheyenne Twp|20,143
+Barton|Clarence Twp|21,92
+Barton|Cleveland Twp|22,34
+Barton|Comanche Twp|23,312
+Barton|Eureka Twp|24,72
+Barton|Fairview Twp|25,73
+"Barton|GBC-P1,W1|01",572
+"Barton|GBC-P1,W2|04",955
+"Barton|GBC-P1,W3|07",705
+"Barton|GBC-P1,W4|10",701
+"Barton|GBC-P2,W1|02",885
+"Barton|GBC-P2,W2|05",850
+"Barton|GBC-P2,W3|08",787
+"Barton|GBC-P2,W4|11",611
+"Barton|GBC-P3,W1|03",623
+"Barton|GBC-P3,W2|06",870
+"Barton|GBC-P3,W3|09",840
+"Barton|GBC-P3,W4|12",296
+Barton|Grant Twp|26,42
+Barton|Great Bend Twp A|27,951
+Barton|Great Bend Twp B|28,147
+Barton|Hois- Ward 4|16,430
+Barton|Hois - Ward 1|13,474
+Barton|Hois - Ward 2|14,470
+Barton|Hois - Ward 3|15,417
+Barton|Independent Twp|31,569
+Barton|Lakin Twp A|32,1469
+Barton|Lakin Twp B|33,62
+Barton|Liberty Twp|34,178
+Barton|Logan Twp|35,115
+Barton|North Homestead Twp|29,93
+Barton|Pawnee Rock|36,239
+Barton|South Bend Twp|37,421
+Barton|South Homestead Twp|30,259
+Barton|Union Twp|38,69
+Barton|Walnut-Albert Twp|39,154
+Barton|Walnut-Olmitz Twp|40,120
+Barton|Wheatland Twp|41,42
+Bourbon|1st Ward Exclave Colonial|FS01B,15
+Bourbon|1st Ward Exclave Halls|FS01C,20
+Bourbon|Bronson City|BRW000,195
+Bourbon|Drywood Township|DR0000,316
+Bourbon|East Marion Township|MAE000,306
+Bourbon|Fort Scott 1st Ward|FS01,967
+Bourbon|Fort Scott 2nd Ward|FS02,889
+Bourbon|Fort Scott 3rd Ward|FS03,393
+Bourbon|Fort Scott 4th Ward|FS04,793
+Bourbon|Fort Scott 5th Ward|FS05,812
+Bourbon|Fort Scott 6th Ward|FS06,2063
+Bourbon|Fort Scott 7th Ward|FS07,1014
+Bourbon|Franklin Township|FR0000,252
+Bourbon|Freedom Township|FE0000,237
+Bourbon|Fulton City|FU0000,108
+Bourbon|Mapleton City|MP0000,72
+Bourbon|Marmaton Township|MN0000,518
+Bourbon|Millcreek Township|MC0000,406
+Bourbon|Northeast Scott Township|SCNE000,363
+Bourbon|Northwest Scott Township|SCNW000,501
+Bourbon|Osage Township|OS0000,295
+Bourbon|Pawnee Township|PA0000,267
+Bourbon|Redfield City|RE0000,86
+Bourbon|South Scott Township|SS0000,1077
+Bourbon|Timberhill Township|TH0000,122
+Bourbon|Uniontown City|UNE000,196
+Bourbon|Walnut Township|WA0000,89
+Bourbon|West Marion Township|MAW000,106
+Brown|Everest City|7E0018,182
+Brown|Fairview City|5F0016,151
+Brown|Hamlin City|9H001D,23
+"Brown|Hamlin Twp, Hamlin|HA002D",88
+"Brown|Hamlin Twp, Reserve|HA0024",67
+Brown|Hiawatha - Ward 1|1H0011,336
+Brown|Hiawatha - Ward 2|1H0021,904
+Brown|Hiawatha - Ward 3|1H0031,768
+Brown|Hiawatha - Ward 4|1H0041,164
+Brown|Hiawatha Twp|HI000C,453
+Brown|Horton - Ward 1|2H0012,447
+Brown|Horton - Ward 2|2H0022,355
+Brown|Horton - Ward 3|2H0032,257
+Brown|Irving Twp|IR000B,224
+Brown|Mission Twp|MI0029,388
+Brown|Morrill City|4M0015,140
+Brown|Morrill Twp|MO0025,182
+Brown|Padonia Twp|PA0013,145
+Brown|Powhattan City|9P001A,42
+Brown|Powhattan Twp|PO002A,465
+"Brown|Reserve City, Hamlin|3R0014",53
+Brown|Robinson City|6R0017,137
+Brown|Robinson Twp|RO0027,134
+"Brown|Sabetha City, Morrill Twp|100035",5
+Brown|Walnut Twp|WA0026,263
+Brown|Washington Twp|WS0028,158
+Brown|Willis City|8W0019,22
+Butler|Andover W1|61,5644
+Butler|Andover W2|62,3261
+Butler|Andover W3 77|71,164
+Butler|Andover W3 88|70,698
+Butler|Andover W3 Exc C|66,161
+Butler|Andover W3|63,915
+Butler|Andover W4|64,262
+Butler|Augusta City W1|12,1651
+Butler|Augusta City W2|13,1180
+Butler|Augusta City W3|14,1795
+Butler|Augusta City W4|15,1624
+Butler|Augusta Twp - 14|52,281
+Butler|Augusta Twp - 32|30,717
+Butler|Augusta Twp 32 A|120,11
+Butler|Augusta Twp 32 B|121,3
+Butler|Benton City 75|75,633
+Butler|Benton City 85|76,88
+Butler|Benton Twp 75|77,866
+Butler|Benton Twp 85|78,286
+Butler|Bloomington Twp|31,380
+Butler|Bruno Twp North - 77 B|90,95
+Butler|Bruno Twp North - 77 C|91,42
+Butler|Bruno Twp North - 77|53,891
+Butler|Bruno Twp North - 99|32,296
+Butler|Bruno Twp South - 77|56,408
+Butler|Bruno Twp South - 88|72,6
+Butler|Cassoday/Sycamore Twp|22,213
+Butler|Chelsea Twp|33,198
+Butler|Clay Twp|34,54
+Butler|Clifford Twp|35,125
+Butler|Douglass City/Twp|23,1260
+Butler|Douglass Twp 32|80,126
+Butler|El Dorado Twp East|54,130
+Butler|El Dorado Twp West B|96,2
+Butler|El Dorado Twp West|36,400
+Butler|El Dorado W1|57,2561
+Butler|El Dorado W2|58,3514
+Butler|El Dorado W3|59,657
+Butler|El Dorado W4 A|93,36
+Butler|El Dorado W4|60,1634
+Butler|Elbing City/Fairmount Twp|24,373
+Butler|Fairview Twp|37,390
+Butler|Glencoe Twp|38,145
+Butler|Hickory Twp|39,70
+Butler|Latham/Union|25,100
+Butler|Leon/Little Walnut|26,665
+Butler|Lincoln Twp|40,214
+Butler|Logan Twp|41,87
+Butler|Milton Twp - 75|51,278
+Butler|Murdock Twp A|102,7
+Butler|Murdock Twp|42,305
+Butler|Pleasant Twp - 77 A|103,4
+Butler|Pleasant Twp - 77|43,1784
+Butler|Pleasant Twp - 88|73,121
+Butler|Pleasant Twp N 77|74,11
+Butler|Potwin/Plum Grove|27,412
+Butler|Prospect Twp|44,871
+Butler|Richland Twp A|107,2
+Butler|Richland Twp|45,857
+Butler|Rock Creek Twp|46,248
+Butler|Rosalia Twp|47,432
+Butler|Rose Hill City-Rockwood Falls|69,52
+Butler|Rose Hill City-Sienna|65,308
+Butler|Rose Hill City|20,2696
+Butler|Spring Twp|48,1143
+Butler|Sycamore Twp A|111,3
+Butler|Sycamore Twp B|112,4
+Butler|Towanda City/Towanda Twp|28,1924
+Butler|Towanda Twp A|116,2
+Butler|Towanda Twp C|118,3
+Butler|Walnut Twp 12|79,250
+Butler|Walnut Twp 77|49,323
+Butler|Whitewater/Milton - 72|29,517
+Chase|Bazaar|01,68
+Chase|Cedar Point|03,13
+Chase|Cedar|02,55
+Chase|Cottonwood|04,95
+Chase|Diamond|05,126
+Chase|East Cottonwood Falls|06,207
+Chase|East Falls|07,97
+Chase|East Strong City|10,256
+Chase|East Strong|09,102
+Chase|Elmdale|08,26
+Chase|Homestead|11,37
+Chase|Matfield Green|12,42
+Chase|Matfield|13,50
+Chase|Toledo|14,236
+Chase|West Cottonwood Falls|15,294
+Chase|West Falls|16,69
+Chase|West Strong City|18,45
+Chase|West Strong|17,20
+Chautauqua|Belleville-Chautauqua|BE202,187
+Chautauqua|Belleville-Peru|BE502,206
+Chautauqua|Caneyville|CA700,60
+Chautauqua|Center|CE800,54
+Chautauqua|Harrison|HA900,58
+Chautauqua|Hendricks|HE302,80
+Chautauqua|Jefferson|JE102,414
+Chautauqua|Lafayette|LAA00,40
+Chautauqua|Little Caney|LC402,250
+Chautauqua|North Sedan|SE603,558
+Chautauqua|Salt Creek|SCB00,83
+Chautauqua|South Sedan|SE604,403
+Chautauqua|Summit|SUC00,68
+Chautauqua|Washington|WAD00,64
+Cherokee|VTD 000010 - Baxter Springs W1|01A,593
+Cherokee|VTD 000020 - Baxter Springs W2|01B,616
+Cherokee|VTD 000030 - Baxter Springs W3|01C,1111
+Cherokee|VTD 00004A - Baxter Springs W4|01D,784
+Cherokee|VTD 000050 - Cherokee|A2,264
+Cherokee|VTD 000060 - Columbus W1|02A,359
+Cherokee|VTD 000070 - Columbus W2|02B,508
+Cherokee|VTD 000080 - Columbus W3|02C,444
+Cherokee|VTD 000090 - Columbus W4|02D,437
+Cherokee|VTD 00010A - Columbus W5|02E,397
+Cherokee|VTD 000110 - Crawford|B3,484
+Cherokee|VTD 000120 - Galena W1|03A,578
+Cherokee|VTD 00013A - Galena W2|03B,454
+Cherokee|VTD 000140 - Galena W3|03C,673
+Cherokee|VTD 00015A - Galena W4|03D,407
+Cherokee|VTD 000170 - Garden / Lowell|C2a,1639
+Cherokee|VTD 00018A - Garden / St Mines|C2b,542
+Cherokee|VTD 000190 - Lola|B1,226
+Cherokee|VTD 000200 - Lowell|C1,534
+Cherokee|VTD 000210 - Lyon / Lyon|C4a,260
+Cherokee|VTD 000220 - Mineral|A3,149
+Cherokee|VTD 000230 - Neosho / Faulkner|C5a,77
+Cherokee|VTD 000240 - Neosho / Melrose|C5b,118
+Cherokee|VTD 000250 - Pleasant View|A1,430
+Cherokee|VTD 000270 - Ross / Belleview|A4a,134
+Cherokee|VTD 000280 - Ross / Roseland|A4b,176
+Cherokee|VTD 000290 - Ross / W Mineral|A4c,185
+Cherokee|VTD 00030A - Salamanca|B2,420
+Cherokee|VTD 000310 - Scammon W1|05A,81
+Cherokee|VTD 000320 - Scammon W2|05B,110
+Cherokee|VTD 000330 - Scammon W3|05C,108
+Cherokee|VTD 000340 - Shawnee|B4,385
+Cherokee|VTD 000350 - Sheridan|A5,153
+Cherokee|VTD 000360 - Sp Vly / Neutral|C3a,496
+Cherokee|VTD 00037A - Sp Vly / Sp Vly|C3b,371
+Cherokee|VTD 180010 - Weir City|07D,428
+Cheyenne|Benkelman Twp|3,31
+Cheyenne|Bird City|1,478
+Cheyenne|Calhoun Twp|4,40
+Cheyenne|Cleveland Run Twp|6,40
+Cheyenne|Jaqua Twp|7,13
+Cheyenne|Orlando Twp|8,44
+Cheyenne|St Francis|2,1367
+Clark|Appleton|01,639
+Clark|Center 1|02,427
+Clark|Center 2|03,294
+Clark|Englewood|04,99
+Clark|Lexington|05,33
+Clark|Liberty|06,25
+Clark|Sitka|07,39
+Clay|Athelstane|11,76
+Clay|Blaine|12,197
+Clay|Bloom|13,97
+Clay|Chapman|14,73
+Clay|Clay Center City W1|30,774
+Clay|Clay Center City W2|31,830
+Clay|Clay Center City W3|32,667
+Clay|Clay Center City W4|33,588
+Clay|Clay Center Twp|15,293
+Clay|Clifton|02,139
+Clay|Exeter|16,61
+Clay|Five Creeks|17,94
+Clay|Garfield|18,72
+Clay|Gill|19,99
+Clay|Goshen|20,38
+Clay|Grant|21,142
+Clay|Green|03,93
+Clay|Hayes|22,150
+Clay|Highland|23,112
+Clay|Longford|04,62
+Clay|Morganville|05,132
+Clay|Mulberry|24,29
+Clay|Oak Hill|06,20
+Clay|Oakland|25,52
+Clay|Republican|26,126
+Clay|Sherman|27,53
+Clay|Union|28,106
+Clay|Vining|07,25
+Clay|Wakefield|08,615
+Cloud|Arion|02,75
+Cloud|Aurora / Aurora City|03,86
+Cloud|Buffalo|04,72
+Cloud|Clyde City / Elk|07,543
+Cloud|Colfax|06,25
+Cloud|Concordia Wd1|01,513
+Cloud|Concordia Wd2 Pct1|22,618
+Cloud|Concordia Wd2 Pct2|23,656
+Cloud|Concordia Wd3|24,939
+Cloud|Concordia Wd4|25,449
+Cloud|E. Center|05A,82
+Cloud|E. Sibley|18A,63
+Cloud|E.Meredith|13,39
+Cloud|East Lincoln 107|11A,26
+Cloud|East Lincoln 64|11,149
+Cloud|Glasco City / Solomon|19,335
+Cloud|Grant / Jamestown City|08,223
+Cloud|Lyon|12,71
+Cloud|Miltonvale City / Starr|20,367
+Cloud|N.Lawrence|09,50
+Cloud|Nelson|15,95
+Cloud|Oakland|16,30
+Cloud|S.Lawrence|10,47
+Cloud|Shirley|17,101
+Cloud|Summit|21,39
+Cloud|W. Center|05,78
+Cloud|W. Sibley|18,68
+Cloud|W.Meredith|14,13
+Cloud|West Lincoln|26,127
+Coffey|Avon Twp.|07,131
+Coffey|Burlington City|01,1678
+Coffey|Burlington Twp.|08,308
+"Coffey|Burlington Ward 2, CC Hts.|21",73
+"Coffey|Burlington Ward 2, Exclave 2|22",6
+Coffey|Gridley City|02,220
+Coffey|Hampden Twp.|09,118
+Coffey|Key West Twp.|10,205
+Coffey|Lebo City|03,641
+Coffey|LeRoy City|04,382
+Coffey|LeRoy Twp.|13,76
+Coffey|Liberty Twp.|11,177
+Coffey|Lincoln Twp.|12,287
+Coffey|Neosho Twp.|14,85
+Coffey|New Strawn City|06,331
+Coffey|Ottumwa Twp.|15,236
+Coffey|Pleasant Twp.|16,188
+Coffey|Pottawatomie Twp.|17,130
+Coffey|Rock Creek Twp.|18,261
+Coffey|Spring Creek Twp.|19,93
+Coffey|Star Twp.|20,126
+Coffey|Waverly City|05,367
+Comanche|Avilla Twp.|AV400,49
+Comanche|Coldwater City|1101,483
+Comanche|Coldwater Twp.|CO102,139
+Comanche|Powell Twp.|PO302,21
+Comanche|Protection City #116|2201,301
+Comanche|Protection Twp. #116-|PR203,42
+Comanche|Protection Twp. #116|PR202,79
+Comanche|Wilmore City|3301,30
+Cowley|AC 1A|0001,297
+Cowley|AC 1AA|0002,1
+Cowley|AC 1AB|0003,26
+Cowley|AC 1B|0004,316
+Cowley|AC 1C|0005,484
+Cowley|AC 1D|0006,384
+Cowley|AC 2A|0007,534
+Cowley|AC 2AX|0080,2
+Cowley|AC 2B1|0008,293
+Cowley|AC 2B2|0009,135
+Cowley|AC 2C|0010,88
+Cowley|AC 2D|0011,120
+Cowley|AC 3A|0012,156
+Cowley|AC 3B|0013,253
+Cowley|AC 3C|0014,197
+Cowley|AC 4A|0015,454
+Cowley|AC 4B|0016,975
+Cowley|AC 4C|0017,444
+Cowley|AC 4D|0018,849
+Cowley|Beaver|0019,132
+Cowley|Bolton East|0020,204
+Cowley|Bolton West|0021,798
+Cowley|Cedar|0024,22
+Cowley|Creswell E. H12|0026,432
+Cowley|Creswell E.H80|0025,530
+Cowley|Creswell West|0028,432
+Cowley|Dexter|0029,263
+Cowley|Fairview|0032,185
+Cowley|Grant|0033,53
+Cowley|Harvey|0034,80
+Cowley|Liberty|0035,108
+Cowley|Maple|0036,597
+Cowley|Ninnescah|0039,652
+Cowley|Omnia|0042,177
+Cowley|Otter|0045,29
+Cowley|PL Valley|0046,643
+Cowley|Richland|0047,122
+Cowley|Rk Creek|0048,162
+Cowley|Salem|0049,234
+Cowley|Sheridan|0050,110
+Cowley|Silv Creek|0051,410
+Cowley|Silverdale|0054,259
+Cowley|Sp Creek|0055,41
+Cowley|Tisdale|0056,241
+Cowley|Vernon|0057,306
+Cowley|Walnut|0058,514
+Cowley|WD 10|0078,3
+Cowley|WD 1E|0062,490
+Cowley|WD 1W|0063,332
+Cowley|WD 2C|0064,425
+Cowley|WD 2E|0065,491
+Cowley|WD 2S|0066,632
+Cowley|WD 2W|0067,373
+Cowley|WD 3|0068,601
+Cowley|WD 3S|0069,167
+Cowley|WD 4|0071,197
+Cowley|WD 5E|0072,851
+Cowley|WD 5W|0073,392
+Cowley|WD 6|0074,799
+Cowley|WD 6A|0075,238
+Cowley|WD 7|0076,489
+Cowley|WD 7A|0081,2
+Cowley|WD 8|0070,36
+Cowley|WD 9|0077,23
+Cowley|Windsor|0059,97
+Crawford|Arcadia|001,229
+Crawford|Baker|A11,799
+Crawford|Beulah|A61,212
+Crawford|Brazilton|A81,54
+Crawford|Capaldo|A91,393
+Crawford|Cherokee-Sheridan|032.1,237
+Crawford|Cherokee|032,368
+Crawford|Chicopee|A12,406
+Crawford|Crawford|A21,328
+Crawford|Crowe|A92,190
+Crawford|Franklin|A93,358
+Crawford|Frontenac 1st Ward|071,751
+Crawford|Frontenac 2nd Ward|072,995
+Crawford|Frontenac 3rd Ward|073,426
+Crawford|Frontenac 4th Ward|074,362
+Crawford|Girard 1st Ward|081,219
+Crawford|Girard 2nd Ward|082,581
+Crawford|Girard 3rd Ward|083,438
+Crawford|Girard 4th Ward|084,607
+Crawford|Grant|A31,178
+Crawford|Hepler|004,76
+Crawford|Lincoln-Arcadia|001.1,111
+Crawford|Lincoln|A42,304
+Crawford|Lone Star|A13,869
+Crawford|McCune|005,283
+Crawford|Mulberry 1st Ward|091,140
+Crawford|Mulberry 2nd Ward|092,182
+Crawford|North Arma|021,687
+Crawford|Opolis|A14,292
+Crawford|Osage-McCune|005.1,293
+Crawford|Parkview|A95,454
+Crawford|Pittsburg 1p - 1w|1011,840
+Crawford|Pittsburg 1p - 2w|1012,464
+Crawford|Pittsburg 1p - 3w|1013,654
+Crawford|Pittsburg 1p - 4w|1014,315
+Crawford|Pittsburg 2p - 1w|1021,1188
+Crawford|Pittsburg 2p - 2w|1022,519
+Crawford|Pittsburg 2p - 3w|1023,791
+Crawford|Pittsburg 2p - 4w|1024,647
+Crawford|Pittsburg 3p - 1w|1031,2351
+Crawford|Pittsburg 3p - 2w|1032,690
+Crawford|Pittsburg 3p - 4w|1034,915
+Crawford|Pittsburg 4p - 2w|1042,516
+Crawford|Pittsburg 4p - 4w|1044,615
+Crawford|Pittsburg 5p - 2w|1052,943
+Crawford|Pittsburg 5p - 4w|1054,1126
+Crawford|Pittsburg 6p - 4w|1064,182
+Crawford|Raymond|A22,571
+Crawford|Sheridan-Cherokee City|033.1,90
+Crawford|Sheridan|033,117
+Crawford|Sherman|A71,417
+Crawford|Smelter|A15,455
+Crawford|South Arma|022,686
+Crawford|Walnut-Hepler|004.1,40
+Crawford|Walnut Township|006.1,48
+Crawford|Walnut|006,122
+Decatur|Precinct AL|AL,24
+Decatur|Precinct AT|AT,17
+Decatur|Precinct BA|BA,16
+Decatur|Precinct BE|BE,48
+Decatur|Precinct CC|CC,2
+Decatur|Precinct CE|CE,41
+Decatur|Precinct CO|CO,18
+Decatur|Precinct CU|CU,25
+Decatur|Precinct DC|DC,25
+Decatur|Precinct DR|DR,43
+Decatur|Precinct FI|FI,30
+Decatur|Precinct GA|GA,27
+Decatur|Precinct GR|GR,11
+Decatur|Precinct HA|HA,16
+Decatur|Precinct JC|JC,58
+Decatur|Precinct JE|JE,24
+Decatur|Precinct LB|LB,33
+Decatur|Precinct LN|LN,13
+Decatur|Precinct LO|LO,26
+Decatur|Precinct LY|LY,12
+Decatur|Precinct NC|NC,107
+Decatur|Precinct OB|OB,66
+Decatur|Precinct OC00001|OC00001,514
+Decatur|Precinct OC00002|OC00002,638
+Decatur|Precinct OL|OL,43
+Decatur|Precinct PL|PL,19
+Decatur|Precinct PR|PR,28
+Decatur|Precinct RO|RO,12
+Decatur|Precinct SA|SA,30
+Decatur|Precinct SH|SH,18
+Decatur|Precinct SU|SU,21
+Dickinson|AB City  W1 USD435|1101,734
+Dickinson|AB City W2 USD435|1102,1081
+Dickinson|AB City W3 USD435|1103,690
+Dickinson|AB City W4 P1 USD435|1104,885
+Dickinson|AB City W4 P2 USD435|1105,1053
+Dickinson|Banner|BAA,86
+Dickinson|Buckeye 1|BUB1,35
+Dickinson|Buckeye|BUB,300
+Dickinson|Carlton City USD473|2J02,32
+Dickinson|Center|CEC01,282
+Dickinson|Chapman City USD473|3R02,930
+Dickinson|Cheever|CVD,99
+Dickinson|Enterprise City USD473|4C02,532
+Dickinson|Flora|FLF01,71
+Dickinson|Fragrant Hill|FHE,220
+Dickinson|Garfield|GAG,144
+Dickinson|Grant|GRH,748
+Dickinson|Hayes 1|HAI1,21
+Dickinson|Hayes|HAI,151
+Dickinson|Herington W1|HER1,559
+Dickinson|Herington W2|HER2,600
+Dickinson|Herington W4|HER4,376
+Dickinson|Holland|HLJ01,54
+Dickinson|Hope City|6K02,229
+Dickinson|Hope|HPK01,78
+Dickinson|Jefferson|JEL,147
+Dickinson|Liberty|LBM01,120
+Dickinson|Lincoln|LNN01,473
+Dickinson|Logan|LOO,161
+Dickinson|Lyon H68 North|LYP68N,7
+Dickinson|Lyon H68 South|LYP68S,50
+Dickinson|Lyon H70|LYP70,122
+Dickinson|Manchester City|7F02,60
+Dickinson|Newbern|NEQ,274
+Dickinson|Noble 2|NOR02,38
+Dickinson|Noble|NOR01,343
+Dickinson|Ridge|RIT,116
+Dickinson|Rinehart|RHS,169
+Dickinson|Sherman|SHU,122
+Dickinson|Solomon City|8N02,688
+Dickinson|Union|UNV,109
+Dickinson|Wheatland|WHW,106
+Dickinson|Willowdale 1|WIX1,27
+Dickinson|Willowdale|WIX,202
+Dickinson|Woodbine City|9M02,121
+Doniphan|Bendena Country Precinct|INB0000,187
+Doniphan|Blair Precinct|WA40000,165
+Doniphan|Burr Oak Precinct|BOA0000,117
+Doniphan|Denton City Precinct|1D10001,92
+Doniphan|Denton Country Precinct|UN10002,113
+Doniphan|Elwood City Precinct|2E20001,678
+Doniphan|Elwood Country Precinct|WA20002,18
+Doniphan|Highland City Precinct|3H50001,428
+Doniphan|Highland Country Precinct|IO50002,272
+Doniphan|Leona City Precinct|4L70001,15
+Doniphan|Leona Country Precinct|WR70002,39
+Doniphan|Marion Precinct|MAC0000,167
+Doniphan|Severance City Precinct|5S80001,50
+Doniphan|Severance Country Precinct|WR80002,121
+Doniphan|Troy City Precinct|6T90001,627
+Doniphan|Troy Country Precinct|CE90002,510
+Doniphan|Wathena City Precinct|7W30001,832
+Doniphan|Wathena Country Precinct|WA30002,180
+Doniphan|Wayne Precinct|WYD0000,135
+Doniphan|White Cloud City Precinct|8C60001,95
+Doniphan|White Cloud Country Precinct|IO60002,59
+Douglas|Big Springs 58|058,313
+Douglas|C Eudora 54|054,1297
+Douglas|Clinton 51|051,586
+Douglas|E Wakarusa 65 C1 S2 H42|065,34
+Douglas|E Wakarusa 65 C1 S2 H46|065C,3
+Douglas|E Wakarusa 65 C2 S2 H42|065B,16
+Douglas|E Wakarusa 65 C2 S3 H10|065D,4
+Douglas|E Wakarusa 65 C2 S3 H42|065E,33
+Douglas|Grant 55 H42|055B,77
+Douglas|Grant 55 H45|055,210
+Douglas|Kanwaka 56 C1 H45|056C,94
+Douglas|Kanwaka 56 S19 H47|056B,23
+Douglas|Kanwaka 56 S3 H47|056,1190
+Douglas|Lawrence  11|011,863
+Douglas|Lawrence  20|020,1797
+Douglas|Lawrence  21|021,567
+Douglas|Lawrence 01|001,780
+Douglas|Lawrence 02|002,790
+Douglas|Lawrence 03|003,1042
+Douglas|Lawrence 04|004,884
+Douglas|Lawrence 05|005,863
+Douglas|Lawrence 06|006,1034
+Douglas|Lawrence 07|007,549
+Douglas|Lawrence 08|008,843
+Douglas|Lawrence 09|009,679
+Douglas|Lawrence 10|010,344
+Douglas|Lawrence 12|012,1491
+Douglas|Lawrence 13|013,1100
+Douglas|Lawrence 14 H10|014,1606
+Douglas|Lawrence 14 H44|014B,486
+Douglas|Lawrence 15|015,1375
+Douglas|Lawrence 16|016,1055
+Douglas|Lawrence 17|017,1454
+Douglas|Lawrence 18|018,1773
+Douglas|Lawrence 19|019,1304
+Douglas|Lawrence 22|022,1311
+Douglas|Lawrence 23|023,696
+Douglas|Lawrence 24|024,843
+Douglas|Lawrence 25 H10|025A,65
+Douglas|Lawrence 25 H46|025,611
+Douglas|Lawrence 26 H10|026B,687
+Douglas|Lawrence 26 H46|026,209
+Douglas|Lawrence 27|027,885
+Douglas|Lawrence 28|028B,809
+Douglas|Lawrence 29|029,879
+Douglas|Lawrence 30|030,787
+Douglas|Lawrence 31|031,1099
+Douglas|Lawrence 32|032,1134
+Douglas|Lawrence 33 H10|033,830
+Douglas|Lawrence 34|034,686
+Douglas|Lawrence 35 H10|035,677
+Douglas|Lawrence 35 H46|035B,495
+Douglas|Lawrence 36|036,1190
+Douglas|Lawrence 37|037,1271
+Douglas|Lawrence 38 H10|038,1627
+Douglas|Lawrence 38 H42|038B,322
+Douglas|Lawrence 39|039,1066
+Douglas|Lawrence 40|040,985
+Douglas|Lawrence 41 H46|041,1727
+Douglas|Lawrence 42 S19 H45|042B,500
+Douglas|Lawrence 42 S2 H46|042,427
+Douglas|Lawrence 43|043,2353
+Douglas|Lawrence 44 H44|044B,438
+Douglas|Lawrence 44 H45|044,712
+Douglas|Lawrence 45|045,1802
+Douglas|Lawrence 46 H44|046B,1255
+Douglas|Lawrence 46 H45|046,1049
+Douglas|Lawrence 47|047,672
+Douglas|Lawrence 48|048,1423
+Douglas|Lawrence 49 H45|049,1807
+Douglas|Lawrence 49 H47|049B,296
+Douglas|Lawrence Precinct 71|071,1894
+Douglas|Lawrence Precinct 74|074,2937
+Douglas|Lawrence Precinct 76|076,162
+Douglas|Lawrence Precinct 77 H42|077B,707
+Douglas|Lecompton 57 C1 H45|057C,97
+Douglas|Lecompton 57 C2 H45|057,637
+Douglas|Lecompton 57 C2 H47|057B,192
+Douglas|Marion 59|059,616
+Douglas|Marion 59B|059B,75
+Douglas|N  Wakarusa 64 S2 H46|064B,1
+Douglas|N Eudora 52 City|052,644
+Douglas|N Eudora 52 Twp|052B,91
+Douglas|N Wakarusa 64 S19 H45|064,276
+Douglas|NE Baldwin 61 H43|061B,282
+Douglas|NE Baldwin 61 H5|061,1401
+Douglas|NW Baldwin 60|060,1314
+Douglas|S Eudora 53 City|053,698
+Douglas|S Eudora 53 TwpB|053B,968
+Douglas|South Baldwin 62|062,1413
+Douglas|South Wakarusa 69A|069,876
+Douglas|Vinland H117|063C,563
+Douglas|Vinland H43|063,119
+Douglas|Vinland H5|063B,293
+Douglas|W Eudora 50 City|050,1601
+Douglas|W Wakarusa  66 H117|066,387
+Douglas|W Wakarusa 66 H44|066B,3
+Douglas|W Wakarusa 66 H47|066C,294
+Douglas|West Eudora 50 Twp|050B,69
+Douglas|Willow Springs 67 H117|067,24
+Douglas|Willow Springs 67 H5A|067A,740
+Douglas|Willow Springs 67 H5B|067B,372
+Douglas|Willow Springs 67 H5C|067C,106
+Edwards|Belpre City|10501,44
+Edwards|Belpre Twp|53001,67
+Edwards|Franklin Twp|64001,61
+Edwards|Jackson Twp|71501,38
+Edwards|Kinsley City Ward 1|20101,474
+Edwards|Kinsley City Ward 2|20201,431
+Edwards|Kinsley Twp|82001,84
+Edwards|Lewis City|30301,225
+Edwards|Lincoln Twp|93501,65
+Edwards|Logan Twp|101001,22
+Edwards|N Brown Twp|114501,45
+Edwards|Offerle City|40401,124
+Edwards|S Brown Twp|125501,54
+Edwards|Trenton Twp|135001,58
+Edwards|Wayne Twp|142501,60
+Elk|Elk Falls City|1000EF,90
+Elk|Elk Falls Township|EF000EF,64
+Elk|Greenfield Township|GF000GR,71
+Elk|Grenola City|2000GR,122
+Elk|Howard City|3000HW,436
+Elk|Howard Township|HW000HW,140
+Elk|Liberty Township|LB000UV,65
+Elk|Longton City|4000LG,171
+Elk|Longton Township|LG000LG,66
+Elk|Moline City|5000ML,253
+Elk|Oak Valley Township|OV000OV,76
+Elk|Painterhood Township|PH000BB,31
+Elk|Paw Paw Township|PP000PP,92
+Elk|Union Center Township|UC000UC,62
+Elk|Wildcat Township|WC000ML,123
+Ellis|Buckeye|023,522
+Ellis|EBC 111|020,783
+Ellis|Ellis City|017,1527
+Ellis|Freedom|026,74
+Ellis|Hays W1 P1|001,597
+Ellis|Hays W1 P2|002,771
+Ellis|Hays W2 P1|003,846
+Ellis|Hays W2 P2|004,683
+Ellis|Hays W2 P3|005,524
+Ellis|Hays W2 P4|006,638
+Ellis|Hays W2 P5|007,517
+Ellis|Hays W3 P1|008,568
+Ellis|Hays W3 P2|009,900
+Ellis|Hays W3 P3|010,931
+Ellis|Hays W3 P4|011,2100
+Ellis|Hays W4 P1|012,736
+Ellis|Hays W4 P2|013,955
+Ellis|Hays W4 P3|014,720
+Ellis|Hays W4 P4|015,1363
+Ellis|Hays W4 P5|016,1103
+Ellis|HE 110|027,290
+Ellis|HE 111|052,969
+Ellis|NBC 110|050,221
+Ellis|NBC 111|021,393
+Ellis|SBC 110|054,446
+Ellis|W BU 110|055,342
+Ellis|W FR 110|056,302
+Ellis|WBC 110|051,98
+Ellis|WBC 111|022,4
+Ellsworth|Ash Creek|AS001,45
+Ellsworth|Black Wolf|BW002,74
+Ellsworth|Canren|EC025,57
+Ellsworth|Carneiro|CA003,49
+Ellsworth|Clear Creek|CL004,85
+Ellsworth|Columbia|CO005,38
+Ellsworth|East Ellsworth 1-18|EC018,435
+Ellsworth|East Ellsworth 2-19|EC019,420
+Ellsworth|Ellsworth Twp|EW006,127
+Ellsworth|EllsworthTwp/Kanopolis|EW022,40
+Ellsworth|Empire Buckeye West|EE007,56
+Ellsworth|Empire Venango East|EE008,81
+Ellsworth|Garfield|GF009,32
+Ellsworth|Green Garden Twp/Lorraine|GG023,48
+Ellsworth|Kanopolis City|KC022,336
+Ellsworth|Langley|LA010,59
+Ellsworth|Lincoln|LN011,39
+Ellsworth|Lorraine City|LC023,73
+Ellsworth|Mulberry|MB012,30
+Ellsworth|Noble|NB013,58
+Ellsworth|Palacky|PL014,41
+Ellsworth|Sherman|SH015,50
+Ellsworth|Thomas|TH016,52
+Ellsworth|Trivoli|TR017,31
+Ellsworth|Valley Twp/Holyrood|HC021,301
+Ellsworth|Valley|VA021,62
+Ellsworth|West Ellsworth|EC020,521
+Ellsworth|Wilson City|WC024,521
+Ellsworth|Wilson Twp|WL024,86
+Finney|FRIEND 122|025,100
+Finney|HOLCOMB 122|026,1753
+Finney|HUFFMAN 122|027,728
+Finney|J BARKER 122-A|028,762
+Finney|J BARKER 122-C|055,2
+Finney|J BARKER 123-A|067,32
+Finney|J BARKER 123-B|068,8
+Finney|J BARKER 123-F|030,11
+Finney|J BARKER 123-G|032,5
+Finney|J BARKER 123-H|033,4
+Finney|J BARKER 123-I|034,1
+Finney|KALVESTA 122|035,101
+Finney|MACK 122-A|036,576
+Finney|MACK 122-B|037,64
+Finney|MACK 122-C|038,5
+Finney|PIERCEVILLE 122|039,298
+Finney|PLEASANT VALLEY 122|040,113
+Finney|PLYMELL 122|041,258
+Finney|RIVERSIDE 122|042,918
+Finney|THEONI 122|043,95
+Finney|WARD 01 122-E|003,272
+Finney|WARD 01 123-B|062,397
+Finney|WARD 02 122|004,1135
+Finney|WARD 02 123|063,21
+Finney|WARD 03 123|005,1083
+Finney|WARD 04 123|006,519
+Finney|WARD 05 123|007,1649
+Finney|WARD 06 122-A|008,228
+Finney|WARD 06 122-B|059,4
+Finney|WARD 06 122-C|010,531
+Finney|WARD 06 123-F|066,982
+Finney|WARD 07 123|011,711
+Finney|WARD 08 123-F|014,1451
+Finney|WARD 09 123|015,805
+Finney|WARD 10 123|016,595
+Finney|WARD 11 123|017,850
+Finney|WARD 12 123|018,762
+Finney|WARD 13 123|019,696
+Finney|WARD 14 123-A|020,317
+Finney|WARD 14 123-B|021,629
+Finney|WARD 15 123-A|022,637
+Finney|WARD 15 123-B|023,646
+Finney|WARD 16 123|024,1076
+Ford|Bloom Twp|A1000A1,60
+Ford|Bucklin City|20002,482
+Ford|Bucklin Twp|A2000A2,69
+Ford|Concord Twp|A3000A3,71
+Ford|DC Pct 001 H115 A|100001,865
+Ford|DC Pct 001 H119 B|100001A,836
+Ford|DC Pct 002 H119 B|100002,1129
+Ford|DC Pct 003 H119 B|100003,1441
+Ford|DC Pct 004 H115 A|100004,54
+Ford|DC Pct 004 H119 B|100004A,2088
+Ford|DC Pct 005|100005,2544
+Ford|DC Pct 006 H115 A|100006,1529
+Ford|DC Pct 006 H119 B|100006A,1182
+Ford|DC Pct 007 H119 A|100007,370
+Ford|DC Pct 007 H119 B|100007A,4
+Ford|DC Pct 009 H119 A|100009,38
+Ford|DC Pct 009 H119 B|100009A,96
+Ford|DC Pct 012|100012,3
+Ford|Dodge Twp-3 H115 A|A4300A4,16
+Ford|Dodge Twp-3 H119 B|A4300A5,49
+Ford|Dodge Twp H115|A4000A4,342
+Ford|Dodge Twp H119|A400A43,75
+Ford|Dodge TWP N H119|A400A4N,22
+Ford|Dodge TWP W H119|A400A4W,1
+Ford|Enterprise Twp H115|A5000A5,420
+Ford|Enterprise Twp H119|A500A54,47
+Ford|Fairview Twp|A6000A6,197
+Ford|Ford City|30003,143
+Ford|Ford Twp|A7000A7,93
+Ford|Grandview Twp East H115 B|A8003A8,7
+Ford|Grandview Twp H115|A8000A8,266
+Ford|Grandview Twp Ward 2 H115 A|A8200A8,28
+Ford|Grandview Twp Ward 2 H119 C|A8202A8,49
+Ford|Richland Twp|B1000B1,435
+Ford|Royal Twp|B2000B2,200
+Ford|Sodville Twp|B3000B3,69
+Ford|Spearville City|40004,576
+Ford|Spearville Twp|B4000B4,294
+Ford|Wheatland Twp|B5000B5,108
+Ford|Wilburn Twp|B6000B6,56
+Franklin|Appanoose Twp|AT,212
+Franklin|Centropolis North Twp|CT000NO,370
+Franklin|Centropolis South Twp|CT000SO,387
+Franklin|Cutler Twp|CU,485
+Franklin|Franklin Twp|FT,928
+Franklin|Greenwood Twp|GT,341
+Franklin|Harrison Twp|H1,374
+Franklin|Hayes Twp|H2,378
+Franklin|Homewood Twp|H3,437
+Franklin|Lane City|LC,164
+Franklin|Lincoln Twp|LT,788
+Franklin|Ohio Twp|OH,398
+Franklin|Ottawa City Prct 1|OC00001,862
+Franklin|Ottawa City Prct 2|OC00002,1055
+Franklin|Ottawa City Prct 3|OC00003,633
+Franklin|Ottawa City Prct 4|OC00004,1810
+Franklin|Ottawa City Prct 6|OC00006,671
+Franklin|Ottawa City Prct 7|OC00007,1871
+Franklin|Ottawa City Prct 8|OC00008,1704
+Franklin|Ottawa Twp|OT,655
+Franklin|Peoria Twp|PE,554
+Franklin|Pomona City|PC,556
+Franklin|Pomona Twp|PO,167
+Franklin|Pottawatomie Twp|PT,316
+Franklin|Princeton City|PR,189
+Franklin|Rantoul City|RC,108
+Franklin|Richmond City|RI,283
+Franklin|Richmond Twp|RT,257
+Franklin|Wellsville City|WC,1298
+Franklin|Williamsburg City|WI,222
+Franklin|Williamsburg Twp|WT,262
+Geary|Blakely Township|BL00005,87
+Geary|Fort Riley Pecinct B H68|SH0BA,796
+Geary|Fort Riley Precinct A H65|SH0A1,578
+Geary|Fort Riley Precinct B H65|SH0B,551
+Geary|Grandview Plaza Precinct|JE00008,853
+Geary|Jackson Township|JA00010,57
+Geary|Jefferson  (Jefferson)|JE00006,352
+Geary|Liberty Township|LI00011,155
+Geary|Lyon Township|LY00003,228
+Geary|Milford City|MC0001,300
+Geary|Milford Township|MI00001,973
+Geary|Smoky Hill Twp Precinct 2|SH002AB,7
+Geary|Smoky Hill Twp Precinct 3|SH002B,145
+Geary|Smoky Hill Twp Precinct 4|SH002AA,113
+Geary|Smoky Hill Twp Precinct 5 H65|SH0021A,236
+Geary|Smoky Hill Twp Precinct 5 H68|SH00021,44
+Geary|Smoky Hill Twp Precinct 6 H68|SH002A6,51
+Geary|Ward 1 Precinct 1|110001,574
+Geary|Ward 1 Precinct 2 H65|110002,315
+Geary|Ward 1 Precinct 2 H68|110002A,113
+Geary|Ward 1 Precinct 3 H65|110003,297
+Geary|Ward 1 Precinct 3 H68|110003A,297
+Geary|Ward 1 Precinct 4|110004,997
+Geary|Ward 1 Precinct 5 H65|11005A,209
+Geary|Ward 1 Precinct 5 H68|11005AA,427
+Geary|Ward 1 Precinct 6 H65|11006A,555
+Geary|Ward 1 Precinct 6 H68|11006AA,425
+Geary|Ward 1 Precinct 7 H65|110007,413
+Geary|Ward 1 Precinct 7 H68|110007A,687
+Geary|Ward 2 Precinct 1 H65|120001,140
+Geary|Ward 2 Precinct 1 H68|120001A,108
+Geary|Ward 2 Precinct 2|120002,588
+Geary|Ward 2 Precinct 3|12004B,121
+Geary|Ward 2 Precinct 4|12004A,90
+Geary|Ward 2 Precinct 5|120003,538
+Geary|Ward 2 Precinct 6|120004,393
+Geary|Ward 2 Precinct 7|12005A,902
+Geary|Ward 2 Precinct 8|1205A2,321
+Geary|Ward 3 Precinct 1 H65|130001,193
+Geary|Ward 3 Precinct 1 H68|130001A,193
+Geary|Ward 3 Precinct 2|130002,787
+Geary|Ward 3 Precinct 3|120005,930
+Geary|Ward 3 Precinct 4|1205A1,420
+Geary|Ward 4 Precinct 1|140001,587
+Geary|Ward 4 Precinct 2 H65|140004,361
+Geary|Ward 4 Precinct 2 H68|140004A,58
+Geary|Ward 4 Precinct 3|140002,900
+Geary|Ward 4 Precinct 4|140003,887
+Geary|Wingfield|WI00008,134
+Gove|Baker|001,820
+Gove|Gaeland|005,34
+Gove|Gove|006,146
+Gove|Grainfield|003,294
+Gove|Grinnell|004,300
+Gove|Jerome|008,86
+Gove|Larrabee|007,27
+Gove|Lewis|009,6
+Gove|Payne|002,170
+Graham|Allodium Township|051,31
+Graham|Bogue City|005,109
+Graham|Bryant Township|052,59
+Graham|Gettysburg Township|053,57
+Graham|Graham Township|054,40
+Graham|H.C.C. #1|001,134
+Graham|H.C.C. #2|002,604
+Graham|H.C.C. #3|003,206
+Graham|Happy Township|055,41
+Graham|Hill City Township #71|071,8
+Graham|Hill City Township #72|072,55
+Graham|Hill City Township #73|073,40
+Graham|Indiana Township|057,23
+Graham|Millbrook Township|058,86
+Graham|Morlan Township|059,43
+Graham|Morland City|004,94
+Graham|Nicodemus Township|060,31
+Graham|Pioneer Township|061,24
+Graham|Solomon Township|062,37
+Graham|Wildhorse Township|063,49
+Grant|Precinct 004|004,760
+Grant|Ward 1|001,687
+Grant|Ward 2|002,1077
+Grant|Ward 3|003,1230
+Gray|Cimarron City 1|100001,257
+Gray|Cimarron City 2|100002,1163
+Gray|Cimarron Twp 1|A00001,179
+Gray|Cimarron Twp 2|A00002,94
+Gray|Copeland City|200003,155
+Gray|Copeland Twp|B00003,81
+Gray|East Hess Twp|C00004,112
+Gray|Ensign City|300004,125
+Gray|Foote Twp|D00005,59
+Gray|Ingalls City|400006,181
+Gray|Ingalls Twp|E00006,183
+Gray|Logan Twp|F00007,146
+Gray|Montezuma City|500008,402
+Gray|Montezuma Twp|G00008,192
+Greeley|Horace City|3,63
+Greeley|Tribune City|1,562
+Greeley|Tribune Township|2,254
+Greenwood|Bachelor Twp|BA20000,172
+Greenwood|Climax City|140002,46
+Greenwood|Eureka Twp|EU30000,308
+Greenwood|Fall River City|3F0002,121
+Greenwood|Fall River Twp|FR40001,108
+Greenwood|Hamilton City|450002,182
+Greenwood|Janesville Twp|JV50001,158
+Greenwood|Lane Twp|LN60001,28
+Greenwood|Madison City|570002,499
+Greenwood|Madison Twp|MD70001,249
+Greenwood|Otter Creek Twp|OC80000,120
+Greenwood|Pleasant Grove Twp|PG90000,46
+Greenwood|Quincy Twp|QUA0000,94
+Greenwood|S Salem Twp|SSE0000,74
+Greenwood|Salem Twp|SAB0000,25
+Greenwood|Salt Springs Twp|STF0001,197
+Greenwood|Severy City|6G0002,154
+Greenwood|Shell Rock Twp|SRD0000,121
+Greenwood|Spring Creek Twp|SCC0000,94
+Greenwood|Twin Grove Twp|TGG0001,203
+Greenwood|Virgil City|760002,42
+Greenwood|Ward 1|XX0001,607
+Greenwood|Ward 2|YY0002,409
+Greenwood|Ward 3|ZZ0003,496
+Greenwood|Ward 4|ZZZ0004,1
+Hamilton|Bear Creek T/S|010,21
+Hamilton|Coolidge|020,67
+Hamilton|Kendall T/S|030,65
+Hamilton|Lamont T/S|040,52
+Hamilton|Liberty T/S|050,23
+Hamilton|Medway T/S|060,35
+Hamilton|Richland T/S|070,17
+Hamilton|Syracuse 1|080,247
+Hamilton|Syracuse 2|090,182
+Hamilton|Syracuse 3|100,230
+Hamilton|Syracuse 4|110,96
+Hamilton|Syracuse 5|120,279
+Harper|Anthony City|07,1361
+Harper|Anthony Lake|07B,48
+Harper|Anthony Power Plant|07D,4
+Harper|Attica City|08,357
+Harper|Bluff City|09,35
+Harper|Danville City|10,24
+Harper|Harper City|12,815
+Harper|Twp 1|01,200
+Harper|Twp 2|02,54
+Harper|Twp 3 East|03,97
+Harper|Twp 3 West|03W,118
+Harper|Twp 4|04,109
+Harper|Twp 5 East|05,208
+Harper|Twp 5 West|05W,85
+Harper|Twp 6 East|06,139
+Harper|Twp 6 West|06W,63
+Harper|Waldron City|13,7
+Harvey|Alta  A1|A1,175
+Harvey|Burrton A6|A6,139
+Harvey|Burrton|1,497
+Harvey|Darlington B5 North|B5N,88
+Harvey|Darlington B5|B5,339
+Harvey|Emma A3|A3,380
+Harvey|Garden  A2|A2,188
+Harvey|Halstead 1-1|210001,539
+Harvey|Halstead 1-2|210002,810
+Harvey|Halstead A7|A7,247
+Harvey|Hesston 1-1|310001,1307
+Harvey|Hesston 1-2|310002,1238
+Harvey|Highland A4|A4,269
+Harvey|Lake B2|B2,116
+Harvey|Lakin B3|B3,182
+Harvey|Macon A8 East-72|A8E,64
+Harvey|Macon A8|A8,278
+Harvey|Newton 1-1|410001,741
+Harvey|Newton 1-2|410002,632
+Harvey|Newton 1-3|410003,447
+Harvey|Newton 2-1|420001,734
+Harvey|Newton 2-2|420002,1568
+Harvey|Newton 3-1|430001,629
+Harvey|Newton 3-2|430002,1034
+Harvey|Newton 3-3|430003,857
+Harvey|Newton 3-4|430004,2063
+Harvey|Newton 4-1|440001,822
+Harvey|Newton 4-2|440002,1291
+Harvey|Newton 4-3|440003,1017
+Harvey|Newton 4-4|440004,422
+Harvey|Newton A9 AB-72|A9,197
+Harvey|Newton A9 AB-74|A9N,39
+Harvey|Newton A9 CG-72|A9C,67
+Harvey|North Newton|5,1312
+Harvey|Pleasant B1|B1,355
+Harvey|Richland B6|B6,297
+Harvey|Sedgwick B4 East-72|B4E,95
+Harvey|Sedgwick B4|B4,138
+Harvey|Sedgwick|6,932
+Harvey|Walton A5|A5,213
+Harvey|Walton|7,154
+Haskell|Ivanhoe|005,82
+Haskell|N Dudley|006,67
+Haskell|N Lockport|001,79
+Haskell|S Lockport|002,75
+Haskell|Satanta 1|007,149
+Haskell|Satanta 2H124|008,628
+Haskell|Sublette 1|003,703
+Haskell|Sublette 3H122|004,5
+Haskell|Sublette 3H124|009,376
+Hodgeman|Benton|003,30
+Hodgeman|City of Jetmore - North|012,238
+Hodgeman|City of Jetmore - NW/SW Center|014,104
+Hodgeman|City of Jetmore - South|013,240
+Hodgeman|E Sawlog|008,32
+Hodgeman|Hallet|005,33
+Hodgeman|N Center|016,54
+Hodgeman|N. Marena|001,196
+Hodgeman|North Roscoe|006,33
+Hodgeman|S. Marena|002,105
+Hodgeman|SE Center|015,30
+Hodgeman|South Roscoe|007,45
+Hodgeman|Sterling|009,85
+Hodgeman|Valley|010,34
+Hodgeman|W Sawlog|011,29
+Jackson|Adrian|AD,113
+Jackson|Banner|BA,255
+Jackson|Cedar|CD,739
+Jackson|Circleville City|JF00001,108
+Jackson|Delia City|WA00002,105
+Jackson|Denison City|GA00003,97
+Jackson|Douglas|DG,1276
+Jackson|East Illinois|W1ILL,16
+Jackson|Franklin East|FRE,328
+Jackson|Franklin|FR,405
+Jackson|Garfield|GA,341
+Jackson|Grant|GT,120
+Jackson|Hoyt City|DG00005,410
+Jackson|Jefferson|JF,268
+Jackson|Liberty|LB,376
+Jackson|Lincoln|LC,800
+Jackson|Mayetta City|CD00006,206
+Jackson|Netawaka City|NT00007,118
+Jackson|Netawaka|NT,134
+Jackson|North East Liberty|NELB,2
+Jackson|North Striaght Creek|NST,28
+Jackson|Soldier City|SL00008,70
+Jackson|Soldier|SL,197
+Jackson|St Creek|ST,90
+Jackson|Ward 1 Exclave City Lake|W1 Lake,2
+Jackson|Ward 1|4110004,718
+Jackson|Ward 2|4220004,822
+Jackson|Ward 3 Exclave Industrial Park|W3 Ind,6
+Jackson|Ward 3|4330004,542
+Jackson|Washington|WA,289
+Jackson|Whiting City|WH00009,135
+Jackson|Whiting|WH,112
+Jefferson|Delaware Township|A1RDE,540
+Jefferson|East Fairview|A2REA,675
+Jefferson|East Sarcoxie Township|B2RSA,639
+Jefferson|East Union Township|B3RUN,614
+Jefferson|Jefferson Township|A3RJF,475
+Jefferson|Kaw Township|A4RKW,1028
+Jefferson|Kentucky Township|A5RKY,576
+Jefferson|Mc Louth City|1CUN,615
+Jefferson|Meriden City|2CRC,476
+Jefferson|Norton Township|A6RNT,199
+Jefferson|Nortonville City|3CNT,384
+Jefferson|Oskaloosa City|4COS,697
+Jefferson|Oskaloosa Township|A7ROS,771
+Jefferson|Ozawkie City|5COZ,475
+Jefferson|Ozawkie Township|A8ROZ,749
+Jefferson|Perry City|6CKY,623
+Jefferson|Rock Creek Township|A9RRC,1593
+Jefferson|Rural Township|B1RRU,586
+Jefferson|Valley Falls City|7CDE,721
+Jefferson|West Fairview|A2RWE,546
+Jefferson|West Sarcoxie Township|B4RSA,141
+Jefferson|West Union Township|B5RUN,40
+Jefferson|Winchester City|8CJF,319
+Jewell|Allen Township|A1602,20
+Jewell|Athens Township|A2801,48
+Jewell|Brownscreek Township|A3702,42
+Jewell|Buffalo Township|A4703,50
+Jewell|Burr Oak City|1B201,109
+Jewell|Burr Oak Township|A5202,45
+Jewell|Calvin Township|A6704,44
+Jewell|Center Township|A7403,92
+Jewell|Erving Township|A8802,29
+Jewell|Esbon City|2E101,82
+Jewell|Esbon Township|A9102,42
+Jewell|Formoso City|3F501,54
+Jewell|Grant Township|B1502,60
+Jewell|Harrison Township|B2203,12
+Jewell|Highland Township|B3103,31
+Jewell|Holmwood Township|B4204,18
+Jewell|Ionia Township|B5803,49
+Jewell|Jackson Township|B6302,68
+Jewell|Jewell City|4J701,263
+Jewell|Limestone Township|B7104,40
+Jewell|Mankato City|5M401,585
+Jewell|Montana Township|B8303,44
+Jewell|Odessa Township|B9804,17
+Jewell|Prairie Township|C1603,51
+Jewell|Randall City|6R601,47
+Jewell|Richland Township|C2304,26
+Jewell|Sinclair Township|C3305,40
+Jewell|Vicksburg Township|C4604,21
+Jewell|Walnut Township|C5205,48
+Jewell|Washington Township|C6503,43
+Jewell|Webber City|7W301,23
+Jewell|Whitemound Township|C7105,25
+Johnson|Aubry Twp 0-01|1001,180
+Johnson|Aubry Twp 0-02|1002,1298
+Johnson|Aubry Twp 0-03|1003,572
+Johnson|Aubry Twp 0-04|1004,1687
+Johnson|Aubry Twp 0-05|1005,17
+Johnson|Aubry Twp 0-06|1006,155
+Johnson|Aubry Twp 0-08|1008,86
+Johnson|De Soto 0-01|A001,1669
+Johnson|De Soto 0-02|A002,1063
+Johnson|De Soto 0-03|A003,1279
+Johnson|De Soto 0-06|A006,234
+Johnson|De Soto 0-07|A007,269
+Johnson|Edgerton 0-01|B001,1089
+Johnson|Edgerton 0-02|B002,1
+Johnson|Edgerton 0-04|B004,3
+Johnson|Edgerton 0-05|B005,7
+Johnson|Edgerton 0-06|B006,2
+Johnson|Edgerton 0-08|B008,5
+Johnson|Edgerton 0-09|B009,2
+Johnson|Fairway 1-01|G101,524
+Johnson|Fairway 1-02|G102,371
+Johnson|Fairway 2-01|G201,363
+Johnson|Fairway 2-02|G202,394
+Johnson|Fairway 3-01|G301,510
+Johnson|Fairway 3-02|G302,461
+Johnson|Fairway 4-01|G401,241
+Johnson|Fairway 4-02|G402,268
+Johnson|Fairway 4-03|G403,174
+Johnson|Fairway 4-04|G404,250
+Johnson|Gardner 0-01|C001,2253
+Johnson|Gardner 0-02|C002,11
+Johnson|Gardner 0-03|C003,1236
+Johnson|Gardner 0-04|C004,1300
+Johnson|Gardner 0-06|C006,2149
+Johnson|Gardner 0-07|C007,29
+Johnson|Gardner 0-08|C008,640
+Johnson|Gardner 0-09|C009,2343
+Johnson|Gardner 0-10|C010,1492
+Johnson|Gardner 0-13|C013,1423
+Johnson|Gardner 0-14|C014,1053
+Johnson|Gardner 0-17|C017,3
+Johnson|Gardner 0-19|C019,452
+Johnson|Gardner 0-20|C020,858
+Johnson|Gardner 0-22|C022,93
+Johnson|Gardner 0-23|C023,2
+Johnson|Gardner Twp 0-01|2001,526
+Johnson|Gardner Twp 0-02|2002,170
+Johnson|Gardner Twp 0-03|2003,250
+Johnson|Gardner Twp 0-04|2004,1
+Johnson|Gardner Twp 0-05|2005,6
+Johnson|Gardner Twp 0-07|2007,2
+Johnson|Gardner Twp 0-08|2008,6
+Johnson|Gardner Twp 0-10|2010,6
+Johnson|Gardner Twp 0-11|2011,38
+Johnson|Gardner Twp 0-13|2013,1
+Johnson|Gardner Twp 0-14|2014,5
+Johnson|Gardner Twp 0-16|2016,17
+Johnson|Gardner Twp 0-17|2017,2
+Johnson|Gardner Twp 0-18|2018,4
+Johnson|Gardner Twp 0-19|2019,266
+Johnson|Gardner Twp 0-20|2020,2
+Johnson|Gardner Twp 0-21|2021,29
+Johnson|Gardner Twp 0-22|2022,86
+Johnson|Gardner Twp 0-24|2024,2
+Johnson|Gardner Twp 0-25|2025,31
+Johnson|Lake Quivira 0-01|T001,926
+Johnson|Leawood 1-01|H101,852
+Johnson|Leawood 1-02|H102,1348
+Johnson|Leawood 1-03|H103,1177
+Johnson|Leawood 1-04|H104,1058
+Johnson|Leawood 1-05|H105,840
+Johnson|Leawood 1-06|H106,293
+Johnson|Leawood 1-07|H107,1087
+Johnson|Leawood 2-01|H201,973
+Johnson|Leawood 2-02|H202,1539
+Johnson|Leawood 2-03|H203,1263
+Johnson|Leawood 2-04|H204,1323
+Johnson|Leawood 2-05|H205,783
+Johnson|Leawood 2-06|H206,771
+Johnson|Leawood 2-07|H207,686
+Johnson|Leawood 3-01|H301,1204
+Johnson|Leawood 3-02|H302,1241
+Johnson|Leawood 3-03|H303,788
+Johnson|Leawood 3-04|H304,448
+Johnson|Leawood 3-05|H305,2228
+Johnson|Leawood 3-06|H306,1893
+Johnson|Leawood 3-07|H307,234
+Johnson|Leawood 4-01|H401,376
+Johnson|Leawood 4-02|H402,961
+Johnson|Leawood 4-03|H403,804
+Johnson|Leawood 4-04|H404,1254
+Johnson|Leawood 4-05|H405,1174
+Johnson|Leawood 4-06|H406,1011
+Johnson|Leawood 4-07|H407,2131
+Johnson|Lenexa 1-01|I101,1848
+Johnson|Lenexa 1-02|I102,1394
+Johnson|Lenexa 1-03|I103,1610
+Johnson|Lenexa 1-04|I104,1299
+Johnson|Lenexa 1-05|I105,1265
+Johnson|Lenexa 1-06|I106,528
+Johnson|Lenexa 1-07|I107,1357
+Johnson|Lenexa 1-08|I108,1097
+Johnson|Lenexa 1-09|I109,1465
+Johnson|Lenexa 2-01|I201,1523
+Johnson|Lenexa 2-02|I202,1040
+Johnson|Lenexa 2-03|I203,1707
+Johnson|Lenexa 2-04|I204,2079
+Johnson|Lenexa 2-05|I205,1843
+Johnson|Lenexa 2-06|I206,719
+Johnson|Lenexa 2-07|I207,1675
+Johnson|Lenexa 2-10|I210,660
+Johnson|Lenexa 2-11|I211,1179
+Johnson|Lenexa 3-01|I301,1369
+Johnson|Lenexa 3-02|I302,2154
+Johnson|Lenexa 3-03|I303,1463
+Johnson|Lenexa 3-04|I304,936
+Johnson|Lenexa 3-05|I305,1345
+Johnson|Lenexa 3-06|I306,482
+Johnson|Lenexa 3-07|I307,1106
+Johnson|Lenexa 3-08|I308,1082
+Johnson|Lenexa 3-09|I309,1079
+Johnson|Lenexa 3-10|I310,422
+Johnson|Lenexa 4-01|I401,926
+Johnson|Lenexa 4-02|I402,1094
+Johnson|Lenexa 4-03|I403,1142
+Johnson|Lenexa 4-04|I404,746
+Johnson|Lenexa 4-05|I405,621
+Johnson|Lenexa 4-06|I406,4
+Johnson|Lenexa 4-07|I407,929
+Johnson|Lenexa 4-08|I408,740
+Johnson|Lenexa 4-09|I409,1009
+Johnson|Lenexa 4-10|I410,530
+Johnson|Lenexa 4-11|I411,1140
+Johnson|Lenexa 4-12|I412,858
+Johnson|Lenexa 4-13|I413,251
+Johnson|Lexington Twp 0-01|3001,15
+Johnson|Lexington Twp 0-02|3002,1
+Johnson|Lexington Twp 0-03|3003,3
+Johnson|Lexington Twp 0-04|3004,1
+Johnson|Lexington Twp 0-06|3006,11
+Johnson|Lexington Twp 0-09|3009,209
+Johnson|Lexington Twp 0-10|3010,1070
+Johnson|McCamish Twp 0-01|4001,118
+Johnson|McCamish Twp 0-02|4002,316
+Johnson|McCamish Twp 0-06|4006,137
+Johnson|McCamish Twp 0-07|4007,256
+Johnson|Merriam 1-01|J101,565
+Johnson|Merriam 1-02|J102,542
+Johnson|Merriam 1-03|J103,207
+Johnson|Merriam 1-04|J104,536
+Johnson|Merriam 2-01|J201,264
+Johnson|Merriam 2-02|J202,2
+Johnson|Merriam 2-03|J203,706
+Johnson|Merriam 2-04|J204,1007
+Johnson|Merriam 3-01|J301,1259
+Johnson|Merriam 3-02|J302,1047
+Johnson|Merriam 4-01|J401,1266
+Johnson|Merriam 4-02|J402,508
+Johnson|Merriam 4-03|J403,635
+Johnson|Mission 1-01|K101,676
+Johnson|Mission 1-02|K102,1118
+Johnson|Mission 2-01|K201,1118
+Johnson|Mission 2-02|K202,1104
+Johnson|Mission 3-01|K301,1401
+Johnson|Mission 3-02|K302,546
+Johnson|Mission 4-01|K401,676
+Johnson|Mission 4-02|K402,816
+Johnson|Mission 4-03|K403,275
+Johnson|Mission 4-04|K404,336
+Johnson|Mission Hills 0-01|L001,740
+Johnson|Mission Hills 0-02|L002,932
+Johnson|Mission Hills 0-03|L003,605
+Johnson|Mission Hills 0-04|L004,995
+Johnson|Mission Woods 0-01|M001,168
+Johnson|Olathe 1-01|D101,1431
+Johnson|Olathe 1-02|D102,1144
+Johnson|Olathe 1-03|D103,770
+Johnson|Olathe 1-04|D104,1371
+Johnson|Olathe 1-05|D105,1116
+Johnson|Olathe 1-06|D106,1832
+Johnson|Olathe 1-08|D108,2145
+Johnson|Olathe 1-09|D109,1301
+Johnson|Olathe 1-11|D111,1121
+Johnson|Olathe 1-13|D113,925
+Johnson|Olathe 1-14|D114,1045
+Johnson|Olathe 1-15|D115,613
+Johnson|Olathe 1-16|D116,1633
+Johnson|Olathe 1-17|D117,523
+Johnson|Olathe 1-18|D118,1439
+Johnson|Olathe 1-19|D119,662
+Johnson|Olathe 1-20|D120,350
+Johnson|Olathe 1-21|D121,1610
+Johnson|Olathe 1-22|D122,2320
+Johnson|Olathe 1-25|D125,368
+Johnson|Olathe 1-26|D126,11
+Johnson|Olathe 1-27|D127,566
+Johnson|Olathe 2-01|D201,664
+Johnson|Olathe 2-02|D202,1102
+Johnson|Olathe 2-03|D203,1018
+Johnson|Olathe 2-04|D204,629
+Johnson|Olathe 2-05|D205,1990
+Johnson|Olathe 2-06|D206,1948
+Johnson|Olathe 2-07|D207,1864
+Johnson|Olathe 2-08|D208,1594
+Johnson|Olathe 2-09|D209,874
+Johnson|Olathe 2-10|D210,2501
+Johnson|Olathe 2-11|D211,2272
+Johnson|Olathe 2-12|D212,1390
+Johnson|Olathe 2-13|D213,1037
+Johnson|Olathe 2-14|D214,1001
+Johnson|Olathe 2-15|D215,1383
+Johnson|Olathe 2-16|D216,1066
+Johnson|Olathe 2-19|D219,13
+Johnson|Olathe 2-21|D221,582
+Johnson|Olathe 2-22|D222,2360
+Johnson|Olathe 2-23|D223,1355
+Johnson|Olathe 2-24|D224,580
+Johnson|Olathe 3-01|D301,773
+Johnson|Olathe 3-02|D302,342
+Johnson|Olathe 3-03|D303,712
+Johnson|Olathe 3-04|D304,1346
+Johnson|Olathe 3-05|D305,1570
+Johnson|Olathe 3-06|D306,870
+Johnson|Olathe 3-07|D307,896
+Johnson|Olathe 3-08|D308,593
+Johnson|Olathe 3-09|D309,785
+Johnson|Olathe 3-10|D310,1385
+Johnson|Olathe 3-11|D311,1538
+Johnson|Olathe 3-13|D313,1329
+Johnson|Olathe 3-15|D315,1119
+Johnson|Olathe 3-16|D316,1337
+Johnson|Olathe 3-17|D317,1630
+Johnson|Olathe 3-18|D318,1213
+Johnson|Olathe 3-19|D319,884
+Johnson|Olathe 3-20|D320,997
+Johnson|Olathe 3-21|D321,1468
+Johnson|Olathe 3-22|D322,1139
+Johnson|Olathe 3-23|D323,1173
+Johnson|Olathe 3-24|D324,647
+Johnson|Olathe 3-25|D325,1270
+Johnson|Olathe 4-01|D401,1775
+Johnson|Olathe 4-02|D402,1593
+Johnson|Olathe 4-03|D403,1854
+Johnson|Olathe 4-04|D404,1143
+Johnson|Olathe 4-05|D405,1465
+Johnson|Olathe 4-06|D406,1253
+Johnson|Olathe 4-07|D407,1089
+Johnson|Olathe 4-08|D408,1204
+Johnson|Olathe 4-09|D409,1678
+Johnson|Olathe 4-10|D410,1095
+Johnson|Olathe 4-11|D411,853
+Johnson|Olathe 4-12|D412,1911
+Johnson|Olathe 4-13|D413,941
+Johnson|Olathe 4-14|D414,1770
+Johnson|Olathe 4-15|D415,182
+Johnson|Olathe 4-16|D416,1387
+Johnson|Olathe 4-17|D417,1317
+Johnson|Olathe Twp 0-01|6001,503
+Johnson|Olathe Twp 0-02|6002,2
+Johnson|Olathe Twp 0-03|6003,79
+Johnson|Olathe Twp 0-04|6004,5
+Johnson|Olathe Twp 0-05|6005,28
+Johnson|Olathe Twp 0-08|6008,2
+Johnson|Olathe Twp 0-09|6009,2
+Johnson|Olathe Twp 0-10|6010,15
+Johnson|Olathe Twp 0-11|6011,9
+Johnson|Olathe Twp 0-13|6013,9
+Johnson|Olathe Twp 0-14|6014,4
+Johnson|Olathe Twp 0-16|6016,31
+Johnson|Olathe Twp 0-18|6018,4
+Johnson|Olathe Twp 0-19|6019,10
+Johnson|Olathe Twp 0-20|6020,3
+Johnson|Olathe Twp 0-21|6021,17
+Johnson|Olathe Twp 0-24|6024,2
+Johnson|Olathe Twp 0-26|6026,5
+Johnson|Olathe Twp 0-32|6032,48
+Johnson|Overland Park 1-01|N101,1150
+Johnson|Overland Park 1-02|N102,1398
+Johnson|Overland Park 1-03|N103,1122
+Johnson|Overland Park 1-04|N104,399
+Johnson|Overland Park 1-05|N105,460
+Johnson|Overland Park 1-06|N106,1213
+Johnson|Overland Park 1-07|N107,1437
+Johnson|Overland Park 1-08|N108,1259
+Johnson|Overland Park 1-09|N109,735
+Johnson|Overland Park 1-10|N110,1507
+Johnson|Overland Park 1-11|N111,595
+Johnson|Overland Park 1-12|N112,1493
+Johnson|Overland Park 1-13|N113,919
+Johnson|Overland Park 1-14|N114,1161
+Johnson|Overland Park 1-15|N115,533
+Johnson|Overland Park 1-16|N116,962
+Johnson|Overland Park 1-17|N117,623
+Johnson|Overland Park 1-18|N118,847
+Johnson|Overland Park 1-19|N119,952
+Johnson|Overland Park 1-20|N120,582
+Johnson|Overland Park 1-21|N121,347
+Johnson|Overland Park 1-22|N122,308
+Johnson|Overland Park 1-23|N123,829
+Johnson|Overland Park 1-24|N124,263
+Johnson|Overland Park 1-25|N125,713
+Johnson|Overland Park 1-26|N126,195
+Johnson|Overland Park 2-01|N201,860
+Johnson|Overland Park 2-02|N202,937
+Johnson|Overland Park 2-03|N203,780
+Johnson|Overland Park 2-04|N204,976
+Johnson|Overland Park 2-05|N205,789
+Johnson|Overland Park 2-06|N206,936
+Johnson|Overland Park 2-07|N207,704
+Johnson|Overland Park 2-08|N208,1217
+Johnson|Overland Park 2-09|N209,939
+Johnson|Overland Park 2-10|N210,2024
+Johnson|Overland Park 2-11|N211,465
+Johnson|Overland Park 2-12|N212,748
+Johnson|Overland Park 2-13|N213,759
+Johnson|Overland Park 2-14|N214,672
+Johnson|Overland Park 2-15|N215,1149
+Johnson|Overland Park 2-16|N216,749
+Johnson|Overland Park 2-17|N217,1031
+Johnson|Overland Park 2-18|N218,1600
+Johnson|Overland Park 2-19|N219,710
+Johnson|Overland Park 2-20|N220,613
+Johnson|Overland Park 2-21|N221,709
+Johnson|Overland Park 2-22|N222,908
+Johnson|Overland Park 2-23|N223,812
+Johnson|Overland Park 2-24|N224,862
+Johnson|Overland Park 2-25|N225,679
+Johnson|Overland Park 2-26|N226,867
+Johnson|Overland Park 2-27|N227,557
+Johnson|Overland Park 2-28|N228,576
+Johnson|Overland Park 3-01|N301,1484
+Johnson|Overland Park 3-02|N302,1123
+Johnson|Overland Park 3-03|N303,744
+Johnson|Overland Park 3-04|N304,1077
+Johnson|Overland Park 3-05|N305,1214
+Johnson|Overland Park 3-06|N306,1004
+Johnson|Overland Park 3-07|N307,1118
+Johnson|Overland Park 3-08|N308,856
+Johnson|Overland Park 3-09|N309,1333
+Johnson|Overland Park 3-10|N310,682
+Johnson|Overland Park 3-11|N311,1097
+Johnson|Overland Park 3-12|N312,1034
+Johnson|Overland Park 3-13|N313,1914
+Johnson|Overland Park 3-14|N314,1423
+Johnson|Overland Park 3-15|N315,847
+Johnson|Overland Park 3-16|N316,931
+Johnson|Overland Park 3-17|N317,1561
+Johnson|Overland Park 3-18|N318,1902
+Johnson|Overland Park 3-19|N319,1312
+Johnson|Overland Park 3-20|N320,1135
+Johnson|Overland Park 3-21|N321,152
+Johnson|Overland Park 3-22|N322,704
+Johnson|Overland Park 3-23|N323,1028
+Johnson|Overland Park 4-01|N401,1326
+Johnson|Overland Park 4-02|N402,1194
+Johnson|Overland Park 4-03|N403,1835
+Johnson|Overland Park 4-04|N404,1538
+Johnson|Overland Park 4-05|N405,1247
+Johnson|Overland Park 4-06|N406,990
+Johnson|Overland Park 4-07|N407,902
+Johnson|Overland Park 4-08|N408,1050
+Johnson|Overland Park 4-09|N409,950
+Johnson|Overland Park 4-10|N410,749
+Johnson|Overland Park 4-11|N411,1454
+Johnson|Overland Park 4-12|N412,1824
+Johnson|Overland Park 4-13|N413,1079
+Johnson|Overland Park 4-14|N414,655
+Johnson|Overland Park 4-15|N415,765
+Johnson|Overland Park 4-16|N416,2178
+Johnson|Overland Park 4-17|N417,1757
+Johnson|Overland Park 4-18|N418,440
+Johnson|Overland Park 4-19|N419,1460
+Johnson|Overland Park 4-20|N420,540
+Johnson|Overland Park 4-21|N421,840
+Johnson|Overland Park 5-01|N501,1267
+Johnson|Overland Park 5-02|N502,836
+Johnson|Overland Park 5-03|N503,1250
+Johnson|Overland Park 5-04|N504,1465
+Johnson|Overland Park 5-05|N505,2137
+Johnson|Overland Park 5-06|N506,1357
+Johnson|Overland Park 5-07|N507,1579
+Johnson|Overland Park 5-08|N508,2165
+Johnson|Overland Park 5-09|N509,1565
+Johnson|Overland Park 5-10|N510,524
+Johnson|Overland Park 5-11|N511,1691
+Johnson|Overland Park 5-12|N512,596
+Johnson|Overland Park 5-13|N513,1224
+Johnson|Overland Park 5-14|N514,1366
+Johnson|Overland Park 5-15|N515,1846
+Johnson|Overland Park 5-16|N516,765
+Johnson|Overland Park 5-17|N517,525
+Johnson|Overland Park 5-18|N518,1189
+Johnson|Overland Park 5-19|N519,425
+Johnson|Overland Park 5-20|N520,109
+Johnson|Overland Park 5-21|N521,1171
+Johnson|Overland Park 6-01|N601,1321
+Johnson|Overland Park 6-02|N602,1115
+Johnson|Overland Park 6-03|N603,1158
+Johnson|Overland Park 6-04|N604,1511
+Johnson|Overland Park 6-05|N605,1613
+Johnson|Overland Park 6-06|N606,242
+Johnson|Overland Park 6-07|N607,449
+Johnson|Overland Park 6-08|N608,1184
+Johnson|Overland Park 6-09|N609,730
+Johnson|Overland Park 6-10|N610,368
+Johnson|Overland Park 6-11|N611,1364
+Johnson|Overland Park 6-12|N612,570
+Johnson|Overland Park 6-13|N613,1305
+Johnson|Overland Park 6-14|N614,1363
+Johnson|Overland Park 6-15|N615,1816
+Johnson|Overland Park 6-16|N616,852
+Johnson|Overland Park 6-17|N617,264
+Johnson|Overland Park 6-18|N618,1526
+Johnson|Overland Park 6-19|N619,933
+Johnson|Overland Park 6-20|N620,716
+Johnson|Overland Park 6-21|N621,823
+Johnson|Overland Park 6-22|N622,1458
+Johnson|Overland Park 6-23|N623,2073
+Johnson|Overland Park 6-24|N624,1434
+Johnson|Overland Park 6-25|N625,36
+Johnson|Oxford Twp 0-01|7001,1
+Johnson|Oxford Twp 0-02|7002,768
+Johnson|Oxford Twp 0-04|7004,764
+Johnson|Oxford Twp 0-05|7005,35
+Johnson|Oxford Twp 0-09|7009,43
+Johnson|Oxford Twp 0-10|7010,2
+Johnson|Oxford Twp 0-11|7011,192
+Johnson|Prairie Village 1-01|O101,1422
+Johnson|Prairie Village 1-02|O102,527
+Johnson|Prairie Village 1-03|O103,1111
+Johnson|Prairie Village 2-01|O201,1441
+Johnson|Prairie Village 2-02|O202,734
+Johnson|Prairie Village 2-03|O203,1097
+Johnson|Prairie Village 3-01|O301,848
+Johnson|Prairie Village 3-02|O302,1422
+Johnson|Prairie Village 3-03|O303,882
+Johnson|Prairie Village 4-01|O401,1092
+Johnson|Prairie Village 4-02|O402,804
+Johnson|Prairie Village 4-03|O403,1668
+Johnson|Prairie Village 5-01|O501,936
+Johnson|Prairie Village 5-02|O502,1136
+Johnson|Prairie Village 5-03|O503,1588
+Johnson|Prairie Village 6-01|O601,910
+Johnson|Prairie Village 6-02|O602,1381
+Johnson|Prairie Village 6-03|O603,899
+Johnson|Roeland Park 1-01|P101,864
+Johnson|Roeland Park 1-02|P102,502
+Johnson|Roeland Park 2-01|P201,682
+Johnson|Roeland Park 2-02|P202,785
+Johnson|Roeland Park 3-01|P301,482
+Johnson|Roeland Park 3-02|P302,453
+Johnson|Roeland Park 3-03|P303,399
+Johnson|Roeland Park 4-01|P401,388
+Johnson|Roeland Park 4-02|P402,552
+Johnson|Roeland Park 4-03|P403,583
+Johnson|Shawnee 1-01|Q101,1227
+Johnson|Shawnee 1-02|Q102,870
+Johnson|Shawnee 1-03|Q103,941
+Johnson|Shawnee 1-04|Q104,778
+Johnson|Shawnee 1-05|Q105,1576
+Johnson|Shawnee 1-06|Q106,1221
+Johnson|Shawnee 1-07|Q107,1394
+Johnson|Shawnee 1-08|Q108,2226
+Johnson|Shawnee 1-09|Q109,353
+Johnson|Shawnee 1-10|Q110,449
+Johnson|Shawnee 1-11|Q111,1146
+Johnson|Shawnee 1-12|Q112,12
+Johnson|Shawnee 1-13|Q113,881
+Johnson|Shawnee 2-01|Q201,791
+Johnson|Shawnee 2-02|Q202,1178
+Johnson|Shawnee 2-03|Q203,1348
+Johnson|Shawnee 2-04|Q204,1320
+Johnson|Shawnee 2-05|Q205,691
+Johnson|Shawnee 2-06|Q206,835
+Johnson|Shawnee 2-07|Q207,867
+Johnson|Shawnee 2-08|Q208,802
+Johnson|Shawnee 2-09|Q209,719
+Johnson|Shawnee 2-10|Q210,723
+Johnson|Shawnee 2-11|Q211,881
+Johnson|Shawnee 2-12|Q212,542
+Johnson|Shawnee 2-13|Q213,517
+Johnson|Shawnee 3-01|Q301,957
+Johnson|Shawnee 3-02|Q302,1072
+Johnson|Shawnee 3-03|Q303,1567
+Johnson|Shawnee 3-04|Q304,1529
+Johnson|Shawnee 3-05|Q305,131
+Johnson|Shawnee 3-06|Q306,1547
+Johnson|Shawnee 3-07|Q307,1903
+Johnson|Shawnee 3-08|Q308,1368
+Johnson|Shawnee 3-09|Q309,1563
+Johnson|Shawnee 3-10|Q310,925
+Johnson|Shawnee 3-11|Q311,1714
+Johnson|Shawnee 3-12|Q312,611
+Johnson|Shawnee 4-01|Q401,1363
+Johnson|Shawnee 4-02|Q402,897
+Johnson|Shawnee 4-03|Q403,656
+Johnson|Shawnee 4-04|Q404,935
+Johnson|Shawnee 4-05|Q405,1674
+Johnson|Shawnee 4-06|Q406,1120
+Johnson|Shawnee 4-07|Q407,1483
+Johnson|Shawnee 4-08|Q408,491
+Johnson|Shawnee 4-09|Q409,2083
+Johnson|Shawnee 4-11|Q411,1014
+Johnson|Shawnee 4-12|Q412,254
+Johnson|Shawnee 4-13|Q413,272
+Johnson|Spring Hill 0-01|E001,1896
+Johnson|Spring Hill 0-03|E003,706
+Johnson|Spring Hill 0-04|E004,3
+Johnson|Spring Hill 0-05|E005,347
+Johnson|Spring Hill 0-08|E008,204
+Johnson|Spring Hill 0-09|E009,1005
+Johnson|Spring Hill Twp 0-01|9001,445
+Johnson|Spring Hill Twp 0-02|9002,2
+Johnson|Spring Hill Twp 0-03|9003,125
+Johnson|Spring Hill Twp 0-04|9004,22
+Johnson|Spring Hill Twp 0-05|9005,26
+Johnson|Spring Hill Twp 0-07|9007,384
+Johnson|Spring Hill Twp 0-08|9008,2
+Johnson|Spring Hill Twp 0-09|9009,1
+Johnson|Spring Hill Twp 0-10|9010,623
+Johnson|Spring Hill Twp 0-11|9011,3
+Johnson|Spring Hill Twp 0-12|9012,5
+Johnson|Westwood 0-01|R001,829
+Johnson|Westwood 0-02|R002,657
+Johnson|Westwood Hills 0-01|S001,338
+Kearny|Deerfield|003,457
+Kearny|E Hibbard Twp|004,72
+Kearny|Hartland Twp|006,78
+Kearny|Kendall Twp|007,56
+Kearny|Lakin City|001,1209
+Kearny|Lakin Twp|002,183
+Kearny|Southside Twp|008,115
+Kearny|W Hibbard Twp|005,30
+Kingman|Allen|1,83
+Kingman|Belmont|2,35
+Kingman|Bennett|3,147
+Kingman|Canton|4,73
+Kingman|Chikaskia|5,27
+Kingman|Cunn-Dresden|6,166
+Kingman|Cunn-Rural|7,123
+Kingman|Dale|8,112
+Kingman|Dresden|9,63
+Kingman|Eagle|10,87
+Kingman|Eureka|11,64
+Kingman|Evan|12,418
+Kingman|Galesburg|13,163
+Kingman|Hoosier|14,102
+Kingman|Kingman Twp|16,87
+Kingman|Kingman Ward 1|35,560
+Kingman|Kingman Ward 2|37,814
+Kingman|Kingman Ward 3|38,298
+Kingman|Kingman Ward 4|39,438
+Kingman|Liberty|18,43
+Kingman|Nashville|19,56
+Kingman|Ninnescah|20,191
+Kingman|Norwich|21,325
+Kingman|Penalosa|22,11
+Kingman|Peters|23,84
+Kingman|Richland|24,65
+Kingman|Rochester|25,53
+Kingman|Rural|26,75
+Kingman|Spivey|27,44
+Kingman|Union|28,52
+Kingman|Valley|29,83
+Kingman|Vinita|30,187
+Kingman|White Township Part A|33,161
+Kingman|White Township Part B|31,106
+Kingman|Zenda|32,44
+Kiowa|Belvidere|TW004,25
+Kiowa|Center 1 TWP|TW001,151
+Kiowa|Center 1|1101,249
+Kiowa|Center 2|1102,115
+Kiowa|Center 2A|1102A,158
+Kiowa|Center1A TWP|TW001A,45
+Kiowa|Haviland A TWP|TW003A,53
+Kiowa|Haviland TWP|TW003,94
+Kiowa|Haviland|2003,368
+Kiowa|Mullinville TWP|TW005,132
+Kiowa|Mullinville|3005,132
+Labette|CA/10|10,142
+Labette|Chetopa City|CH,730
+Labette|EG/11|11,546
+Labette|FV/13|13,130
+Labette|HA/16|16,242
+Labette|HO/18|18,242
+Labette|LB/19|19,291
+Labette|LI/21|21,296
+Labette|MP/28|28,954
+Labette|MT/23|23,111
+Labette|MV/26|26,506
+Labette|NE/30|30,111
+Labette|NO/33|33,487
+Labette|OG/37|37,520
+Labette|OS/39|39,216
+Labette|Oswego City|OC,1104
+Labette|Parsons|PA,6050
+Labette|RI/44 HR01|44,104
+Labette|RI/Cen/46 HR01|46,47
+Labette|RI/SE/45 HR01|45,33
+Labette|WA/48|48,549
+Lane|Alamota Twp|T220001,39
+Lane|Cheyenne Twp|T440003,159
+Lane|Dighton City|1C10001,708
+Lane|Dighton Twp|T610001,165
+Lane|White Rock Twp Ward 7|T870001,10
+Lane|Wilson Twp Ward 8|T980003,47
+Leavenworth|1 Pct 1 Ward|0011,836
+Leavenworth|1 Pct 2 Ward|0012,737
+Leavenworth|1 Pct 3 Ward|0013,1008
+Leavenworth|1 Pct 4 Ward|0014,643
+Leavenworth|1 Pct 5 Ward|0015,832
+Leavenworth|1 Pct 6 Ward|0016,990
+Leavenworth|1 Pct 7 Ward|0017,480
+Leavenworth|2 Pct 2 Ward H40|018 A,458
+Leavenworth|2 Pct 2 Ward H41|0018,141
+Leavenworth|2 Pct 5 Ward|0019,660
+Leavenworth|2 Pct 6 Ward H38|0020,342
+Leavenworth|2 Pct 6 Ward H40|020 A,451
+Leavenworth|2 Pct 7 Ward|0021,2442
+Leavenworth|3 Pct 2 Ward|0022,956
+Leavenworth|3 Pct 5 Ward|0023,1207
+Leavenworth|3 Pct 6 Ward|0024,752
+Leavenworth|3 Pct 7 Ward H38|0025,1290
+Leavenworth|3 Pct 7 Ward H40|025 A,1755
+Leavenworth|4 Pct 5 Ward|0028,758
+Leavenworth|4 Pct 6 Ward H38|0029,428
+Leavenworth|4 Pct 6 Ward H41|029 A,989
+Leavenworth|5 Pct 6 Ward|0030,1270
+Leavenworth|Basehor City North|0031,3117
+Leavenworth|Basehor City South|0059,2402
+Leavenworth|Basehor Twp/Fair|0032,1503
+Leavenworth|Boling/High Prairie H38|0033,1025
+Leavenworth|Boling/High Prairie H40|033 A,371
+Leavenworth|Boling/High Prairie H41|033 B,288
+Leavenworth|Boling/High Prairie H42|033 C,73
+Leavenworth|Bonner Springs City|0034,4
+Leavenworth|Delaware 1|0048,857
+Leavenworth|Easton City|0035,124
+Leavenworth|Easton/Easton|0036,690
+Leavenworth|Ft. Leav|0001,1462
+Leavenworth|Glenwood S5|037 A,451
+Leavenworth|Glenwood S9|0037,1613
+Leavenworth|Kickapoo/Kickapoo H41|0038,1426
+Leavenworth|Kickapoo/Kickapoo H42|038 A,84
+Leavenworth|Lansing Ward 1|0042,1550
+Leavenworth|Lansing Ward 2|0039,1939
+Leavenworth|Lansing Ward 3|0043,1734
+Leavenworth|Lansing Ward 4|0044,1787
+Leavenworth|Linwood City|0045,278
+Leavenworth|Linwood/Sherman H38|0046,1808
+Leavenworth|Linwood/Sherman H42|046 A,193
+Leavenworth|Reno/Reno|0047,1220
+Leavenworth|Springdale/Alex|0049,668
+Leavenworth|Stranger/Stranger H38|0050,765
+Leavenworth|Stranger/Stranger H42|050 A,500
+Leavenworth|Tonganoxie NO|0051,2747
+Leavenworth|Tonganoxie Rural|0052,2116
+Leavenworth|Tonganoxie SO|0053,1313
+Leavenworth|Walnut/Stranger H38|0054,592
+Leavenworth|Walnut/Stranger H42|054 A,401
+Lincoln|Barnard City|42,51
+Lincoln|Battle Creek Township|02,22
+Lincoln|Beaver Township|04,43
+Lincoln|Beverly City|44,79
+Lincoln|Cedron Township|06,27
+Lincoln|Colorado Township|08,84
+Lincoln|Elkhorn Township|10,104
+Lincoln|Franklin Township|12,63
+Lincoln|Golden Belt Township|14,33
+Lincoln|Grant Township|16,55
+Lincoln|Hanover Township|18,29
+Lincoln|Highland Township|20,50
+Lincoln|Indiana Township|22,57
+Lincoln|Lincoln City|46,398
+Lincoln|Lincoln City|47,396
+Lincoln|Logan Township|24,44
+Lincoln|Madison Township|28,79
+Lincoln|Marion Township|26,36
+Lincoln|Orange Township|30,42
+Lincoln|Pleasant Township|32,87
+Lincoln|Salt Creek Township|34,22
+Lincoln|Scott Township|36,25
+Lincoln|Sylvan Grove City|48,186
+Lincoln|Valley Township|38,33
+Lincoln|Vesper Township|40,66
+Linn|Blue Mound City Prec 100001|100001,173
+Linn|BM TWP Precinct Bm00001|BM00001,165
+Linn|CE TWP Precinct Ce00002|CE00002,340
+Linn|Liberty Twp Precinct Lb00003|LB00003,548
+Linn|Linn Valley Precinct 700004|700004,905
+Linn|Mound City Precinct 300006|300006,476
+Linn|Mound City Precinct Mc00006|MC00006,547
+Linn|N LaCygne City Precinct 200004|200004,495
+Linn|N Lincoln Twp Precinct Ln00004|LN00004,229
+Linn|N Pleasanton City Prec 500008|500008,443
+Linn|N Potosi Twp Precinct Po00008|PO00008,274
+Linn|Paris Twp Precinct Pa00007|PA00007,452
+Linn|Parker City Precinct 400003|400003,144
+Linn|Prescott City Precinct 600011|600011,158
+Linn|S LaCygne City Precinct 200005|200005,242
+Linn|S Lincoln Precinct Ln00005|LN00005,176
+Linn|S Pleasanton City Prec 500009|500009,406
+Linn|S Potosi Twp Precinct Po00009|PO00009,256
+Linn|Scott Twp Precinct Sc00010|SC00010,619
+Linn|Sheridan Twp Precinct Sh00011|SH00011,193
+Linn|Stanton Twp Precinct St00012|ST00012,137
+Linn|Valley Twp Precinct Va00013|VA00013,85
+Logan|Augustine Twp.|AU0AU,17
+Logan|Elkader Twp.|EL0EL,8
+Logan|Lees Twp.|LE0LE,9
+Logan|Logansport Twp.|LO0LO,3
+Logan|McAllaster Twp.|MC0MC,25
+Logan|Monument Twp.|MO0MO,88
+Logan|Oakley City|101,1318
+Logan|Oakley Twp.|OA01,140
+Logan|Paxton Twp.|PA0PA,22
+Logan|Russell Springs City|20RS,17
+Logan|Russell Springs Twp.|RS0RS,26
+Logan|Western Twp.|WE0WE,23
+Logan|Winona City|30WI,138
+Logan|Winona Twp.|WI0WI,48
+Lyon|Precinct 01|01,746
+Lyon|Precinct 02|02,636
+Lyon|Precinct 03|03,834
+Lyon|Precinct 04|04,1013
+Lyon|Precinct 05|05,854
+Lyon|Precinct 06|06,825
+Lyon|Precinct 07|07,316
+Lyon|Precinct 08|08,808
+Lyon|Precinct 09|09,626
+Lyon|Precinct 10|10,629
+Lyon|Precinct 11|11,600
+Lyon|Precinct 12|12,517
+Lyon|Precinct 13|13,801
+Lyon|Precinct 14|14,814
+Lyon|Precinct 15|15,383
+Lyon|Precinct 16|16,689
+Lyon|Precinct 17|17,689
+Lyon|Precinct 18|18,550
+Lyon|Precinct 19|19,1000
+Lyon|Precinct 20|20,832
+Lyon|Precinct 21|21,328
+Lyon|Precinct 22|22,172
+Lyon|Precinct 23|23,172
+Lyon|Precinct 24|24,983
+Lyon|Precinct 25|25,709
+Lyon|Precinct 26|26,300
+Lyon|Precinct 27|27,141
+Lyon|Precinct 28|28,471
+Lyon|Precinct 29|29,120
+Lyon|Precinct 29D|29D,5
+Lyon|Precinct 30|30,725
+Lyon|Precinct 31|31,412
+Lyon|Precinct 32|32,524
+Lyon|Precinct 33|33,449
+Lyon|Precinct 34|34,14
+Lyon|Precinct 35|35,89
+Lyon|Precinct 36|36,446
+Lyon|Precinct 37|37,60
+Lyon|Precinct 4A|4A,3
+Lyon|Precinct 4B|4B,6
+Lyon|Precinct 4C|4C,7
+Lyon|Precinct 6A|6A,2
+Marion|Blaine|BL,42
+Marion|Burns|BU,131
+Marion|Catlin/Peabody East|C2E,2
+Marion|Catlin/Peabody West|C1W,5
+Marion|Catlin|CA,128
+Marion|Centre|CE,389
+Marion|Clark|CL,94
+Marion|Clear Creek|CC,198
+Marion|Colfax|CO,63
+Marion|Doyle|DO,35
+Marion|Durham City|DC,60
+Marion|Durham Park Township|DP,69
+Marion|East Branch|EB,130
+Marion|Fairplay|FA,90
+Marion|Florence 1st|F11,133
+Marion|Florence 2nd|F22,164
+Marion|Gale|GA,187
+Marion|Goessel|GC,353
+Marion|Grant|GR,91
+Marion|Hillsboro 1st|H11,802
+Marion|Hillsboro 2nd|H22,875
+Marion|Lehigh City|LC,98
+Marion|Lehigh Township|LE,114
+Marion|Liberty|LI,246
+Marion|Lincolnville|LN,119
+Marion|Logan|LG,36
+Marion|Lost Springs City|LO,35
+Marion|Lost Springs Township|LS,85
+Marion|Marion North|MNN,715
+Marion|Marion South|MSS,666
+Marion|Menno|ME,241
+Marion|Milton|MI,53
+Marion|Moore|MO,39
+Marion|Peabody City East|PEE,263
+Marion|Peabody City West|PWW,393
+Marion|Peabody Township East|PBE,66
+Marion|Peabody Township West|PYW,76
+Marion|Ramona|RA,68
+Marion|Risley|RI,173
+Marion|Summit|SU,51
+Marion|Tampa|TC,80
+Marion|West Branch|WB,311
+Marion|Wilson|WI,148
+Marshall|Balderson Twp|100000,58
+Marshall|Bigelow Twp|200000,25
+Marshall|Blue Rapids City Twp/BR|400002,613
+Marshall|Blue Rapids City Twp|400001,75
+Marshall|Blue Rapids Twp|300000,58
+Marshall|Center Twp|500000,101
+Marshall|Clear Fork Twp|600000,34
+Marshall|Cleveland Twp|700000,58
+Marshall|Cottage Hill Twp|800000,99
+Marshall|Elm Creek Twp|900000,121
+Marshall|Franklin Twp|1000000,216
+Marshall|Guittard Twp/Beattie|1100004,128
+Marshall|Guittard Twp|1100003,99
+Marshall|Herkimer Twp|1200000,157
+Marshall|Lincoln Twp|1300000,110
+Marshall|Logan Twp|1400000,199
+Marshall|Marysville City Ward 1|2610000,665
+Marshall|Marysville City Ward 2|2620000,597
+Marshall|Marysville City Ward 3|2630000,453
+Marshall|Marysville City Ward 4|2640000,574
+Marshall|Marysville Twp|1500000,210
+Marshall|Murray Twp/Axtell|1600006,291
+Marshall|Murray Twp|1600005,156
+Marshall|Noble Twp/Vermillion|1700008,75
+Marshall|Noble Twp|1700007,72
+Marshall|Oketo Twp/Oketo|1800010,46
+Marshall|Oketo Twp|1800009,102
+Marshall|Richland Twp/Summerfield|1900012,52
+Marshall|Richland Twp|1900011,71
+Marshall|Rock Twp|2000000,93
+Marshall|St Bridget Twp/Summerfield|2100014,53
+Marshall|St Bridget Twp|2100013,68
+Marshall|Vermillion Twp/East/Frankfort|2250016,268
+Marshall|Vermillion Twp/East|2250015,79
+Marshall|Vermillion Twp/West/Frankfort|2260018,254
+Marshall|Vermillion Twp/West|2260017,66
+Marshall|Walnut Twp|2300000,78
+Marshall|Waterville Twp/Waterville|2400020,475
+Marshall|Waterville Twp|2400019,85
+Marshall|Wells Twp|2500000,96
+McPherson|Battle Hill Twp|BHT,85
+McPherson|Bonaville Twp|BNT,58
+McPherson|Canton City|CNC,396
+McPherson|Canton Twp|CNT,147
+McPherson|Castle Twp|CST,50
+McPherson|Delmore Twp|DET,107
+McPherson|Empire Twp|EMT,212
+McPherson|Galva City|GAC,534
+McPherson|Groveland Twp|GRT,129
+McPherson|Gypsum Creek Twp|GCT,117
+McPherson|Harper Twp|HPT,112
+McPherson|Hayes Twp|HYT,176
+McPherson|Inman City|INC,906
+McPherson|Jackson Twp|JAT,123
+McPherson|King City Twp|KCT,369
+McPherson|Lindsborg City Ward 1|L1C,528
+McPherson|Lindsborg City Ward 2|L2C,613
+McPherson|Lindsborg City Ward 3|L3C,585
+McPherson|Lindsborg City Ward 4|L4C,606
+McPherson|Little Valley Twp|LVT,287
+McPherson|Lone Tree Twp|LTT,165
+McPherson|Marquette City|MQC,409
+McPherson|Marquette Twp|MQT,112
+McPherson|McPherson City Ward 1|M1C,4391
+McPherson|McPherson City Ward 2|M2C,1382
+McPherson|McPherson City Ward 3|M3C,923
+McPherson|McPherson City Ward 4|M4C,1957
+McPherson|McPherson Twp|MPT,423
+McPherson|Meridian Twp|MET,178
+McPherson|Mound Twp|MDT,263
+McPherson|Moundridge City|MDC,1118
+McPherson|New Gottland Twp|NGT,394
+McPherson|S Sharps Creek Twp|SST,57
+McPherson|Smoky Hill Twp|SHT,248
+McPherson|Spring Valley Twp|SVT,189
+McPherson|Superior Twp|SUT,225
+McPherson|Turkey Creek Twp|TCT,196
+McPherson|Union Twp|UNT,141
+McPherson|Windom City|WIC,71
+Meade|Cimarron TWP|CT10009,76
+Meade|Crooked Creek TWP|CC10002,66
+Meade|Fowler City|110001,416
+Meade|Fowler TWP|FT10001,100
+Meade|Logan TWP|LT10006,89
+Meade|Meade Center TWP|MC10005,240
+Meade|Meade City|210005,1382
+Meade|Mertilla TWP|MT10003,84
+Meade|Odee TWP|OT10008,33
+Meade|Plains City|310004,796
+Meade|Sand Creek TWP|SC10007,29
+Meade|West Plains TWP|WP10004,99
+Miami|East Middle Creek|EMC,953
+Miami|East Valley H6|EV6,313
+Miami|East Valley H9 Part A|EV9A,18
+Miami|East Valley H9 Part B|EV9B,2
+Miami|Fontana City|FC,131
+Miami|Louisburg City 1|LC1,738
+Miami|Louisburg City 2|LC2,1022
+Miami|Louisburg City 3|LC3,991
+Miami|Louisburg City 4 - MC|LC4MC,57
+Miami|Louisburg City 4|LC4,839
+Miami|Miami H9|MI9,257
+Miami|Miami Twp H6|MI6,173
+Miami|Mound H5|MND5,132
+Miami|Mound H9|MND9,412
+Miami|N Paola E1 Part 1|NPE1,12
+Miami|N Paola E2 Part 2|NPE2,83
+Miami|N Paola W Twp|NPW,386
+Miami|North Marysvill H5 S23|NMV523,140
+Miami|North Marysville ENC H26 S23|NMVEN26,5
+Miami|North Marysville ENC H5 S23|NMVEN5,8
+Miami|North Marysville H5|NMV537,345
+Miami|North Marysville H6 S23|NMV623,162
+Miami|North Marysville H6 S37 Part A|NMV637,252
+Miami|North Wea|NW,545
+Miami|Osage|OSG,331
+Miami|Osawatomie City 1 H6|OC16,525
+Miami|Osawatomie City 2 H5|OC25,667
+Miami|Osawatomie City 3 H5 EXC B|OC35EXB,5
+Miami|Osawatomie City 3 H5|OC35,694
+Miami|Osawatomie City 4 H5 S12|OC45,43
+Miami|Osawatomie City 4 H6 S12|OC46,560
+Miami|Osawatomie Twp H5|OSA5,469
+Miami|Osawatomie Twp H6 Part A|OSA6A,1
+Miami|Osawatomie Twp H9|OSA9,96
+Miami|Paola City 1|PC1,1015
+Miami|Paola City 2|PC2,992
+Miami|Paola City 3|PC3,911
+Miami|Paola City 4 S12|PC4,1302
+Miami|RICH H6|RICH6,109
+Miami|Richland|RICH,1592
+Miami|S Paola E2|SPE2,152
+Miami|S Paola W|SPW,252
+Miami|South Marysville H6|SMV6,1135
+Miami|South Wea Township ENC A|SWENA,28
+Miami|South Wea|SW,1175
+Miami|Spring Hill City 1 H26|SH126,2119
+Miami|Spring Hill City 2 H6|SH26,1
+Miami|Spring Hill City 3 EXC B|SH3EXB6,164
+Miami|STAN H5 S12|STAN5,643
+Miami|STAN H6|STAN6,55
+Miami|Sugar Creek H6 S12|SC6,256
+Miami|Sugar Creek H9|SC9,207
+Miami|Ten Mile|TM,1262
+Miami|West Middle Creek|WMC,637
+Miami|West Valley 6|WV6,454
+Miami|West Valley EXC H6|WVEX6,290
+Miami|West Valley Exclave H9|WV9,40
+Mitchell|Asherville Township|AS60002,79
+Mitchell|Beloit City|1B10001,1137
+Mitchell|Beloit Township|BE90001,155
+Mitchell|Bloomfield Township|BLA0001,66
+Mitchell|Blue Hill Township|BH40002,21
+Mitchell|Carr Creek Township|CC20003,18
+Mitchell|Cawker City|2C20001,317
+Mitchell|Cawker Township|CA20002,33
+Mitchell|Center Township|CEA0003,19
+Mitchell|City of Beloit|1B10002,1232
+Mitchell|Custer Township|CU40003,38
+Mitchell|Eureka Township|EU60004,11
+Mitchell|Glen Elder City|3G30001,283
+Mitchell|Glen Elder Township|GE30002,72
+Mitchell|Hayes Township|HA70002,17
+Mitchell|Hunter|4H40001,40
+Mitchell|Logan Township|LO60003,23
+Mitchell|Lulu Township|LU50002,33
+Mitchell|Pittsburg Township|PI70003,63
+Mitchell|Plum Creek Township|PL80001,98
+Mitchell|Round Springs Township|RSA0004,16
+Mitchell|Salt Creek Township|SCA0002,14
+Mitchell|Scottsville|5S50001,22
+Mitchell|Simpson|6S60001,51
+Mitchell|Solomon Rapids Township|SR80002,57
+Mitchell|Tipton|7T70001,140
+Mitchell|Turkey Creek Township|TC80003,75
+Mitchell|Walnut Creek Township|WC30003,33
+Montgomery|Caney City W3 Pc 2 Ex A|053,4
+Montgomery|Caney City Wd 1 Prc 2 Ex A H12|044,2
+Montgomery|Caney City|001,1231
+Montgomery|Caney Twp|005,935
+Montgomery|Cherokee Twp CC1|006,90
+Montgomery|Cherokee Twp CC3|006.3,188
+Montgomery|Cherry Twp|007,375
+Montgomery|Cherryvale City|002,1288
+Montgomery|Coffeyville City|003,4916
+Montgomery|Coffeyville W1 Pc 1 Exclaves|049,8
+Montgomery|Drum Creek Twp CC1|008,312
+Montgomery|Drum Creek Twp CC2|008.2,71
+Montgomery|Fawn Creek  Twp CC2|009,1068
+Montgomery|Fawn Creek Twp CC3|009.3,376
+Montgomery|Indep City Ward 1 Prec 1 CC1|024.1,335
+Montgomery|Indep City Ward 1 Prec 1|024,3
+Montgomery|Indep City Ward 1 Prec 2 CC1|025.1,432
+Montgomery|Indep City Ward 1 Prec 2|025,41
+Montgomery|Indep City Ward 2 Prec 1 CC1|026.01,239
+Montgomery|Indep City Ward 2 Prec 1|026,3
+Montgomery|Indep City Ward 2 Prec 2 CC2|027.1,102
+Montgomery|Indep City Ward 2 Prec 2|027,111
+Montgomery|Indep City Ward 3 Prec 1|028,457
+Montgomery|Indep City Ward 3 Prec 2 Excla|030,1
+Montgomery|Indep City Ward 3 Prec 2 H11|058,245
+Montgomery|Indep City Ward 3 Prec 2 H12|029,30
+Montgomery|Indep City Ward 4 Prec 1|031,508
+Montgomery|Indep City Ward 4 Prec 2|032,393
+Montgomery|Indep City Ward 5 Prec 1|033,396
+Montgomery|Indep City Ward 5 Prec 2|034,527
+Montgomery|Indep City Ward 6 Prec 1 H12 C|035,41
+Montgomery|Indep City Ward 6 Prec 1 H12|037,881
+Montgomery|Indep City Ward 6 Prec 2 H11|036,473
+Montgomery|Indep City Ward 6 Prec 2 H11A|039,171
+Montgomery|Indep City Ward 6 Prec 2 H11B|057,26
+Montgomery|Indep City Ward 6 Prec 2 H12|038,103
+Montgomery|Indep City Ward 6 Prec 2 H12B|040,18
+Montgomery|Independence Twp  2 Part AH12|010,214
+Montgomery|Independence Twp 1 - H11|022,1195
+Montgomery|Independence Twp 1 - H12|023,185
+Montgomery|Independence Twp 1 Enclave H12|043,1
+Montgomery|Independence Twp 2 Part C CC1|042.1,7
+Montgomery|Independence Twp 2 Part CH11|042,64
+Montgomery|Independence Twp CC1|010.1,30
+Montgomery|Liberty Township CC2|011.2,85
+Montgomery|Liberty Twp CC1|011,288
+Montgomery|Louisburg Township CC2|012.2,335
+Montgomery|Louisburg Twp|012,48
+Montgomery|Parker Twp 2 Enclave H11|045,3
+Montgomery|Parker Twp|013,837
+Montgomery|Rutland Twp CC1|014.1,18
+Montgomery|Rutland Twp|014,242
+Montgomery|Sycamore Twp H11|015,613
+Montgomery|West Cherry Twp|016,221
+Morris|Council Grove - Ward 1|CG1,437
+Morris|Council Grove - Ward 2|CG2,372
+Morris|Council Grove - Ward 3|CG3,622
+Morris|Highland Twp|HI,69
+Morris|Overland Twp|OV,58
+Morris|Township Eight|T8,137
+Morris|Township Five|T5,431
+Morris|Township Four|T4,144
+Morris|Township Nine|T9,234
+"Morris|Township One, Pct 1|T1P1",222
+"Morris|Township One, Pct 2|T1P2",146
+Morris|Township Seven|T7,163
+Morris|Township Six|T6,79
+Morris|Township Three|T3,307
+Morris|Township Two|T2,535
+Morton|Cimarron|01,46
+Morton|Elkhart|02,1350
+Morton|Jones|03,10
+Morton|Richfield City|04,33
+Morton|Richfield East|05,56
+Morton|Richfield West|06,53
+Morton|Rolla City|08,259
+Morton|Rolla|07,89
+Morton|Taloga|09,84
+Morton|Westola|10,44
+Nemaha|Adams Township|AD9,136
+Nemaha|Bern City|110001,131
+Nemaha|Berwick Township|BEA,290
+Nemaha|Capioma Township|CAB,115
+Nemaha|Center Township|CED,134
+Nemaha|Centralia-Home|220001,279
+Nemaha|Centralia-Illinois|230002,45
+Nemaha|Clear Creek Township|CCC,78
+Nemaha|Corning City|330003,145
+Nemaha|Gilman Township|GI50002,118
+Nemaha|Goff City|440001,65
+Nemaha|Granada Township|GRE,73
+Nemaha|Harrison-Goff|HA40003,62
+Nemaha|Harrison-Kelly|HA40002,84
+Nemaha|Home Township|HO20002,110
+Nemaha|Illinois Township|IL30001,166
+Nemaha|Marion Township|MAF,299
+Nemaha|Mitchell Township|MIG,244
+Nemaha|Nemaha Township|NMH,105
+Nemaha|Neuchatel Township|NUI,81
+Nemaha|Oneida City|550001,38
+Nemaha|Red Vermillion Township|RVM,86
+Nemaha|Reilly Township|RLL,80
+Nemaha|Richmond Township|RIK,404
+Nemaha|Rock Creek Township|RCJ,320
+Nemaha|Sabetha City - Ward 1|660001,450
+Nemaha|Sabetha City - Ward 2|660002,488
+Nemaha|Sabetha City - Ward 3|660003,460
+Nemaha|Sabetha City - Ward 4|660004,338
+Nemaha|Seneca City - Ward 1|770001,355
+Nemaha|Seneca City - Ward 2|770002,552
+Nemaha|Seneca City - Ward 3|770003,597
+Nemaha|Washington Township|WS10002,171
+Nemaha|Wetmore City|880001,210
+Nemaha|Wetmore Township|WT80002,95
+Neosho|Big Creek|BC,371
+Neosho|Canville H2|CAN,146
+Neosho|Canville Part A H7|CAN (A),301
+Neosho|Canville Part B H7|CAN (B),5
+Neosho|Centerville|CEN,400
+Neosho|Chanute P1 W2|CP1W2,616
+Neosho|Chanute P1 W3 Exclave|CP1W3EX,1
+Neosho|Chanute P1 W3|CP1W3,1234
+Neosho|Chanute P1 W4|CP1W4,728
+Neosho|Chanute P2 W2|CP2W2,657
+Neosho|Chanute P2 W3|CP2W3,549
+Neosho|Chanute P2 W4 H7|CP2W4,480
+Neosho|Chanute P2 W4 Part A H2|CP2W4A,8
+Neosho|Chanute P2 W4 Part B H2|CP2W4B,1
+Neosho|Chanute P3 W3 Exclave|CP3W3EX,4
+Neosho|Chanute P3 W3 H2|CP3W3,199
+Neosho|Chanute P3 W3 H7|CP3W3H7,900
+Neosho|Chanute P3 W4 Exclave C|CP3W4EC,5
+Neosho|Chanute P3 W4 H2|CP3W4,44
+Neosho|Chanute P3 W4 H7|CP3W4H7,439
+Neosho|Chanute Ward 1|CW1,210
+Neosho|Chetopa H13|CH13,470
+Neosho|Chetopa H2|CH2,1
+Neosho|Chetopa H9|CH9,159
+Neosho|East Erie Twp|EET,417
+Neosho|Grant|GRAN,279
+Neosho|Ladore|LAD,286
+Neosho|Lincoln|LIN,201
+Neosho|Mission|MIS,638
+Neosho|North Tioga|NT,349
+Neosho|Shiloh|SHI,217
+Neosho|South Tioga East|STE,207
+Neosho|South Tioga West Enclave B|STWEB,10
+Neosho|South Tioga West Enclave C|STWEC,1
+Neosho|South Tioga West Enclave H2|STWEH2,18
+Neosho|South Tioga West Enclave H7|STWEH7,2
+Neosho|South Tioga West H7|STWH7,87
+Neosho|South Tioga West Part A H2|STW,20
+Neosho|Walnut Grove|WG,260
+Neosho|West Erie Twp|WET,511
+Ness|Bazine|005,261
+Ness|Eden|020,54
+Ness|Forrester|025,64
+Ness|Franklin|030,82
+Ness|Highpoint|035,30
+Ness|Johnson|040,40
+Ness|Nevada|045,295
+Ness|North Center|010,580
+Ness|Ohio|050,157
+Ness|South Center|015,296
+Ness|Waring|055,66
+Norton|Almena1 - Prec 1|04,364
+Norton|Center1 - Prec 1|05,433
+Norton|Center2 - Prec 1|06,97
+Norton|Highland1 - Prec 1|07,288
+Norton|Highland2 - Prec 1|08,84
+Norton|Highland3 - Prec 1|09,87
+Norton|Norton City1 - Prec 1|01,597
+Norton|Norton City2 - Prec 2|02,660
+Norton|Norton City3 - Prec 2|03,639
+Norton|Solomon1 - Prec 1|10,83
+Norton|Solomon2 - Prec 1|11,32
+Osage|Precinct 04|04,286
+Osage|Precinct 05|05,54
+Osage|Precinct 07|07,729
+Osage|Precinct 08|08,255
+Osage|Precinct 09|09,472
+Osage|Precinct 10no|10NO,199
+Osage|Precinct 10so|10SO,460
+Osage|Precinct 20no|20NO,502
+Osage|Precinct 20so|20SO,491
+Osage|Precinct 30no|30NO,600
+Osage|Precinct 30so|30SO,221
+Osage|Precinct 61|61,620
+Osage|Precinct 62|62,468
+Osage|Precinct 63|63,562
+Osage|Precinct 64|64,463
+Osage|Precinct Ag|AG,112
+Osage|Precinct Ar|AR,89
+Osage|Precinct Ba|BA,149
+Osage|Precinct Bg01no|BG01NO,486
+Osage|Precinct Bg02so|BG02SO,125
+Osage|Precinct Dr|DR,168
+Osage|Precinct El|EL,677
+Osage|Precinct Fx H54|FAX,383
+Osage|Precinct Fx H76|FX,113
+Osage|Precinct Gr  H54|GRA,32
+Osage|Precinct Gr H76|GR,195
+Osage|Precinct Jt0mv H76|JT0MV,313
+Osage|Precinct Jt0vas|JT0VAS,592
+Osage|Precinct JtOmva H54|JT0MVA,72
+Osage|Precinct Li|LI,126
+Osage|Precinct Me|ME,276
+Osage|Precinct Ol|OL,155
+Osage|Precinct Rg0no|RG0NO,425
+Osage|Precinct Rg0so|RG0SO,414
+Osage|Precinct Sc|SC,341
+Osage|Precinct Su H54|SUP,30
+Osage|Precinct Su H76|SU,172
+Osage|Precinct Vb0no|VB0NO,276
+Osage|Precinct Vb0so|VB0SO,143
+Osborne|Alton City|1A101,70
+Osborne|Bethany Twp|BE202,57
+Osborne|Bloom Twp|BL301,50
+Osborne|Corinth Twp|CO302,42
+Osborne|Covert Twp|CV401,9
+Osborne|Delhi Twp|DE501,21
+Osborne|Downs City|2D701,635
+Osborne|Grant Twp|GR102,25
+Osborne|Hancock Twp|HA402,15
+Osborne|Hawkeye Twp|HW103,20
+Osborne|Independence Twp|IN403,21
+Osborne|Jackson Twp|JA502,24
+Osborne|Kill Creek Twp|KC104,4
+Osborne|Lawrence Twp|LA203,20
+Osborne|Liberty Twp|LI602,16
+Osborne|Mt. Ayr Twp|MA105,26
+Osborne|Natoma City|4N601,207
+Osborne|Natoma Twp|NA603,11
+Osborne|Osborne Ward 1|3O801,328
+Osborne|Osborne Ward 2|3O802,404
+Osborne|Osborne Ward 3|3O803,227
+Osborne|Penn Twp|PE404,86
+Osborne|Portis City|5P201,79
+Osborne|Ross Twp|RO703,69
+Osborne|Round Mound Twp|RM604,22
+Osborne|Sumner Twp|SU106,42
+Osborne|Tilden Twp|TI405,52
+Osborne|Valley Twp|VA503,20
+Osborne|Victor Twp|VI605,12
+Osborne|Winfield Twp|WI504,18
+Ottawa|Benn City|2B4401,368
+Ottawa|Benn Twp|BE0201,442
+Ottawa|Blaine Twp|BL0401,91
+Ottawa|Buckeye Twp|BU0601,73
+Ottawa|Center Twp|CE0801,62
+Ottawa|Chapman Twp|CH1001,36
+Ottawa|Concord Twp|CO1201,176
+Ottawa|Culver City|3C4601,72
+Ottawa|Culver Twp|CU1401,78
+Ottawa|Delphos City|4D4801,195
+Ottawa|Durham Twp|DU1601,11
+Ottawa|Fountain Twp|FO1801,78
+Ottawa|Garfield Twp|GA2001,62
+Ottawa|Grant Twp|GR2201,67
+Ottawa|Henry Twp|HE2401,14
+Ottawa|Lincoln Twp|LI2601,96
+Ottawa|Logan Twp|LO2801,57
+Ottawa|Morton Twp|MO3001,87
+Ottawa|Mpls City I|1M4201,409
+Ottawa|Mpls City II|1M4202,286
+Ottawa|Mpls City III|1M4203,467
+Ottawa|Ottawa Twp|OT3201,25
+Ottawa|Richland Twp|RI3401,163
+Ottawa|Sheridan Twp|SH3601,67
+Ottawa|Sherman Twp|SM3801,36
+Ottawa|Stanton Twp|ST4001,36
+Ottawa|Tescott City|5T5001,161
+Pawnee|Ash Valley Twp|AV80001,38
+Pawnee|Br. Grove Twp|BG70002,32
+Pawnee|Burdett City|2370001,167
+Pawnee|Conkling Twp|COD0001,13
+Pawnee|Garfield City|2250001,97
+Pawnee|Garfield Twp|GA50002,26
+Pawnee|Grant Twp|GR60002,32
+Pawnee|Keysville Twp|KE60003,26
+Pawnee|Larned City Ward 1 C1|2110000,490
+Pawnee|Larned City Ward 1 C4|2110001,52
+Pawnee|Larned City Ward 2 C1|2120000,683
+Pawnee|Larned City Ward 2 C4|2120001,68
+Pawnee|Larned City Ward 3|2130000,713
+Pawnee|Larned City Ward 4 C1|2140000,9
+Pawnee|Larned City Ward 4 C4|2140001,429
+Pawnee|Larned Twp C01|LA90001,123
+Pawnee|Larned Twp C04 Part A|LA90002,45
+Pawnee|Larned Twp C04 Part B|LA90003,23
+Pawnee|Lincoln Twp|LI60004,17
+Pawnee|Logan Twp|LOB0001,31
+Pawnee|Morton Twp|MOD0002,30
+Pawnee|Orange Twp|OR50003,32
+Pawnee|Pawnee Twp|PAA0001,59
+Pawnee|Plt. Grove Twp|PGB0002,126
+Pawnee|Plt. Ridge Twp|PRD0003,35
+Pawnee|Plt. Valley Twp|PVC0001,61
+Pawnee|River Twp|RI90002,44
+Pawnee|Rozel City|2460001,89
+Pawnee|Santa Fe Twp|SFA0002,130
+Pawnee|Sawmill Twp|SA70003,14
+Pawnee|Shiley Twp|SH70004,20
+Pawnee|Valley Center Twp|VCC0002,25
+Pawnee|Walnut Twp|WA80002,58
+Phillips|Agra City|110009,177
+Phillips|Arcade|A100014,60
+Phillips|Beaver|B100015,35
+Phillips|Belmont|B280016,33
+Phillips|Bow Creek|B300010,24
+Phillips|Crystal|C100009,39
+Phillips|Dayton|D100017,28
+Phillips|Deer Creek|D200010,62
+Phillips|Freedom|F100014,61
+Phillips|Glade City|220010,52
+Phillips|Glenwood|G100014,35
+Phillips|Granite|G200013,17
+Phillips|Greenwood|G300014,28
+Phillips|Kirwin City|330011,105
+Phillips|Kirwin|K130011,44
+Phillips|Logan City|440012,370
+Phillips|Logan|L140012,36
+Phillips|Long Island City|550013,115
+Phillips|Long Island|L250013,69
+Phillips|Mound|M100017,105
+Phillips|Phillipsburg|P100014,205
+Phillips|Plainview|P200016,19
+Phillips|Plum|P310009,76
+Phillips|Prairie View City|770015,95
+Phillips|Prairie View|P470015,53
+Phillips|Rushville|R100010,22
+Phillips|Solomon|S120010,75
+Phillips|Speed City|880016,31
+Phillips|Sumner|S200009,30
+Phillips|Towanda|T100012,22
+Phillips|Valley|V100011,15
+Phillips|Walnut|W100014,13
+Phillips|Ward I|610000,703
+Phillips|Ward II|620000,567
+Phillips|Ward III/Comm1|630001,4
+Phillips|Ward III|630000,534
+Pottawatomie|Belvue|01,267
+Pottawatomie|Blue Twp H51|02.1,3065
+Pottawatomie|Blue Twp H61|02,595
+Pottawatomie|Blue Valley - Olsburg|03,268
+Pottawatomie|Center Twp|04,75
+Pottawatomie|Clear Creek Twp|05,96
+Pottawatomie|Emmett|06,279
+Pottawatomie|Grant Twp|07,177
+Pottawatomie|Green Twp|08,142
+Pottawatomie|Lincoln Twp|09,84
+Pottawatomie|Lone Tree - Wheaton|10,164
+Pottawatomie|Louisville|11,737
+Pottawatomie|Manhattan City|02.2,4
+Pottawatomie|Mill Creek - Onaga|12,642
+Pottawatomie|Pottawatomie|13,499
+Pottawatomie|Rock Creek|14,432
+Pottawatomie|Shannon Twp|15,195
+Pottawatomie|Sherman Twp|16,83
+Pottawatomie|Spring Creek Twp|17,38
+Pottawatomie|St Clere Twp|18,44
+Pottawatomie|St George H51|19.1,2197
+Pottawatomie|St George H61|19,872
+Pottawatomie|St Marys City|21,1845
+Pottawatomie|St Marys Twp|22,795
+Pottawatomie|Union Twp|23,179
+Pottawatomie|Vienna Twp|24,75
+Pottawatomie|Wamego City H51|26,3203
+Pottawatomie|Wamego Twp H51|27.1,424
+Pottawatomie|Wamego Twp H61|27,229
+Pratt|Twp 10 Coats City|1010002,59
+Pratt|Twp 10|1010001,40
+Pratt|Twp 11 H114|1111003,91
+Pratt|Twp 11 H116|1111001,54
+Pratt|Twp 11 Sawyer City|1111002,66
+Pratt|Twp 12 H114 NE|1212003,32
+Pratt|Twp 12 H114 SE|1212004,347
+Pratt|Twp 12 H116 NW|1212002,61
+Pratt|Twp 12 H116 SW|1212001,244
+Pratt|Twp 6 Preston City|66002,65
+Pratt|Twp 6|66001,250
+Pratt|Twp 7 H114|77001A,46
+Pratt|Twp 7 H116|77001,33
+Pratt|Twp 7 Iuka City|77002,92
+Pratt|Twp 8 Byers City|88002,24
+Pratt|Twp 8|88001,67
+Pratt|Twp 9-2|99001A,61
+Pratt|Twp 9-3|99001,77
+Pratt|Twp 9 Cullison City|99002,57
+Pratt|Ward 1|51000,764
+Pratt|Ward 2|52000,503
+Pratt|Ward 3|53000,986
+Pratt|Ward 4-1 H114 Comm 1|54002,380
+Pratt|Ward 4-2 H114 Comm 2|54003,384
+Pratt|Ward 5 College H114|55001,34
+Pratt|Ward 5 H116|55000,679
+Rawlins|Achilles|01,31
+Rawlins|Atwood City|03,950
+Rawlins|Atwood|02,15
+Rawlins|Center|04,218
+Rawlins|Driftwood|05,62
+Rawlins|Herl|06,120
+Rawlins|Herndon City|07,120
+Rawlins|Jefferson|08,24
+Rawlins|Ludell|09,74
+Rawlins|Mcdonald City|10,106
+Rawlins|Mirage|11,32
+Rawlins|Rocewood|12,183
+Rawlins|Union|13,25
+Reno|Abbyville 72|AB00072,58
+Reno|Albion 33|AL00033,134
+Reno|Arlington 34|AT00034,75
+Reno|Arlington City 73|AC00073,294
+Reno|Bell 35|BE00035,43
+Reno|Buhler 74|BU00074,928
+Reno|Castleton 36|CA00036,228
+Reno|Center 37|CE00037,172
+Reno|Clay North 38|CN00038,728
+Reno|Clay North Enclave|CNENCL,4
+Reno|Clay South H102-1|CS102-1,138
+Reno|Clay South H102A|CSH102,4
+Reno|Clay South H104|CSH104,461
+Reno|Clay South H114|CSH114,212
+Reno|Enterprise 40|EN0004,90
+Reno|Grant 41|GR00041,692
+Reno|Grove 42|GV00042,38
+Reno|Haven City 75|HA00075,840
+Reno|Haven H101|HVH101,233
+Reno|Haven H114|HVH114,81
+Reno|Hayes 44|HY00044,47
+Reno|Huntsville 45|HU00045,87
+Reno|Hutchinson 1 H102|HC00001,561
+Reno|Hutchinson 1 H102A|HCH102A,33
+Reno|Hutchinson 10|HC0001,1008
+Reno|Hutchinson 11|HC00011,1039
+Reno|Hutchinson 12|HC00012,687
+Reno|Hutchinson 13 H102|H13H102,470
+Reno|Hutchinson 13 H104|H13H104,330
+Reno|Hutchinson 14|HC00014,742
+Reno|Hutchinson 15|HC00015,658
+Reno|Hutchinson 16|HC00016,995
+Reno|Hutchinson 17|HC00017,836
+Reno|Hutchinson 18|HC00018,464
+Reno|Hutchinson 19|HC00019,557
+Reno|Hutchinson 2|HC00002,583
+Reno|Hutchinson 20|HC0002,793
+Reno|Hutchinson 21|HC00021,1830
+Reno|Hutchinson 22-H104|H22H104,1090
+Reno|Hutchinson 23 Exclave|HCEX23,258
+Reno|Hutchinson 23 H104|HC00023,1293
+Reno|Hutchinson 24|HC00024,820
+Reno|Hutchinson 25|HC00025,862
+Reno|Hutchinson 26 Exclave H102|26EH102,107
+Reno|Hutchinson 26|HC00026,419
+Reno|Hutchinson 27|HC00027,613
+Reno|Hutchinson 28 Exclave|HCEX28,580
+Reno|Hutchinson 28|HC00028,1296
+Reno|Hutchinson 29|HC00029,623
+Reno|Hutchinson 3|HC00003,383
+Reno|Hutchinson 30|HC0003,448
+Reno|Hutchinson 31|HC00031,705
+Reno|Hutchinson 32|HC00032,194
+Reno|Hutchinson 33|HC00033,259
+Reno|Hutchinson 34 Exclave|HCEX34,2
+Reno|Hutchinson 34|HC00034,133
+Reno|Hutchinson 35|HC00035,336
+Reno|Hutchinson 4|HC00004,1176
+Reno|Hutchinson 5|HC00005,853
+Reno|Hutchinson 6|HC00006,670
+Reno|Hutchinson 7|HC00007,805
+Reno|Hutchinson 8|HC00008,356
+Reno|Hutchinson 9|HC00009,991
+Reno|Langdon 46|LT00046,63
+Reno|Langdon City 76|LA00076,38
+Reno|Lincoln 47|LI00047,339
+Reno|Little River 48|LR00048,400
+Reno|Loda 49|LO00049,69
+Reno|Medford 50|MF0005,121
+Reno|Medora 51|MD00051,1269
+Reno|Miami 52|MI00052,52
+Reno|Nickerson 69|NK00069,278
+Reno|Nickerson 70|NK0007,158
+Reno|Nickerson 71|NK00071,206
+Reno|Ninnescah 53|NI00053,166
+Reno|Partridge City 77|PA00077,144
+Reno|Plevna 54|PT00054,101
+Reno|Plevna City 78|PL00078,67
+Reno|Pretty Prairie Ward 1|PR000W1,479
+Reno|Pretty Prairie Ward 2|PR000W2,3
+Reno|Reno North 55|RN00055,1132
+Reno|Reno South 56|RS00056,187
+Reno|Roscoe 57|RO00057,73
+Reno|Salt Creek 58|SC00058,255
+Reno|South Hutch #1|SH00066,511
+Reno|South Hutch #2|SH00067,734
+Reno|South Hutch #3|SH00068,475
+Reno|Sumner 59|SU00059,459
+Reno|Sylvia 60|ST0006,48
+Reno|Sylvia City 80|SY0008,127
+Reno|The Highlands 83|TH00083,310
+Reno|Troy 61|TR00061,93
+Reno|Turon City 81|TU00081,214
+Reno|Valley H101|VAH101,5
+Reno|Valley H114|VAH114,581
+Reno|Walnut 63|WA00063,83
+Reno|Westminster 64|WM00064,74
+Reno|Willowbrook 82|WI00082,83
+Reno|Yoder H114|YOH114,406
+Republic|Albion Twp / Narka|010,107
+Republic|Beaver Twp|011,66
+Republic|Belleville City 1st Ward|001,489
+Republic|Belleville City 2nd Ward|002,498
+Republic|Belleville City 3rd Ward|003,367
+Republic|Belleville Twp|012,160
+Republic|Big Bend Twp / Republic|013,116
+Republic|Courtland Twp / Courtland|014,281
+Republic|Elk Creek Twp / Agenda|015,88
+Republic|Fairview Twp / Munden|016,99
+Republic|Farmington Twp|017,40
+Republic|Freedom Twp|018,126
+Republic|Grant Twp|019,55
+Republic|Jefferson Twp|020,88
+Republic|Liberty Twp|021,38
+Republic|Lincoln Twp|022,68
+Republic|Norway Twp|023,103
+Republic|Richland Twp / Cuba|024,161
+Republic|Rose Creek Twp / Munden|025,85
+Republic|Scandia Twp / Scandia|026,312
+Republic|Union Twp|027,24
+Republic|Washington Twp / Republic|028,49
+Republic|White Rock Twp|029,70
+Rice|Atlanta Twp|01,112
+Rice|Bell Twp|02,10
+Rice|Center Twp|03,77
+Rice|East Washington Twp|17,130
+Rice|Eureka Twp|04,29
+Rice|Farmer Twp|05,263
+Rice|Galt Twp|06,58
+Rice|Harrison Twp|07,111
+Rice|Lincoln Twp|08,320
+Rice|Lyons 1st Ward|36,537
+Rice|Lyons 2nd Ward|37,544
+Rice|Lyons 3rd Ward|38,546
+Rice|Lyons 4th Ward|39,582
+Rice|Mitchell Twp|09,86
+Rice|Odessa Twp|10,40
+Rice|Pioneer Twp|11,52
+Rice|Raymond Twp|12,104
+Rice|Rockville Twp|20,106
+Rice|Sterling East Ward|44,936
+Rice|Sterling Twp|13,141
+Rice|Sterling West Ward|45,600
+Rice|Union Twp|14,491
+Rice|Valley Twp|15,163
+Rice|Victoria Twp|16,241
+Rice|West Washington Twp|18,101
+Rice|Wilson Twp|19,89
+Riley|Ashland Twp|001,127
+Riley|Bala Twp|002,463
+Riley|Center Twp|003,51
+Riley|Fancy Crk Twp|004,83
+Riley|Grant Twp|005,770
+Riley|Jackson Twp|006,208
+Riley|Madison Twp B|007A,22
+Riley|Madison Twp H64|007,816
+Riley|Madison Twp/Ft Riley B H68|079,211
+Riley|Madison Twp/Ft. Riley A H68|078,468
+Riley|Madison Twp/Ft. Riley|070,866
+Riley|Manhattan City w1/p1|020,1275
+Riley|Manhattan City W10/P1|062,339
+Riley|Manhattan City W11/P1|063,1420
+Riley|Manhattan City W11/P3|065,201
+Riley|Manhattan City w12/p1|073,40
+Riley|Manhattan City w2/p1|022,1523
+Riley|Manhattan City w2/p2|023,515
+Riley|Manhattan City w2/p3|024,629
+Riley|Manhattan City w2/p4|025,851
+Riley|Manhattan City w2/p5|026,1358
+Riley|Manhattan City w2/p6|027,285
+Riley|Manhattan City w2/p7|030,22
+Riley|Manhattan City w3/p1|031,250
+Riley|Manhattan City w3/p2|028,993
+Riley|Manhattan City w3/p3|029,1182
+Riley|Manhattan City w4/p2|033,353
+Riley|Manhattan City w4/p3|034,762
+Riley|Manhattan City w4/p4|035,1776
+Riley|Manhattan City W4/P5 Exclave|072,18
+Riley|Manhattan City w4/p5|036,1050
+Riley|Manhattan City W4/P6|037,894
+Riley|Manhattan City W4/P7|038,86
+Riley|Manhattan City w5/p10|047,2349
+Riley|Manhattan City w5/p11|048,2028
+Riley|Manhattan City w5/p2|039,1143
+Riley|Manhattan City w5/p3|040,1358
+Riley|Manhattan City w5/p5|042,709
+Riley|Manhattan City w5/p6|043,1065
+Riley|Manhattan City w5/p7|044,533
+Riley|Manhattan City w5/p8|045,676
+Riley|Manhattan City w5/p9|046,1821
+Riley|Manhattan City w6/p1|049,93
+Riley|Manhattan City W8/P1|055,552
+Riley|Manhattan City W8/P2|056,7
+Riley|Manhattan City W8/P3|057,1404
+Riley|Manhattan City W9/P1|060,189
+Riley|Manhattan City W9/P2|061,136
+Riley|Manhattan City W9/P3|071,79
+Riley|Manhattan Twp 1|008,378
+Riley|Manhattan Twp 2|009,394
+Riley|Manhattan Twp 3|010,155
+Riley|Manhattan Twp 4|011,580
+Riley|Mayday Twp|012,54
+Riley|Ogden Twp|013,1223
+Riley|Sherman Twp|014,487
+Riley|Swede Crk Twp|015,118
+Riley|Wildcat Twp|016,660
+Riley|Zeandale Twp|017,265
+Rooks|Township #1|TWP01,127
+Rooks|Township #10|TWP10,124
+Rooks|Township #11-1|TWP11-1,375
+Rooks|Township #11-2|TWP11-2,1158
+Rooks|Township #12|TWP12,114
+Rooks|Township #2|TWP02,286
+Rooks|Township #3-1|TWP03-1,68
+Rooks|Township #3-2|TWP03-2,852
+Rooks|Township #4|TWP04,24
+Rooks|Township #5|TWP05,52
+Rooks|Township #6|TWP06,69
+Rooks|Township #7|TWP07,148
+Rooks|Township #8|TWP08,225
+Rooks|Township #9|TWP09,31
+Rush|Alexander-Belle Prairie Twsp.|AB00102,39
+Rush|Alexander City|2100101,34
+Rush|Banner Twsp.|BA00802,58
+Rush|Big Timber Twsp.|BT00402,38
+Rush|Bison City|2200201,134
+Rush|Center Twsp.|CE00702,57
+Rush|Garfield Twsp.|GA00900,94
+Rush|Hampton-Fairview Twsp.|HF00502,77
+Rush|Illinois Twsp.|IL00202,38
+Rush|LaCrosse-Brookdale Twsp. #1|LB00302,40
+Rush|LaCrosse-Brookdale Twsp. #2|LB00303,38
+Rush|LaCrosse City #1|2300301,519
+Rush|LaCrosse City #2|2300304,332
+Rush|Liebenthal City|2400401,77
+Rush|Lone Star Twsp.|LS00203,50
+Rush|McCracken City|2600501,118
+Rush|Otis City|2800601,195
+Rush|Pioneer Twsp.|PI00602,42
+Rush|Pleasantdale Twsp.|PL00603,22
+Rush|Rush Center City|2900701,102
+Rush|Timken City|3100801,41
+Rush|Union Twsp.|UN00703,40
+Russell|Big Creek Twp CC1|51,68
+Russell|Big Creek Twp CC4|51.4,48
+Russell|Bunker Hill City|01,83
+Russell|Center Twp CC5|52,108
+Russell|Dorrance City|02,104
+Russell|Fairfield Twp CC1|53,29
+Russell|Fairview Twp CC3|54,61
+Russell|Gorham City|03,232
+Russell|Grant Twp CC1|55,138
+Russell|Lincoln Twp CC1|56,91
+Russell|Lucas City|04,241
+Russell|Luray City|05,119
+Russell|Luray Twp CC2|57.2,31
+Russell|Luray Twp CC3|57,9
+Russell|Paradise City|06,27
+Russell|Paradise Twp CC2|58,87
+Russell|Plymouth Twp CC5|59,72
+Russell|Russell City Ward 1 CC3|11,467
+Russell|Russell City Ward 1 CC5|11.5,236
+Russell|Russell City Ward 2 CC2|12,631
+Russell|Russell CIty Ward 2 CC4|12.4,115
+Russell|Russell City Ward 3 CC3|13,157
+Russell|Russell City Ward 3 CC4|13.4,411
+Russell|Russell City Ward 3 CC5|13.5,148
+Russell|Russell City Ward 4 CC1|14,522
+Russell|Russell City Ward 4 CC5|14.5,178
+Russell|Russell Twp CC2|60,25
+Russell|Russell Twp CC3|60.3,10
+Russell|Russell Twp CC4|60.4,16
+Russell|Russell Twp CC5|60.5,23
+Russell|Waldo City|08,30
+Russell|Waldo Twp CC2|61.2,37
+Russell|Waldo Twp CC3|61,12
+Russell|Winterset Twp CC1|62,44
+Saline|01|01,4
+Saline|02|02,1512
+Saline|03|03,2
+Saline|04|04,1366
+Saline|05|05,1721
+Saline|06|06,1019
+Saline|07|07,1869
+Saline|08|08,652
+Saline|09|09,2602
+Saline|10|10,1636
+Saline|11|11,954
+Saline|12|12,99
+Saline|13|13,299
+Saline|14|14,942
+Saline|15|15,1454
+Saline|16|16,1307
+Saline|17|17,2432
+Saline|18|18,215
+Saline|19|19,1293
+Saline|20|20,1724
+Saline|21|21,356
+Saline|22|22,490
+Saline|23|23,1347
+Saline|24|24,1853
+Saline|25|25,1256
+Saline|26|26,409
+Saline|27|27,164
+Saline|28|28,4
+Saline|29|29,158
+Saline|30|30,1557
+Saline|TWP - Cambria H71|0050,316
+Saline|TWP - Dayton H71|0051,97
+Saline|TWP - Elm Creek H107|0052,443
+Saline|TWP - Elm Creek H71|0052C,313
+Saline|TWP - Eureka H69|0053,458
+Saline|TWP - Falun H69|0054,198
+Saline|TWP - Glendale H107|0055,76
+Saline|TWP - Greeley 2 H71|0056B,16
+Saline|TWP - Greeley 3 H71|0056C,6
+Saline|TWP - Greeley 4 H71|0056D,4
+Saline|TWP - Greeley H71|0056,615
+Saline|TWP - Gypsum H69|0057,129
+Saline|TWP - Liberty H69|0058,132
+Saline|TWP - Ohio H107|0059A,219
+Saline|TWP - Ohio H69|0059,61
+Saline|TWP - Pleasant Valley H107|0060,271
+Saline|TWP - Smoky Hill H107|0061D,147
+Saline|TWP - Smoky Hill H69 Enclave B|0061F,2
+Saline|TWP - Smoky Hill H69 Enclave|0061,2
+Saline|TWP - Smoky Hill H69|0061B,35
+Saline|TWP - Smoky Hill H71 Exclave|0061A,7
+Saline|TWP - Smoky View H69|0062,659
+Saline|TWP - Smolan H69|0063,558
+Saline|TWP - Solomon H71|0064,261
+Saline|TWP - Spring Creek H107|0065A,73
+Saline|TWP - Spring Creek H69|0065,204
+Saline|TWP - Walnut H69|0066,418
+Saline|TWP - Washington H107 (307)|0067A,5
+Saline|TWP - Washington H69 (307)|0067,78
+Saline|TWP - Washington H69 (400)|0068,26
+Scott|Beaver Twp|1B1,141
+Scott|Isbel Twp|2I2,59
+Scott|Keystone Twp|3K3,77
+Scott|Lake Twp|4L4,51
+Scott|Michigan Twp|5M5,66
+Scott|Scott City Ward 1|818,515
+Scott|Scott City Ward 2|829,724
+Scott|Scott City Ward 3|8310,656
+Scott|Scott City Ward 4|8411,861
+Scott|Scott Twp|6S6,198
+Scott|Valley Twp|7V7,135
+Sedgwick|0102|0102,1259
+Sedgwick|0103|0103,306
+Sedgwick|0104|0104,133
+Sedgwick|0105|0105,1092
+Sedgwick|0106|0106,2406
+Sedgwick|0107|0107,2047
+Sedgwick|0108|0108,1375
+Sedgwick|0109|0109,1543
+Sedgwick|0110|0110,1923
+Sedgwick|0111|0111,472
+Sedgwick|0112|0112,1810
+Sedgwick|0113|0113,1751
+Sedgwick|0114|0114,1643
+Sedgwick|0116|0116,2148
+Sedgwick|0117|0117,1814
+Sedgwick|0118|0118,1920
+Sedgwick|0119|0119,1631
+Sedgwick|0120|0120,1625
+Sedgwick|0121|0121,1258
+Sedgwick|0122|0122,2718
+Sedgwick|0123|0123,382
+Sedgwick|0126|0126,372
+Sedgwick|0127|0127,33
+Sedgwick|0128|0128,1443
+Sedgwick|0129|0129,561
+Sedgwick|0130|0130,1106
+Sedgwick|0133|0133,47
+Sedgwick|0135|0135,442
+Sedgwick|0136|0136,857
+Sedgwick|0137|0137,1555
+Sedgwick|0138|0138,1918
+Sedgwick|0205|0205,859
+Sedgwick|0206|0206,638
+Sedgwick|0207|0207,3156
+Sedgwick|0208|0208,611
+Sedgwick|0209|0209,1750
+Sedgwick|0210|0210,2323
+Sedgwick|0211|0211,933
+Sedgwick|0214|0214,1966
+Sedgwick|0215|0215,2881
+Sedgwick|0216|0216,1551
+Sedgwick|0217|0217,1922
+Sedgwick|0218|0218,3325
+Sedgwick|0221|0221,1175
+Sedgwick|0222|0222,1145
+Sedgwick|0223|0223,1765
+Sedgwick|0224|0224,3351
+Sedgwick|0225|0225,3618
+Sedgwick|0226|0226,2216
+Sedgwick|0227|0227,1505
+Sedgwick|0228|0228,2555
+Sedgwick|0230|0230,90
+Sedgwick|0233|0233,811
+Sedgwick|0235|0235,571
+Sedgwick|0236|0236,1099
+Sedgwick|0238|0238,217
+Sedgwick|0239|0239,98
+Sedgwick|0240|0240,339
+Sedgwick|0241|0241,183
+Sedgwick|0242|0242,334
+Sedgwick|0243|0243,54
+Sedgwick|0245|0245,5
+Sedgwick|0246|0246,242
+Sedgwick|0247|0247,444
+Sedgwick|0248|0248,51
+Sedgwick|0249|0249,1577
+Sedgwick|0250|0250,746
+Sedgwick|0251|0251,664
+Sedgwick|0252|0252,746
+Sedgwick|0257|0257,1
+Sedgwick|0301|0301,984
+Sedgwick|0302|0302,2036
+Sedgwick|0303|0303,1031
+Sedgwick|0304|0304,851
+Sedgwick|0305|0305,474
+Sedgwick|0306|0306,2243
+Sedgwick|0307|0307,1542
+Sedgwick|0308|0308,1787
+Sedgwick|0309|0309,178
+Sedgwick|0310|0310,1923
+Sedgwick|0312|0312,909
+Sedgwick|0313|0313,2424
+Sedgwick|0314|0314,2085
+Sedgwick|0315|0315,1816
+Sedgwick|0316|0316,1155
+Sedgwick|0317|0317,21
+Sedgwick|0318|0318,245
+Sedgwick|0319|0319,564
+Sedgwick|0320|0320,686
+Sedgwick|0321|0321,85
+Sedgwick|0324|0324,939
+Sedgwick|0325|0325,1150
+Sedgwick|0326|0326,182
+Sedgwick|0328|0328,134
+Sedgwick|0330|0330,1593
+Sedgwick|0331|0331,381
+Sedgwick|0332|0332,850
+Sedgwick|0333|0333,1170
+Sedgwick|0334|0334,832
+Sedgwick|0335|0335,663
+Sedgwick|0336|0336,268
+Sedgwick|0339|0339,1949
+Sedgwick|0401|0401,1091
+Sedgwick|0402|0402,834
+Sedgwick|0403|0403,1015
+Sedgwick|0404|0404,2613
+Sedgwick|0405|0405,1518
+Sedgwick|0406|0406,1649
+Sedgwick|0407|0407,212
+Sedgwick|0408|0408,1732
+Sedgwick|0409|0409,944
+Sedgwick|0410|0410,2187
+Sedgwick|0411|0411,1
+Sedgwick|0412|0412,3561
+Sedgwick|0413|0413,2426
+Sedgwick|0414|0414,916
+Sedgwick|0416|0416,1164
+Sedgwick|0417|0417,1322
+Sedgwick|0418|0418,1809
+Sedgwick|0419|0419,1249
+Sedgwick|0420|0420,1693
+Sedgwick|0422|0422,1165
+Sedgwick|0423|0423,1674
+Sedgwick|0424|0424,813
+Sedgwick|0425|0425,2540
+Sedgwick|0426|0426,199
+Sedgwick|0429|0429,988
+Sedgwick|0431|0431,22
+Sedgwick|0433|0433,733
+Sedgwick|0434|0434,2
+Sedgwick|0437|0437,965
+Sedgwick|0439|0439,6
+Sedgwick|0444|0444,151
+Sedgwick|0445|0445,746
+Sedgwick|0446|0446,231
+Sedgwick|0447|0447,295
+Sedgwick|0448|0448,125
+Sedgwick|0449|0449,635
+Sedgwick|0503|0503,2356
+Sedgwick|0504|0504,1594
+Sedgwick|0506|0506,2025
+Sedgwick|0507|0507,1843
+Sedgwick|0508|0508,1681
+Sedgwick|0509|0509,1617
+Sedgwick|0510|0510,1982
+Sedgwick|0512|0512,4082
+Sedgwick|0513|0513,1818
+Sedgwick|0514|0514,2416
+Sedgwick|0515|0515,2025
+Sedgwick|0516|0516,1230
+Sedgwick|0517|0517,1261
+Sedgwick|0518|0518,1583
+Sedgwick|0519|0519,1836
+Sedgwick|0522|0522,1564
+Sedgwick|0523|0523,1542
+Sedgwick|0524|0524,2421
+Sedgwick|0525|0525,1832
+Sedgwick|0526|0526,2046
+Sedgwick|0527|0527,2037
+Sedgwick|0528|0528,2
+Sedgwick|0530|0530,1972
+Sedgwick|0531|0531,2768
+Sedgwick|0534|0534,233
+Sedgwick|0539|0539,1805
+Sedgwick|0541|0541,3
+Sedgwick|0544|0544,186
+Sedgwick|0545|0545,715
+Sedgwick|0552|0552,1
+Sedgwick|0601|0601,2688
+Sedgwick|0602|0602,2365
+Sedgwick|0603|0603,662
+Sedgwick|0604|0604,2150
+Sedgwick|0605|0605,814
+Sedgwick|0606|0606,726
+Sedgwick|0607|0607,2018
+Sedgwick|0608|0608,1822
+Sedgwick|0609|0609,2545
+Sedgwick|0610|0610,1743
+Sedgwick|0611|0611,1252
+Sedgwick|0612|0612,2213
+Sedgwick|0613|0613,1813
+Sedgwick|0614|0614,1198
+Sedgwick|0615|0615,3098
+Sedgwick|0616|0616,1439
+Sedgwick|0617|0617,1001
+Sedgwick|0618|0618,736
+Sedgwick|0619|0619,1830
+Sedgwick|0621|0621,574
+Sedgwick|0622|0622,2107
+Sedgwick|0623|0623,2086
+Sedgwick|0624|0624,210
+Sedgwick|0626|0626,18
+Sedgwick|0627|0627,124
+Sedgwick|0629|0629,55
+Sedgwick|0630|0630,4
+Sedgwick|0632|0632,765
+Sedgwick|0633|0633,819
+Sedgwick|0634|0634,301
+Sedgwick|AF|AF,1164
+Sedgwick|AT01|AT01,24
+Sedgwick|AT02|AT02,116
+Sedgwick|AT03|AT03,765
+Sedgwick|AT05|AT05,313
+Sedgwick|AT06|AT06,103
+Sedgwick|AT07|AT07,7
+Sedgwick|AT08|AT08,93
+Sedgwick|AT12|AT12,63
+Sedgwick|AT13|AT13,4
+Sedgwick|AT15|AT15,10
+Sedgwick|AT16|AT16,2
+Sedgwick|AT22|AT22,148
+Sedgwick|BA01|BA01,2145
+Sedgwick|BA02|BA02,1822
+Sedgwick|BA03|BA03,2770
+Sedgwick|BA04|BA04,3
+Sedgwick|DB11|DB11,1066
+Sedgwick|DB12|DB12,1315
+Sedgwick|DB124|DB124,437
+Sedgwick|DB13|DB13,1
+Sedgwick|DB14|DB14,1198
+Sedgwick|DB19|DB19,1
+Sedgwick|DB211|DB211,957
+Sedgwick|DB22|DB22,1634
+Sedgwick|DB23|DB23,2032
+Sedgwick|DB31|DB31,475
+Sedgwick|DB315|DB315,41
+Sedgwick|DB32|DB32,1287
+Sedgwick|DB321|DB321,1051
+Sedgwick|DB325|DB325,134
+Sedgwick|DB326|DB326,192
+Sedgwick|DB341|DB341,91
+Sedgwick|DB345|DB345,3
+Sedgwick|DB36|DB36,991
+Sedgwick|DB37|DB37,304
+Sedgwick|DB38|DB38,16
+Sedgwick|DB41|DB41,809
+Sedgwick|DB42|DB42,1564
+Sedgwick|DB433|DB433,64
+Sedgwick|DB434|DB434,9
+Sedgwick|DB436|DB436,789
+Sedgwick|DB437|DB437,60
+Sedgwick|DB440|DB440,1280
+Sedgwick|DL03|DL03,1
+Sedgwick|DL04|DL04,2
+Sedgwick|DL10|DL10,3
+Sedgwick|EA|EA,815
+Sedgwick|ER|ER,72
+Sedgwick|GA|GA,1492
+Sedgwick|GD|GD,496
+Sedgwick|GN01|GN01,1104
+Sedgwick|GN09|GN09,2
+Sedgwick|GN10|GN10,2
+Sedgwick|GN13|GN13,2
+Sedgwick|GO|GO,1792
+Sedgwick|GO01|GO01,1
+Sedgwick|GO02|GO02,86
+Sedgwick|GO04|GO04,159
+Sedgwick|GO05|GO05,1620
+Sedgwick|GR|GR,694
+Sedgwick|GY01|GY01,2135
+Sedgwick|GY02|GY02,286
+Sedgwick|GY03|GY03,72
+Sedgwick|GY04|GY04,95
+Sedgwick|GY07|GY07,251
+Sedgwick|GY08|GY08,125
+Sedgwick|HA11|HA11,1323
+Sedgwick|HA13|HA13,2
+Sedgwick|HA15|HA15,1
+Sedgwick|HA17|HA17,453
+Sedgwick|HA21|HA21,1201
+Sedgwick|HA24|HA24,93
+Sedgwick|HA25|HA25,31
+Sedgwick|HA27|HA27,465
+Sedgwick|HA31|HA31,1405
+Sedgwick|HA33|HA33,106
+Sedgwick|HA35|HA35,176
+Sedgwick|HA41|HA41,1151
+Sedgwick|HA42|HA42,532
+Sedgwick|IL01|IL01,1501
+Sedgwick|KE01|KE01,2
+Sedgwick|KE02|KE02,15
+Sedgwick|KE03|KE03,1296
+Sedgwick|KE04|KE04,53
+Sedgwick|KE07|KE07,15
+Sedgwick|KE08|KE08,4
+Sedgwick|KE10|KE10,6
+Sedgwick|KE17|KE17,1
+Sedgwick|KE19|KE19,6
+Sedgwick|KE21|KE21,18
+Sedgwick|KE26|KE26,7
+Sedgwick|LI|LI,398
+Sedgwick|MI01|MI01,1573
+Sedgwick|MI02|MI02,637
+Sedgwick|MI03|MI03,4
+Sedgwick|MI05|MI05,3
+Sedgwick|MI07|MI07,35
+Sedgwick|MI08|MI08,35
+Sedgwick|MI09|MI09,332
+Sedgwick|MI12|MI12,2
+Sedgwick|MI14|MI14,136
+Sedgwick|MI20|MI20,3
+Sedgwick|MI22|MI22,2
+Sedgwick|MI26|MI26,23
+Sedgwick|MO|MO,1853
+Sedgwick|MV01|MV01,940
+Sedgwick|MV02|MV02,2668
+Sedgwick|MV05|MV05,3
+Sedgwick|MV06|MV06,133
+Sedgwick|MV14|MV14,2
+Sedgwick|NI|NI,1914
+Sedgwick|NI01|NI01,371
+Sedgwick|OH01|OH01,1018
+Sedgwick|PA01|PA01,202
+Sedgwick|PA02|PA02,265
+Sedgwick|PA05|PA05,2082
+Sedgwick|PA06|PA06,89
+Sedgwick|PA09|PA09,5
+Sedgwick|PA10|PA10,2
+Sedgwick|PA11|PA11,2
+Sedgwick|PA12|PA12,2
+Sedgwick|PA14|PA14,1862
+Sedgwick|PA15|PA15,342
+Sedgwick|PA16|PA16,17
+Sedgwick|PA17|PA17,1
+Sedgwick|PC11|PC11,209
+Sedgwick|PC13|PC13,449
+Sedgwick|PC16|PC16,2
+Sedgwick|PC17|PC17,2
+Sedgwick|PC18|PC18,392
+Sedgwick|PC19|PC19,161
+Sedgwick|PC21|PC21,1168
+Sedgwick|PC23|PC23,346
+Sedgwick|PC31|PC31,1125
+Sedgwick|PC32|PC32,245
+Sedgwick|PC41|PC41,693
+Sedgwick|PC43|PC43,497
+Sedgwick|PC44|PC44,51
+Sedgwick|PC45|PC45,278
+Sedgwick|PY01|PY01,1111
+Sedgwick|RI01|RI01,31
+Sedgwick|RI03|RI03,369
+Sedgwick|RI06|RI06,182
+Sedgwick|RI07|RI07,929
+Sedgwick|RI13|RI13,5
+Sedgwick|RI14|RI14,47
+Sedgwick|RI15|RI15,501
+Sedgwick|RI16|RI16,4
+Sedgwick|RO01|RO01,682
+Sedgwick|RO03|RO03,448
+Sedgwick|RO04|RO04,14
+Sedgwick|SA01|SA01,1564
+Sedgwick|SA02|SA02,775
+Sedgwick|SA03|SA03,56
+Sedgwick|SA04|SA04,36
+Sedgwick|SA05|SA05,377
+Sedgwick|SE|SE,119
+Sedgwick|SH|SH,1421
+Sedgwick|UN01|UN01,1794
+Sedgwick|UN02|UN02,313
+Sedgwick|VA|VA,793
+Sedgwick|VC11|VC11,1210
+Sedgwick|VC21|VC21,1152
+Sedgwick|VC31|VC31,1110
+Sedgwick|VC32|VC32,40
+Sedgwick|VC33|VC33,5
+Sedgwick|VC41|VC41,1196
+Sedgwick|VC42|VC42,333
+Sedgwick|VC44|VC44,14
+Sedgwick|VI|VI,363
+Sedgwick|WA01|WA01,87
+Sedgwick|WA02|WA02,365
+Sedgwick|WA03|WA03,14
+Sedgwick|WA05|WA05,1
+Sedgwick|WA08|WA08,2
+Sedgwick|WA09|WA09,3
+Sedgwick|WA11|WA11,2
+Sedgwick|WA12|WA12,2
+Sedgwick|WA13|WA13,38
+Seward|Fargo Township 1|300001,89
+Seward|Fargo Township 2|300002,59
+Seward|Fargo Township 3|300003,23
+Seward|Fargo Township 4|300004,330
+Seward|Kismet City|200002,217
+Seward|Liberal Township 1|800001,139
+Seward|Liberal Township 2|800002,59
+Seward|Liberal Township 3|800003,86
+Seward|Liberal Township 4|800004,74
+Seward|Liberal Township 5|800005,56
+Seward|Seward Township 1|1200001,40
+Seward|Seward Township 2|1200002,55
+Seward|Seward Township 3|1200003,26
+Seward|Ward 1 Precicnt 1|110001,997
+Seward|Ward 1 Precinct 2|110002,1682
+Seward|Ward 1 Precint 3|110003,1066
+Seward|Ward 2|12,961
+Seward|Ward 3|13,1050
+Seward|Ward 4|14,585
+Seward|Ward 5|15,583
+Seward|Ward 6 Precinct 1|160001,1477
+Seward|Ward 6 Precinct 2|160002,1223
+Shawnee|Aldersgate - Mission|0085,330
+Shawnee|Apache - Soldier|0030,701
+Shawnee|Buffalo - Auburn|0074,668
+Shawnee|Central Mission - Mission|0091,787
+Shawnee|Central Pauline - Topeka|0055,158
+Shawnee|Cheyenne - Tecumseh|0048,749
+Shawnee|City of Auburn - Auburn|0072,776
+Shawnee|Croco - Tecumseh|0017,3
+Shawnee|Cullen - Williamsport|0064,759
+Shawnee|Deer Creek - Topeka|0052,28
+Shawnee|Dover - Dover|0081,552
+Shawnee|East Peck - Tecumseh|0046,441
+Shawnee|East Rossville - Rossville|0001,679
+Shawnee|East Silver Lake - Silver Lake|0009,832
+Shawnee|East Soldier - Soldier|0036,784
+Shawnee|East Wichita - Soldier|0031,1054
+Shawnee|Elmont - Soldier|0033,1081
+Shawnee|Forbes - Williamsport|0062,85
+Shawnee|Fox - Soldier|0032,814
+Shawnee|Gaillardia - Mission|0080,813
+Shawnee|Grove - Grove|0012,555
+Shawnee|Ichabod Washburn - Mission|0083,12
+Shawnee|Indian Hills - Mission|0094,654
+Shawnee|Indianola - Soldier|0029,744
+Shawnee|Iroquois - Soldier|0026,947
+Shawnee|Kaw - Tecumseh|0044,715
+Shawnee|Kilmer - Soldier|0034,220
+Shawnee|Kingston - Williamsport|0066,193
+Shawnee|Kiowa - Tecumseh|0047,980
+Shawnee|Kiro - Menoken|0014,711
+Shawnee|Little Muddy Creek - Soldier|0022,453
+Shawnee|Meadowlark - Auburn|0073,925
+Shawnee|Messhoss Creek - Menoken|0015,534
+Shawnee|Montara - Williamsport|0063,727
+Shawnee|N Central Monmouth - Monmouth|0059,376
+Shawnee|North Mission - Mission|0089,178
+Shawnee|North Tecumseh - Tecumseh|0041,647
+Shawnee|Northeast Monmouth - Monmouth|0057,741
+Shawnee|Northwest Monmouth - Monmouth|0056,540
+Shawnee|Pauline - Topeka|0053,265
+Shawnee|Pawnee - Tecumseh|0043,753
+Shawnee|Peck - Tecumseh|0045,441
+Shawnee|Ponca - Tecumseh|0049,427
+Shawnee|Pottawatomie - Soldier|0039,813
+Shawnee|Rochester - Soldier|0035,705
+Shawnee|Sac - Soldier|0024,821
+Shawnee|Sherman - Soldier|0025,701
+Shawnee|Sherwood - Mission|0092,561
+Shawnee|Sioux - Soldier|0038,635
+Shawnee|South Mission - Mission|0090,500
+Shawnee|South Monmouth - Monmouth|0058,932
+Shawnee|South Sherwood - Mission|0093,584
+Shawnee|South Tecumseh - Tecumseh|0042,587
+Shawnee|Stinson Creek - Tecumseh|0040,269
+Shawnee|Sunflower - Mission|0086,1128
+Shawnee|Urban Hills - Soldier|0021,18
+Shawnee|Vaquero - Mission|0096,454
+Shawnee|Verbena - Mission|0099,113
+Shawnee|Wakarusa - Williamsport|0065,716
+Shawnee|Ward Pct 0101|0101,496
+Shawnee|Ward Pct 0102|0102,485
+Shawnee|Ward Pct 0103|0103,415
+Shawnee|Ward Pct 0104|0104,586
+Shawnee|Ward Pct 0105|0105,842
+Shawnee|Ward Pct 0106|0106,949
+Shawnee|Ward Pct 0107|0107,3
+Shawnee|Ward Pct 0109|0109,2
+Shawnee|Ward Pct 0201|0201,546
+Shawnee|Ward Pct 0202|0202,432
+Shawnee|Ward Pct 0203|0203,437
+Shawnee|Ward Pct 0204|0204,427
+Shawnee|Ward Pct 0205|0205,374
+Shawnee|Ward Pct 0206|0206,495
+Shawnee|Ward Pct 0207|0207,357
+Shawnee|Ward Pct 0208|0208,421
+Shawnee|Ward Pct 0209|0209,553
+Shawnee|Ward Pct 0210|0210,519
+Shawnee|Ward Pct 0211|0211,436
+Shawnee|Ward Pct 0301|0301,512
+Shawnee|Ward Pct 0302|0302,408
+Shawnee|Ward Pct 0303|0303,474
+Shawnee|Ward Pct 0304|0304,469
+Shawnee|Ward Pct 0305|0305,350
+Shawnee|Ward Pct 0306|0306,376
+Shawnee|Ward Pct 0307|0307,532
+Shawnee|Ward Pct 0308|0308,430
+Shawnee|Ward Pct 0309|0309,616
+Shawnee|Ward Pct 0310|0310,61
+Shawnee|Ward Pct 0401|0401,478
+Shawnee|Ward Pct 0402|0402,701
+Shawnee|Ward Pct 0403|0403,399
+Shawnee|Ward Pct 0404|0404,678
+Shawnee|Ward Pct 0406|0406,591
+Shawnee|Ward Pct 0407|0407,370
+Shawnee|Ward Pct 0408|0408,529
+Shawnee|Ward Pct 0409|0409,508
+Shawnee|Ward Pct 0410|0410,540
+Shawnee|Ward Pct 0411|0411,141
+Shawnee|Ward Pct 0414|0414,58
+Shawnee|Ward Pct 0415|0415,327
+Shawnee|Ward Pct 0501|0501,436
+Shawnee|Ward Pct 0502|0502,487
+Shawnee|Ward Pct 0503|0503,451
+Shawnee|Ward Pct 0504|0504,454
+Shawnee|Ward Pct 0505|0505,527
+Shawnee|Ward Pct 0506|0506,447
+Shawnee|Ward Pct 0507|0507,421
+Shawnee|Ward Pct 0508|0508,363
+Shawnee|Ward Pct 0509|0509,685
+Shawnee|Ward Pct 0510|0510,713
+Shawnee|Ward Pct 0511|0511,668
+Shawnee|Ward Pct 0514|0514,431
+Shawnee|Ward Pct 0515|0515,196
+Shawnee|Ward Pct 0591|0591,218
+Shawnee|Ward Pct 0601|0601,481
+Shawnee|Ward Pct 0602|0602,593
+Shawnee|Ward Pct 0603|0603,511
+Shawnee|Ward Pct 0604|0604,636
+Shawnee|Ward Pct 0605|0605,517
+Shawnee|Ward Pct 0606|0606,425
+Shawnee|Ward Pct 0607|0607,413
+Shawnee|Ward Pct 0608|0608,667
+Shawnee|Ward Pct 0609|0609,1411
+Shawnee|Ward Pct 0701|0701,470
+Shawnee|Ward Pct 0702|0702,524
+Shawnee|Ward Pct 0703|0703,549
+Shawnee|Ward Pct 0704|0704,543
+Shawnee|Ward Pct 0705|0705,420
+Shawnee|Ward Pct 0706|0706,403
+Shawnee|Ward Pct 0707|0707,435
+Shawnee|Ward Pct 0709|0709,359
+Shawnee|Ward Pct 0710|0710,426
+Shawnee|Ward Pct 0711|0711,618
+Shawnee|Ward Pct 0801|0801,477
+Shawnee|Ward Pct 0802|0802,494
+Shawnee|Ward Pct 0803|0803,557
+Shawnee|Ward Pct 0804|0804,554
+Shawnee|Ward Pct 0805|0805,739
+Shawnee|Ward Pct 0806|0806,386
+Shawnee|Ward Pct 0807|0807,493
+Shawnee|Ward Pct 0808|0808,428
+Shawnee|Ward Pct 0809|0809,525
+Shawnee|Ward Pct 0810|0810,395
+Shawnee|Ward Pct 0811|0811,573
+Shawnee|Ward Pct 0901|0901,135
+Shawnee|Ward Pct 0902|0902,436
+Shawnee|Ward Pct 0903|0903,702
+Shawnee|Ward Pct 0904|0904,567
+Shawnee|Ward Pct 0905|0905,596
+Shawnee|Ward Pct 0906|0906,624
+Shawnee|Ward Pct 0908|0908,910
+Shawnee|Ward Pct 0909|0909,396
+Shawnee|Ward Pct 0910|0910,861
+Shawnee|Ward Pct 0911|0911,440
+Shawnee|Ward Pct 0912|0912,274
+Shawnee|Ward Pct 1001|1001,564
+Shawnee|Ward Pct 1002|1002,406
+Shawnee|Ward Pct 1003|1003,825
+Shawnee|Ward Pct 1004|1004,535
+Shawnee|Ward Pct 1005|1005,474
+Shawnee|Ward Pct 1006|1006,407
+Shawnee|Ward Pct 1007|1007,529
+Shawnee|Ward Pct 1008|1008,501
+Shawnee|Ward Pct 1009|1009,362
+Shawnee|Ward Pct 1010|1010,554
+Shawnee|Ward Pct 1011|1011,821
+Shawnee|Ward Pct 1013|1013,60
+Shawnee|Ward Pct 1014|1014,570
+Shawnee|Ward Pct 1101|1101,387
+Shawnee|Ward Pct 1102|1102,503
+Shawnee|Ward Pct 1103|1103,443
+Shawnee|Ward Pct 1104|1104,636
+Shawnee|Ward Pct 1105|1105,526
+Shawnee|Ward Pct 1106|1106,545
+Shawnee|Ward Pct 1107|1107,565
+Shawnee|Ward Pct 1108|1108,512
+Shawnee|Ward Pct 1109|1109,570
+Shawnee|Ward Pct 1110|1110,372
+Shawnee|Ward Pct 1201|1201,586
+Shawnee|Ward Pct 1202|1202,526
+Shawnee|Ward Pct 1203|1203,532
+Shawnee|Ward Pct 1204|1204,601
+Shawnee|Ward Pct 1205|1205,508
+Shawnee|Ward Pct 1206|1206,707
+Shawnee|Ward Pct 1207|1207,748
+Shawnee|Ward Pct 1208|1208,615
+Shawnee|Ward Pct 1209|1209,973
+Shawnee|Ward Pct 1211|1211,866
+Shawnee|Ward Pct 1213|1213,586
+Shawnee|Ward Pct 1214|1214,546
+Shawnee|Ward Pct 1215|1215,919
+Shawnee|Ward Pct 1216|1216,1067
+Shawnee|Ward Pct 1217|1217,8
+Shawnee|Ward Pct 1219|1219,114
+Shawnee|Ward Pct 1220|1220,723
+Shawnee|Ward Pct 1231|1231,421
+Shawnee|Ward Pct 1301|1301,2
+Shawnee|Ward Pct 1302|1302,284
+Shawnee|Ward Pct 1305|1305,47
+Shawnee|Ward Pct 1306|1306,203
+Shawnee|Ward Pct 1308|1308,12
+Shawnee|Ward Pct 1309|1309,168
+Shawnee|Ward Pct 1312|1312,974
+Shawnee|Ward Pct 1321|1321,152
+Shawnee|Ward Pct 1322|1322,136
+Shawnee|Ward Pct 1330|1330,358
+Shawnee|Ward Pct 1401|1401,928
+Shawnee|Ward Pct 1402|1402,837
+Shawnee|Ward Pct 1403|1403,449
+Shawnee|Ward Pct 1404|1404,1119
+Shawnee|Ward Pct 1405|1405,504
+Shawnee|Ward Pct 1501|1501,868
+Shawnee|Ward Pct 1502|1502,544
+Shawnee|Ward Pct 1503|1503,75
+Shawnee|Washburn - Mission|0087,830
+Shawnee|West Potter - Topeka|0054,103
+Shawnee|West Rossville - Rossville|0002,554
+Shawnee|West Silver Lake - Silver Lake|0010,542
+Shawnee|West Wichita - Soldier|0028,584
+Shawnee|Whitfield - Soldier|0037,601
+Shawnee|Willard - Dover|0082,502
+Shawnee|York - Mission|0095,672
+Shawnee|York Outer - Mission|0097,72
+Shawnee|Yucca - Mission|0084,256
+Sheridan|Precinct 1101|1101,491
+Sheridan|Precinct 1102|1102,353
+Sheridan|Precinct 2201|2201,147
+Sheridan|Precinct Ad3|AD3,8
+Sheridan|Precinct Bl4|BL4,28
+Sheridan|Precinct Bo5|BO5,26
+Sheridan|Precinct Es9|ES9,39
+Sheridan|Precinct Ke101|KE101,63
+Sheridan|Precinct Ke102|KE102,66
+Sheridan|Precinct Lo6|LO6,72
+Sheridan|Precinct Pa7|PA7,79
+Sheridan|Precinct Pd8|PD8,51
+Sheridan|Precinct Sh201|SH201,55
+Sheridan|Precinct Soc|SOC,135
+Sheridan|Precinct Spd|SPD,63
+Sheridan|Precinct Une|UNE,24
+Sheridan|Precinct Vaf|VAF,80
+Sheridan|Precinct Wsa|WSA,52
+Sherman|Grant Township|51,47
+Sherman|Iowa Township|52,19
+Sherman|Itasca Township|53,220
+Sherman|Kanorado City|25,84
+Sherman|Lincoln Township|54,58
+Sherman|Llanos Township|55,30
+Sherman|Logan Township|56,166
+Sherman|McPherson Township|57,22
+Sherman|Shermanville Township|58,25
+Sherman|Smoky Township|59,51
+Sherman|Stateline Township|60,41
+Sherman|Union Township|61,40
+Sherman|Voltaire Township|62,134
+Sherman|Ward Four|14,846
+Sherman|Ward One|11,812
+Sherman|Ward Three|13,526
+Sherman|Ward Two|12,597
+Sherman|Washington Township|63,60
+Smith|Athol City|1A5201,30
+Smith|Banner Township|BA0201,50
+Smith|Beaver Township|BE0401,34
+Smith|Blaine Township|BL0601,31
+Smith|Cedar City|2C5401,22
+Smith|Cedar Township|CD0801,63
+Smith|Center III Township|CE1003,50
+Smith|Center IV Township|CE1004,83
+Smith|Cora Township|CO1201,22
+Smith|Crystal Plains Township|CP1401,15
+Smith|Dor 110 Township|DO1602,22
+Smith|Dor 237 Township|DO1601,2
+Smith|Dor 392 Township|DO1604,3
+Smith|Garfield 237 Township|GA1801,6
+Smith|Garfield 392 Township|GA1802,23
+Smith|Gaylord City|3G5601,67
+Smith|German Township|GE2001,23
+Smith|Harlan Township|HA2201,61
+Smith|Harvey 110 Township|HV2602,10
+Smith|Harvey 237 Township|HV2601,55
+Smith|Houston 237 Township|HO2401,32
+Smith|Kensington City|4K5801,309
+Smith|Lane 110 Township|LA2802,26
+Smith|Lane 237 Township|LA2801,30
+Smith|Lebanon City I|5L6001,144
+Smith|Lincoln 237 Township|LI3001,2
+Smith|Lincoln 272 Township|LI3002,38
+Smith|Logan Township|LO3201,20
+Smith|Martin 110 Township|MA3402,10
+Smith|Martin 237 Township|MA3401,10
+Smith|Oak Township I|OA3601,58
+Smith|Pawnee Township|PA3801,29
+Smith|Pleasant 110 Township|PL4002,8
+Smith|Pleasant 237 Township|PL4001,17
+Smith|Smith Center City I|6S6201,432
+Smith|Smith Center City II|6S6202,515
+Smith|Smith Center City III|6S6203,257
+Smith|Swan Township|SW4201,24
+Smith|Valley 110 Township (Old 324)|VA4403,3
+Smith|Valley 110 Township|VA4402,41
+Smith|Valley 237 Township|VA4401,3
+Smith|Washington Township|WA4601,38
+Smith|Webster Township|WE4801,42
+Smith|White Rock Township|WR5001,23
+Stafford|Albano 051|051,30
+Stafford|Byron 052|052,40
+Stafford|Clear Creek 053|053,22
+Stafford|Cleveland 054|054,46
+Stafford|Douglas 057|057,85
+Stafford|E Cooper 055|055,33
+Stafford|E St John 003|003,333
+Stafford|Fairview 058|058,58
+Stafford|Farmington 059|059,253
+Stafford|Hayes 060|060,132
+Stafford|Lincoln 061|061,63
+Stafford|N Seward 067|067,102
+Stafford|N Stafford  001|001,331
+Stafford|Ohio 062|062,63
+Stafford|Putnam 063|063,15
+Stafford|Richland 065|065,35
+Stafford|Rose Valley 066|066,36
+Stafford|S Seward 068|068,39
+Stafford|S St John 010|010,185
+Stafford|S Stafford 002|002,318
+Stafford|Union 071|071,16
+Stafford|W Cooper 056|056,48
+Stafford|W St John 004|004,296
+Stafford|York 072|072,33
+Stanton|Big Bow|000,138
+Stanton|Manter|001,152
+Stanton|Stanton|002,756
+Stevens|Banner|Banner,100
+Stevens|Center 1|Center,33
+Stevens|Center 2|Center2,247
+Stevens|Harmony|Harmony,68
+Stevens|Hugoton 1|Hugoton,496
+Stevens|Hugoton 2|Hugoto2,824
+Stevens|Hugoton 3|Hugoto3,901
+Stevens|Moscow|Moscow,357
+Stevens|Pioneer|Pioneer,35
+Stevens|Voorhees|Voorhee,117
+Stevens|West Center|WCenter,101
+Sumner|Argonia City|100,339
+Sumner|Avon Twnshp|A100,234
+Sumner|Belle Plaine City|200,1089
+Sumner|Belle Plaine Twnshp H 79|A200,1235
+Sumner|Belle Plaine Twnshp H 82|A200A,8
+Sumner|Belle Plaine Twnshp H79 Part A|A200B,1
+Sumner|Belle Plaine Twnshp H82 Pt A|A200D,1
+Sumner|Bluff Twnshp|A300,44
+Sumner|Caldwell Twnshp|A400,107
+Sumner|Caldwell Ward 1|310,254
+Sumner|Caldwell Ward 2|320,511
+Sumner|Chikaskia Twnshp|A500,46
+Sumner|Conway Springs (Conway Twnshp)|400,556
+Sumner|Conway Sprngs (Springdale)|1000,242
+Sumner|Conway Twnshp H79|A600,197
+Sumner|Conway Twshp H116|A600A,77
+Sumner|Creek Twnshp|A700,145
+Sumner|Dixon Twnshp|A800,131
+Sumner|Downs Twnshp H79|A900A,80
+Sumner|Downs Twnshp H80|A900,43
+Sumner|Eden Twnshp H79|B100,318
+Sumner|Eden Twshp H116|B100A,27
+Sumner|Falls Twnshp|B200,127
+Sumner|Geuda Springs City|500,98
+Sumner|Gore Twnshp H 79|B300,357
+Sumner|Gore Twnshp H 82|B300A,191
+Sumner|Gore Twp H82-32|B300B,253
+Sumner|Greene Twnshp|B400,58
+Sumner|Guelph Twnshp|B500,123
+Sumner|Harmon Twnshp|B600,239
+Sumner|Hunnewell City|600,44
+Sumner|Illinois Twnshp|B700,127
+Sumner|Jackson Twnshp H79|B800A,22
+Sumner|Jackson Twnshp H80|B800,91
+Sumner|London Twnshp|B900,593
+Sumner|Mayfield City|700,76
+Sumner|Milan City|800,34
+Sumner|Morris Twnshp|C100,22
+Sumner|Mulvane City Exclave A H82|900B,2
+Sumner|Mulvane City Exclave B H79|900A,8
+Sumner|Mulvane City|900,574
+Sumner|Osborne Twnshp|C200,120
+Sumner|Oxford City|1100,783
+Sumner|Oxford Twnshp|C300,179
+Sumner|Palestine Twnshp|C400,145
+Sumner|Ryan Twnshp|C500,64
+Sumner|Seventy-six Twnshp|C600,207
+Sumner|South Haven City|1200,246
+Sumner|South Haven Twnshp|C700,142
+Sumner|Springdale Twnshp|C800,274
+Sumner|Sumner Twnshp|C900,85
+Sumner|Valverde Twnshp H80|D100,91
+Sumner|Walton Twnshp|D200,136
+Sumner|Wellington City 1|1310,2156
+Sumner|Wellington City 2|1320,3311
+Sumner|Wellington Lake Exclave|1330,2
+Sumner|Wellington Twnshp H 80|D300,80
+Sumner|Wellington Twnshp H79|D300D,166
+Sumner|Wellington Twnshp H80 Pt A|D300A,6
+Sumner|Wellington Twnshp H80 Pt B|D300B,1
+Sumner|Wellington Twnshp H80A|D300E,17
+Thomas|Barrett Twp|07,84
+Thomas|Brewster / W Hale|01,263
+Thomas|Colby City|02,3547
+Thomas|East Hale Twp|08,75
+Thomas|East Morgan Twp|10,198
+Thomas|Gem / Lacey Twp|03,104
+Thomas|Kingery Twp|09,58
+Thomas|Menlo|04,50
+Thomas|North Randall Twp|12,50
+Thomas|Oakley|05,187
+Thomas|Rexford City|06,147
+Thomas|Rovohl Twp|13,124
+Thomas|Summers Twp|14,127
+Thomas|Wendell Twp|15,46
+Thomas|West Morgan Twp|11,287
+Trego|Collyer City|2C,62
+Trego|Collyer Township|CO,144
+Trego|East Ogallah Township|E-OG,50
+Trego|Ogallah Township|OG,120
+Trego|South Collyer Township|S-CO,24
+Trego|South Ogallah Township|S-OG,68
+Trego|South WaKeeney Township|S-WA,52
+Trego|WaKeeney City Central|1C,419
+Trego|WaKeeney City East|1E,404
+Trego|WaKeeney City West|1W,440
+Trego|WaKeeney Township|WA,257
+Wabaunsee|Precinct A100001|A100001,291
+Wabaunsee|Precinct Al00001|AL00001,596
+Wabaunsee|Precinct Av00001|AV00001,282
+Wabaunsee|Precinct Es00001|ES00001,316
+Wabaunsee|Precinct F100001|F100001,78
+Wabaunsee|Precinct G100001|G100001,115
+Wabaunsee|Precinct Hv00001|HV00001,136
+Wabaunsee|Precinct K100001|K100001,211
+Wabaunsee|Precinct M100001|M100001,417
+Wabaunsee|Precinct M200001|M200001,188
+Wabaunsee|Precinct M300001|M300001,437
+Wabaunsee|Precinct Mf00001|MF00001,204
+Wabaunsee|Precinct Mh00001|MH00001,437
+Wabaunsee|Precinct N100001|N100001,57
+Wabaunsee|Precinct N100002|N100002,398
+Wabaunsee|Precinct P100001|P100001,283
+Wabaunsee|Precinct Px00002|PX00002,149
+Wabaunsee|Precinct R100001|R100001,36
+Wabaunsee|Precinct W100001|W100001,451
+Wabaunsee|Precinct W200001|W200001,64
+Wabaunsee|Precinct W300001|W300001,126
+Wallace|VTD 000010 - Harrison Twp|HA03001,46
+Wallace|VTD 000020 - Sharon Springs P1|1S01001,234
+Wallace|VTD 000020 - SS Twp P3|SS01003,36
+Wallace|VTD 000030 - Sharon Springs P2|1S01002,326
+Wallace|VTD 000030 - SS Twp P4|SS01004,124
+Wallace|VTD 000040 - Wallace City|2W02001,37
+Wallace|VTD 000040 - Wallace Twp|WA02002,82
+Wallace|VTD 000050 - Weskan Twp|WE04001,253
+Washington|Barnes City|1101,80
+Washington|Barnes Precinct|BA101,35
+Washington|Brantford Precinct|BFM,60
+Washington|Charleston Precinct|CHG,48
+Washington|Clifton City|2201,178
+Washington|Clifton Precinct|CL201,69
+Washington|Coleman Precinct|COI,44
+Washington|Farmington Precinct|FMF,107
+Washington|Franklin Precinct|FR601,60
+Washington|Grant Precinct|GRH,29
+Washington|Greenleaf City|3301,158
+Washington|Greenleaf Precinct|GL301,58
+Washington|Haddam City|4401,58
+Washington|Haddam Precinct|HD401,41
+Washington|Hanover City|5501,430
+Washington|Hanover Precinct|HN501,162
+Washington|Highland Precinct|HLD,16
+Washington|Hollenberg City|6601,12
+Washington|Independence Precinct|INE,76
+Washington|Kimeo Precinct|KMQ,39
+Washington|Lincoln Precinct|LCR,31
+Washington|Linn City|7701,197
+Washington|Linn Precinct|LN701,94
+Washington|Little Blue Precinct|LBL,49
+Washington|Logan Precinct|LGK,83
+Washington|Lowe Precinct|LOC,46
+Washington|Mahaska City|8801,40
+Washington|Mill Creek Precinct|MC901,52
+Washington|Morrowville City|9901,83
+Washington|Palmer City|10A01,88
+Washington|Sheridan Precinct|SHP,69
+Washington|Sherman Precinct|SRA01,105
+Washington|Strawberry Precinct|SBN,82
+Washington|Union Precinct|UN801,15
+Washington|Vining City|11201,2
+Washington|Washington City Precinct|12B,650
+Washington|Washington Precinct|WAJ,144
+Wichita|Precinct 1l101|1L101,406
+Wichita|Precinct 1l201|1L201,490
+Wichita|Precinct Le102|LE102,84
+Wichita|Precinct Le202|LE202,104
+Wichita|Precinct Le302|LE302,299
+Wilson|Altoona City|1000,162
+Wilson|Benedict City|2000,39
+Wilson|Buffalo City|3000,120
+Wilson|Cedar TWP|CD000,126
+Wilson|Center TWP|CN000,326
+Wilson|Chetopa TWP|CH000,100
+Wilson|Clifton TWP|CL000,81
+Wilson|Colfax TWP|CX000,290
+Wilson|Coyville City|4000,32
+Wilson|Duck Creek TWP|DC000,39
+Wilson|Fall River TWP|FR000,183
+Wilson|Fredonia Ward 1|5100,288
+Wilson|Fredonia Ward 2|5200,130
+Wilson|Fredonia Ward 3|5300,137
+Wilson|Fredonia Ward 4|5400,548
+Wilson|Guilford TWP|GU000,65
+Wilson|Neodesha TWP|NT000,314
+Wilson|Neodesha Ward 1|6100,289
+Wilson|Neodesha Ward 2|6200,239
+Wilson|Neodesha Ward 3|6300,224
+Wilson|Neodesha Ward 4|6400,471
+Wilson|New Albany City|7000,27
+Wilson|Newark TWP|NW000,154
+Wilson|Pleasant Valley TWP|PV000,148
+Wilson|Prairie TWP|PR000,83
+Wilson|Talleyrand TWP|TY000,94
+Wilson|Verdigris TWP|VE000,111
+Wilson|Webster TWP|WB000,20
+Woodson|Center Twp|A140000,446
+Woodson|Liberty Twp|A250000,109
+Woodson|NF City|1N10001,73
+Woodson|NF Twp/Piqua|A380000,166
+Woodson|NF Twp|A310002,31
+Woodson|North Twp|A460000,42
+Woodson|Perry Twp|A570000,72
+Woodson|Toronto City|2T20001,171
+Woodson|Toronto Twp|A620002,198
+Woodson|YC #1|3Y30001,484
+Woodson|YC #2|3Y30002,403
+Wyandotte|BS01-01|BS01-01,1219
+Wyandotte|BS02-01|BS02-01,1050
+Wyandotte|BS03-01|BS03-01,1296
+Wyandotte|BS04-01|BS04-01,1624
+Wyandotte|DW01-01|DW01-01,31
+Wyandotte|ED01-01|ED01-01,2580
+Wyandotte|ED02-01|ED02-01,403
+Wyandotte|ED02-02|ED02-02,9
+Wyandotte|KC01-01|KC01-01,326
+Wyandotte|KC01-02|KC01-02,349
+Wyandotte|KC01-03|KC01-03,237
+Wyandotte|KC02-01|KC02-01,483
+Wyandotte|KC02-02|KC02-02,363
+Wyandotte|KC02-03|KC02-03,86
+Wyandotte|KC02-04|KC02-04,466
+Wyandotte|KC02-05|KC02-05,653
+Wyandotte|KC02-06|KC02-06,25
+Wyandotte|KC02-07|KC02-07,1
+Wyandotte|KC03-01|KC03-01,925
+Wyandotte|KC03-02|KC03-02,932
+Wyandotte|KC03-03|KC03-03,182
+Wyandotte|KC03-04|KC03-04,661
+Wyandotte|KC03-05|KC03-05,48
+Wyandotte|KC04-01|KC04-01,829
+Wyandotte|KC04-02|KC04-02,342
+Wyandotte|KC04-03|KC04-03,594
+Wyandotte|KC04-04|KC04-04,957
+Wyandotte|KC05-01|KC05-01,940
+Wyandotte|KC05-02|KC05-02,489
+Wyandotte|KC05-03|KC05-03,462
+Wyandotte|KC05-04|KC05-04,515
+Wyandotte|KC05-05|KC05-05,520
+Wyandotte|KC06-01|KC06-01,612
+Wyandotte|KC06-02|KC06-02,246
+Wyandotte|KC07-01|KC07-01,542
+Wyandotte|KC07-02|KC07-02,464
+Wyandotte|KC07-03|KC07-03,609
+Wyandotte|KC07-04|KC07-04,948
+Wyandotte|KC07-05|KC07-05,219
+Wyandotte|KC07-06|KC07-06,1122
+Wyandotte|KC07-07|KC07-07,493
+Wyandotte|KC07-08|KC07-08,902
+Wyandotte|KC07-09|KC07-09,1156
+Wyandotte|KC07-10|KC07-10,588
+Wyandotte|KC07-11|KC07-11,16
+Wyandotte|KC08-01|KC08-01,938
+Wyandotte|KC08-02|KC08-02,872
+Wyandotte|KC08-03|KC08-03,1166
+Wyandotte|KC08-04|KC08-04,1110
+Wyandotte|KC09-01|KC09-01,170
+Wyandotte|KC09-02|KC09-02,858
+Wyandotte|KC09-03|KC09-03,1712
+Wyandotte|KC09-04|KC09-04,200
+Wyandotte|KC09-05|KC09-05,75
+Wyandotte|KC09-06|KC09-06,1025
+Wyandotte|KC09-07|KC09-07,890
+Wyandotte|KC09-08|KC09-08,476
+Wyandotte|KC09-09|KC09-09,355
+Wyandotte|KC09-10|KC09-10,842
+Wyandotte|KC09-11|KC09-11,55
+Wyandotte|KC09-12|KC09-12,961
+Wyandotte|KC09-13|KC09-13,659
+Wyandotte|KC09-14|KC09-14,817
+Wyandotte|KC09-15|KC09-15,2
+Wyandotte|KC09-16|KC09-16,2185
+Wyandotte|KC09-17|KC09-17,8
+Wyandotte|KC09-18|KC09-18,171
+Wyandotte|KC09-19|KC09-19,42
+Wyandotte|KC09-21|KC09-21,68
+Wyandotte|KC09-22|KC09-22,128
+Wyandotte|KC09-23|KC09-23,78
+Wyandotte|KC09-24|KC09-24,39
+Wyandotte|KC09-25|KC09-25,1128
+Wyandotte|KC10-01|KC10-01,877
+Wyandotte|KC10-02|KC10-02,840
+Wyandotte|KC10-03|KC10-03,63
+Wyandotte|KC10-04|KC10-04,613
+Wyandotte|KC10-05|KC10-05,994
+Wyandotte|KC10-06|KC10-06,337
+Wyandotte|KC10-07|KC10-07,232
+Wyandotte|KC11-01|KC11-01,939
+Wyandotte|KC11-02|KC11-02,835
+Wyandotte|KC11-03|KC11-03,1049
+Wyandotte|KC11-04|KC11-04,964
+Wyandotte|KC11-05|KC11-05,1128
+Wyandotte|KC11-06|KC11-06,768
+Wyandotte|KC11-07|KC11-07,605
+Wyandotte|KC11-08|KC11-08,998
+Wyandotte|KC11-09|KC11-09,507
+Wyandotte|KC11-10|KC11-10,696
+Wyandotte|KC11-11|KC11-11,872
+Wyandotte|KC11-12|KC11-12,263
+Wyandotte|KC11-13|KC11-13,155
+Wyandotte|KC11-14|KC11-14,276
+Wyandotte|KC11-15|KC11-15,298
+Wyandotte|KC11-16|KC11-16,95
+Wyandotte|KC11-17|KC11-17,18
+Wyandotte|KC12-01|KC12-01,972
+Wyandotte|KC12-02|KC12-02,732
+Wyandotte|KC12-03|KC12-03,1010
+Wyandotte|KC12-04|KC12-04,981
+Wyandotte|KC12-05|KC12-05,478
+Wyandotte|KC12-06|KC12-06,894
+Wyandotte|KC12-07|KC12-07,949
+Wyandotte|KC12-08|KC12-08,620
+Wyandotte|KC12-09|KC12-09,124
+Wyandotte|KC12-10|KC12-10,164
+Wyandotte|KC12-11|KC12-11,348
+Wyandotte|KC12-12|KC12-12,386
+Wyandotte|KC12-13|KC12-13,694
+Wyandotte|KC12-14|KC12-14,312
+Wyandotte|KC12-15|KC12-15,82
+Wyandotte|KC12-16|KC12-16,321
+Wyandotte|KC13-01|KC13-01,1017
+Wyandotte|KC13-02|KC13-02,840
+Wyandotte|KC13-03|KC13-03,482
+Wyandotte|KC13-04|KC13-04,459
+Wyandotte|KC13-05|KC13-05,133
+Wyandotte|KC13-06|KC13-06,225
+Wyandotte|KC13-07|KC13-07,546
+Wyandotte|KC13-08|KC13-08,657
+Wyandotte|KC13-09|KC13-09,884
+Wyandotte|KC13-10|KC13-10,89
+Wyandotte|KC13-11|KC13-11,724
+Wyandotte|KC13-12|KC13-12,612
+Wyandotte|KC13-13|KC13-13,283
+Wyandotte|KC14-01|KC14-01,923
+Wyandotte|KC14-02|KC14-02,465
+Wyandotte|KC14-03|KC14-03,425
+Wyandotte|KC14-04|KC14-04,796
+Wyandotte|KC14-05|KC14-05,742
+Wyandotte|KC14-06|KC14-06,923
+Wyandotte|KC14-07|KC14-07,1194
+Wyandotte|KC14-08|KC14-08,913
+Wyandotte|KC14-09|KC14-09,508
+Wyandotte|KC14-10|KC14-10,1744
+Wyandotte|KC14-11|KC14-11,879
+Wyandotte|KC14-12|KC14-12,1774
+Wyandotte|KC14-13|KC14-13,1216
+Wyandotte|KC14-14|KC14-14,1930
+Wyandotte|KC14-15|KC14-15,845
+Wyandotte|KC14-16|KC14-16,467
+Wyandotte|KC14-17|KC14-17,929
+Wyandotte|QC01-01|QC01-01,38
