@@ -1,0 +1,227 @@
+---
+output:
+  powerpoint_presentation:
+    toc:            TRUE
+    toc_depth:      1       
+    reference_doc:  efg-2023-12-19.pptx
+    slide_level:    2
+params:  
+  NAME:      "Kansas"           # "Johnson"  "Congress"   "Kansas"
+  DISTRICT:  "Statewide"        # "County    "KS-03"      "Statewide"
+  ABBR:      "Kansas"           # "JO"       "KS-03"      "Kansas"
+  
+title:     "`r paste(params$NAME, params$DISTRICT)`"
+subtitle:  "Voter Registration and Turnout Curves"
+author:
+  - efg
+  - 2024-01-20
+---
+
+```{r setup, include = FALSE, echo = FALSE}
+knitr::opts_chunk$set(
+                       echo    = FALSE,
+                       message = FALSE,
+                       warning = FALSE
+                     )
+
+library(stringr)   # str_sub
+
+makeVoterRegFilename <- function(DIR_DATE, ABBR, NAME, DISTRICT, YEAR)
+{
+  paste0("C:/Data/Kansas/RawData/Yearly-Voter-Registration-",
+         DIR_DATE, "/",
+         NAME,     "-", DISTRICT, "/",
+         ABBR,
+         "-Cumulative-Registration-by-Party-",
+         YEAR,
+         ".png")
+}
+
+makeTurnoutFilename <- function(NAME, DISTRICT, ElectionDate)
+{
+  if (NAME == "Congress")
+  {
+    filename <-
+        paste0("K:/Election-Integrity/Kansas-Normalized-Fraction-of-Voters/",
+               NAME,          "/",
+               ElectionDate,  "/",
+               NAME,          "-",
+               str_sub(DISTRICT, -1, -1), "/",
+               ElectionDate,  "-",
+               NAME,          "-",
+               str_sub(DISTRICT, -1, -1), "-",
+               "RegisteredActiveVotedByParty-1.png")
+  } else {
+  
+  
+    if (DISTRICT == "Statewide")
+    {
+        filename <-
+        paste0("K:/Election-Integrity/Kansas-Normalized-Fraction-of-Voters/",
+               DISTRICT,      "/",
+               ElectionDate,  "/",
+               ElectionDate,  "-",
+               "RegisteredActiveVotedByParty-1.png")
+    } else {
+      filename <-
+        paste0("K:/Election-Integrity/Kansas-Normalized-Fraction-of-Voters/",
+               DISTRICT,      "/",
+               ElectionDate,  "/",
+               NAME,          "/",
+               ElectionDate,  "-",
+               NAME,  "-",
+               "RegisteredActiveVotedByParty-1.png")
+    }
+    
+  }
+  
+  filename
+}
+```
+                  
+# New Voter Registration 2016-2023
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2016")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2016), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2017")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2017), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2018")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2018), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2019")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2019), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2020")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2020), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2021")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2021), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2022")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2023-08-07", params$ABBR, params$NAME, params$DISTRICT, 2022), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "2023")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeVoterRegFilename("2024-01-19", params$ABBR, params$NAME, params$DISTRICT, 2023), rel_path = FALSE)
+```           
+
+
+```{r, results = "asis"}
+cat("##", params$NAME, params$DISTRICT, "Voter Registration 2012-2023")
+```
+
+```{r, echo = FALSE}
+filename <- paste0("C:/Data/Kansas/RawData/Yearly-Voter-Registration-Summaries/",
+                    params$NAME,      "-",
+                    params$DISTRICT,  "/",
+                    params$ABBR,      "-",
+                    "Party-All-1.png")
+knitr::include_graphics(filename, rel_path = FALSE)
+```                                                         
+
+
+# Election Turnout Curves November General By Party 2016 - 2022
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Nov. 2016")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2016-11-08"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Nov. 2018")
+```
+```{r}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2018-11-06"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Nov. 2020")
+```
+```{r}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2020-11-03"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Nov. 2022")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2022-11-08"), rel_path = FALSE)
+```
+
+
+# Election Turnout Curves August Primary By Party 2016 - 2022
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Aug. 2016")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2016-08-02"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Aug. 2018")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2018-08-07"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Aug. 2020")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2020-08-04"), rel_path = FALSE)
+```
+
+```{r, results = "asis"}
+cat("##", params$ABBR, "Aug. 2022")
+```
+```{r, echo = FALSE}
+knitr::include_graphics(makeTurnoutFilename(params$NAME, params$DISTRICT, "2022-08-02"), rel_path = FALSE)
+```
+
+## Questions?
+
+ Earl F Glynn
+
+ efglynn@gmail.com    
+ 
+::: notes
+Slide deck created programatically on `r format(Sys.time(), "%Y-%m-%d %H%M")`
+:::
+
+
+

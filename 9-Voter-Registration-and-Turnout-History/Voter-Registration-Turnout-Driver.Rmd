@@ -1,0 +1,176 @@
+---
+title:  "Voter Registration and Turnout Curves"
+author: "Earl F Glynn<br><small>watchdoglab.substack.com</small>"
+date: "<small>`r Sys.Date()`</small>"
+output:
+  html_document:
+    code_download: true
+    theme: cerulean
+    toc: yes
+    toc_depth:  3
+    toc_float:
+      collapsed:  yes
+      smooth_scroll: yes
+    number_sections: yes
+    code_folding:  show
+---
+
+```{r setup, echo = FALSE}
+# http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHtmlTemplate
+require(Hmisc)    # provides knitrSet and other functions
+knitrSet(lang = 'markdown',   # If using blogdown: knitrSet(lang='blogdown')
+         fig.align = 'left',
+         w = 6.5,
+         h = 4.5,
+         cache = FALSE)
+```
+
+`r hidingTOC(buttonLabel = "Outline")`
+
+```{r setup2, include = FALSE}
+knitr::opts_chunk$set(
+  echo    = TRUE,
+  comment = NA)
+
+time.1 <- Sys.time()
+```
+
+# Setup {.tabset .tabset-fade .tabset-pills}
+
+##  {.active}
+
+```{r}
+options(knitr.duplicate.label = "allow")
+```
+
+
+## Packages
+
+
+```{r}
+library(tidyverse)
+
+library(readxl)       # read_xlsx
+library(writexl)      # write_xlsx
+
+library(kableExtra)
+
+
+```
+
+## Helper function
+
+```{r}
+Show <- function(data, caption = "", bigMark = "", ...)
+{
+  data                                            %>%
+  kable("html", caption = caption,
+        format.args = list(big.mark = bigMark))   %>%
+  kable_styling(bootstrap_options = c("striped", "bordered", "condensed"),
+                position = "left",
+                full_width = FALSE, ...)
+}
+```
+
+# Create PowerPoint for review
+
+```{r}
+renderPowerPoint <- function(NAME, DISTRICT, ABBR, FOLDER, OUTNAME)
+{
+  TARGET_DIR <- paste0("C:/Data/Kansas/RawData/Voter-Registration-and-Turnout-Curves-2024-01-20/", FOLDER, "/") 
+                     
+  
+  rmarkdown::render("Voter-Registration-Turnout-Template.Rmd",
+                     output_file = OUTNAME,
+                     output_dir  = TARGET_DIR,
+                     quiet       = TRUE,
+                     params = list(
+                                    NAME     = NAME,
+                                    DISTRICT = DISTRICT,
+                                    ABBR     = ABBR
+                                   )
+                   )
+}
+```
+
+## Statewide
+
+```{r}
+FOLDER <- "Kansas-Statewide"
+
+NAME      <- "Kansas"
+DISTRICT  <- "Statewide"
+ABBR      <- "Kansas"
+
+OUTNAME   <- "Kansas-Statewide-Registration-and-Turnout.pptx"
+
+renderPowerPoint(NAME, DISTRICT, ABBR, FOLDER, OUTNAME)
+```
+  
+## By County
+
+```{r}
+KansasCounty <- 
+  read_xlsx("County-Info.xlsx") |>
+  filter(Tag == 1)
+
+nrow(KansasCounty)
+```
+
+```{r}
+FOLDER   <- "County"
+DISTRICT <- "County"
+
+for (countyIndex in 1:nrow(KansasCounty))
+{
+  NAME    <- KansasCounty$County[countyIndex]
+  ABBR    <- KansasCounty$CountyAbbr[countyIndex]
+  
+  OUTNAME <- paste0(NAME, "-County-Registration-and-Turnout.pptx")
+ 
+  renderPowerPoint(NAME, DISTRICT, ABBR, FOLDER, OUTNAME)
+}
+
+```
+
+## By Congressional District
+
+```{r}
+FOLDER <- "Congress"
+NAME   <- "Congress"
+
+for (district in 1:4)
+{
+  
+  DISTRICT  <-paste0("KS-0",district)
+  ABBR      <-DISTRICT
+  
+  OUTNAME   <- paste0("Congress-", DISTRICT, "-Registration-and-Turnout.pptx")
+ 
+  renderPowerPoint(NAME, DISTRICT, ABBR, FOLDER, OUTNAME)
+}
+```
+
+# Fini {.tabset .tabset-fade .tabset-pills}
+
+## {.active}
+
+## Session Info
+
+```{r epilogSessionInfo}
+devtools::session_info()
+```
+
+</div>
+
+```{r, echo=FALSE}
+time.2 <- Sys.time()
+processingTime <- paste("Processing time:",
+                        sprintf("%.1f",
+                                as.numeric(difftime(time.2, time.1,
+                                                    units="secs"))), "secs\n")
+```
+
+`r processingTime`
+
+`r format(Sys.time(), "%Y-%m-%d %H:%M")`
